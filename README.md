@@ -25,3 +25,6 @@ they had been corrupted. After that, everything worked as expected.
     https://www.ebi.ac.uk/gwas/efotraits/MONDO_0004975  
     Open  
     Renamed to: ad_gwas.tsv
+
+### Module 3
+Everything worked well
