@@ -1,0 +1,5 @@
+gene,variant,note,score,percentile_in_protein
+TP53,Y220C,"hotspot, druggable crevice",-3.8,33.4
+APOE,C130R,"rs429358, defines e4 (C112R mature)",7.21,100.0
+APOE,R176C,"rs7412, defines e2 (R158C mature)",-8.56,11.8
+TREM2,R47H,"rs75932628, AD risk variant",-5.16,47.7

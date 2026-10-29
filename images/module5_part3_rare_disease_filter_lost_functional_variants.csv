@@ -1,0 +1,14 @@
+rsid,consequence,clinvar_sig,label,gnomad_af
+rs7902257,upstream_gene_variant,drug response,other,0.0221326
+rs28399504,start_lost,drug response,other,0.00237904
+rs4986893,stop_gained,drug response,other,0.00250566
+rs4244285,synonymous_variant,drug response,other,0.167953
+rs17882687,missense_variant,drug response,other,0.00573277
+rs17879685,missense_variant,drug response,other,0.00459633
+rs17884712,missense_variant,drug response,other,0.00356969
+rs17878739,upstream_gene_variant,drug response,other,0.00553489
+rs12769205,intron_variant,drug response,other,0.173336
+rs111490789,upstream_gene_variant,drug response,other,0.00555132
+rs12777823,intergenic_region,drug response,other,0.190437
+rs113164681,upstream_gene_variant,drug response,other,0.00552595
+rs58973490,missense_variant,drug response,other,0.00288561

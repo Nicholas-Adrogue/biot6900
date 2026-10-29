@@ -1,0 +1,3 @@
+rsid,consequence,clinvar_sig,label,gnomad_af
+rs17885098,synonymous_variant,Benign,B/LB,0.919465
+rs3758581,missense_variant,Benign,B/LB,0.95225

@@ -1,0 +1,6 @@
+metric,value
+RNA genes,27130
+protein genes,9028
+GWAS genes,3148
+genes after 3-way join,819
+sign-concordant genes,526

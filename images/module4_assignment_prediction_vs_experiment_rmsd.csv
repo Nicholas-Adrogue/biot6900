@@ -1,0 +1,3 @@
+gene,pdb_id,rmsd_confident,pairs_used
+APOE,1GS9,0.77,134
+HCN1,8Y60,1.35,459

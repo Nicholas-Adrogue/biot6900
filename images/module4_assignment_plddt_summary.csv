@@ -1,0 +1,3 @@
+gene,residues,mean_pLDDT,pct_above_90,pct_below_50,disordered_stretches
+APOE,317,75.5,31.9,16.1,"1-29, 31-40"
+HCN1,890,68.9,39.0,37.9,"1-85, 637-857, 863-890"

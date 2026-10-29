@@ -1,0 +1,6 @@
+ancestry,n,mean_prs,pct_above_top10_cutoff
+EUR,500,0.036,7.8
+AFR,500,0.744,28.0
+EAS,500,-0.472,2.2
+SAS,489,-0.245,4.3
+AMR,347,-0.099,6.3

@@ -1,0 +1,4 @@
+gene,start,end,confident_residues
+APOE,42,208,159
+APOE,226,303,75
+HCN1,92,634,531

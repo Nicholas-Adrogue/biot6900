@@ -1,0 +1,13 @@
+item,value
+source,REAL
+people,2336
+score variants,22
+n_AFR,500
+n_EAS,500
+n_EUR,500
+n_SAS,489
+n_AMR,347
+sha256_genotypes.csv,9cf41a1f
+sha256_variants.csv,f7a87d3f
+sha256_score.csv,7f80e8ff
+sha256_meta.csv,6cc55b6e

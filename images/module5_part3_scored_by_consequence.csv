@@ -1,0 +1,10 @@
+consequence,n,cadd_phred,revel,alphamissense
+missense_variant,54,53,53,54
+synonymous_variant,7,6,0,0
+upstream_gene_variant,5,4,0,0
+intergenic_region,1,1,0,0
+intron_variant,1,1,0,0
+splice_donor_variant,1,0,0,0
+start_lost,1,1,1,0
+stop_gained,1,1,0,0
+stop_lost,1,1,0,0
