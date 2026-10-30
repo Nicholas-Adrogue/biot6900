@@ -1,0 +1,83 @@
+name,kind,xref,source,ensembl,gwas_p,rna_lfc,prot_lfc,druggability,status,age,apoe_genotype,prs_percentile,ancestry
+Alzheimer's disease,disease,MONDO:0004975; OMIM:104300,Mondo [Vasilevsky 2022]; OMIM [Amberger 2019],,,,,,,,,,
+HCN1,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000164588,4e-13,-0.82,-0.3,0.879,,,,,
+SHANK2,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000162105,1e-30,-0.52,-0.24,0.337,,,,,
+SLC30A3,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000115194,2e-11,-1.67,-0.3,0.414,,,,,
+SAMHD1,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000101347,2e-36,0.71,0.18,0.83,,,,,
+RPH3A,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000089169,9e-11,-1.63,-0.5,0.093,,,,,
+APOE,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000130203,1e-300,-0.39,0.71,0.016,,,,,
+GMPR,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000137198,8e-11,0.57,0.57,0.192,,,,,
+SPEN,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000065526,2e-30,0.33,0.33,0.118,,,,,
+MAVS,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000088888,5e-15,0.51,0.33,0.022,,,,,
+CLU,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000120885,1e-47,-0.31,0.38,0.128,,,,,
+BSN,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000164061,2e-20,-0.4,-0.19,0.062,,,,,
+CABP1,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000157782,2e-15,-0.88,-0.16,0.027,,,,,
+KALRN,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000160145,4e-11,-0.53,-0.21,0.073,,,,,
+APP,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000142192,2e-14,-0.27,1.09,0.048,,,,,
+TMEM59L,gene,,gwas_p: GWAS Catalog [Sollis 2023]; rna_lfc: GSE104704 [Nativio 2018]; prot_lfc: syn12269876 [Ping 2018]; druggability: Module 3 tractability model [ESM C 2024; Lin 2023; Buniello 2025]; ensembl: MyGene.info [Xin 2016],ENSG00000105696,3e-09,-0.62,-0.34,0.008,,,,,
+Dementia,phenotype,HP:0000726,HPO phenotype.hpoa [Gargano 2024],,,,,,,,,,
+Memory impairment,phenotype,HP:0002354,HPO phenotype.hpoa [Gargano 2024],,,,,,,,,,
+Cognitive impairment,phenotype,HP:0100543,HPO phenotype.hpoa [Gargano 2024],,,,,,,,,,
+Neurofibrillary tangles,phenotype,HP:0002185,HPO phenotype.hpoa [Gargano 2024],,,,,,,,,,
+Senile plaques,phenotype,HP:0100256,HPO phenotype.hpoa [Gargano 2024],,,,,,,,,,
+Cerebral cortical atrophy,phenotype,HP:0002120,HPO phenotype.hpoa [Gargano 2024],,,,,,,,,,
+Cerebral amyloid angiopathy,phenotype,HP:0011970,HPO phenotype.hpoa [Gargano 2024],,,,,,,,,,
+Seizure,phenotype,HP:0001250,HPO phenotype.hpoa [Gargano 2024],,,,,,,,,,
+Dystonia,phenotype,HP:0001332,HPO phenotype.hpoa [Gargano 2024],,,,,,,,,,
+Gait disturbance,phenotype,HP:0001288,HPO phenotype.hpoa [Gargano 2024],,,,,,,,,,
+Parkinsonism,phenotype,HP:0001300,HPO phenotype.hpoa [Gargano 2024],,,,,,,,,,
+Neuronal System,pathway,R-HSA-112316,"Reactome ContentService, UniProt -> pathway incl. parent pathways [Milacic 2024]",,,,,,,,,,
+Potassium Channels,pathway,R-HSA-1296071,"Reactome ContentService, UniProt -> pathway incl. parent pathways [Milacic 2024]",,,,,,,,,,
+Interferon Signaling,pathway,R-HSA-913531,"Reactome ContentService, UniProt -> pathway incl. parent pathways [Milacic 2024]",,,,,,,,,,
+Innate Immune System,pathway,R-HSA-168249,"Reactome ContentService, UniProt -> pathway incl. parent pathways [Milacic 2024]",,,,,,,,,,
+Amyloid fiber formation,pathway,R-HSA-977225,"Reactome ContentService, UniProt -> pathway incl. parent pathways [Milacic 2024]",,,,,,,,,,
+Metabolism of nucleotides,pathway,R-HSA-15869,"Reactome ContentService, UniProt -> pathway incl. parent pathways [Milacic 2024]",,,,,,,,,,
+Signaling by Rho GTPases,pathway,R-HSA-194315,"Reactome ContentService, UniProt -> pathway incl. parent pathways [Milacic 2024]",,,,,,,,,,
+Transport of small molecules,pathway,R-HSA-382551,"Reactome ContentService, UniProt -> pathway incl. parent pathways [Milacic 2024]",,,,,,,,,,
+Sensory processing of sound,pathway,R-HSA-9659379,"Reactome ContentService, UniProt -> pathway incl. parent pathways [Milacic 2024]",,,,,,,,,,
+Aducanumab,drug,CHEMBL3039540,Open Targets drugAndClinicalCandidates [Buniello 2025]; ChEMBL [Zdrazil 2024],,,,,,approved,,,,
+Lecanemab,drug,CHEMBL3833321,Open Targets drugAndClinicalCandidates [Buniello 2025]; ChEMBL [Zdrazil 2024],,,,,,approved,,,,
+Donanemab,drug,CHEMBL4297245,Open Targets drugAndClinicalCandidates [Buniello 2025]; ChEMBL [Zdrazil 2024],,,,,,approved,,,,
+Custirsen,drug,CHEMBL2108309,Open Targets drugAndClinicalCandidates [Buniello 2025]; ChEMBL [Zdrazil 2024],,,,,,phase 3 (cancer),,,,
+Ivabradine,drug,CHEMBL471737,Open Targets drugAndClinicalCandidates [Buniello 2025]; ChEMBL [Zdrazil 2024],,,,,,approved (heart; HCN blocker),,,,
+rs429358,variant,rs429358,"GWAS Catalog MONDO_0004975, data/ad_gwas.tsv (Module 2) [Sollis 2023]",,,,,,,,,,
+rs7412,variant,rs7412,"GWAS Catalog MONDO_0004975, data/ad_gwas.tsv (Module 2) [Sollis 2023]",,,,,,,,,,
+rs1532276,variant,rs1532276,"GWAS Catalog MONDO_0004975, data/ad_gwas.tsv (Module 2) [Sollis 2023]",,,,,,,,,,
+rs2154481,variant,rs2154481,"GWAS Catalog MONDO_0004975, data/ad_gwas.tsv (Module 2) [Sollis 2023]",,,,,,,,,,
+rs55821517,variant,rs55821517,"GWAS Catalog MONDO_0004975, data/ad_gwas.tsv (Module 2) [Sollis 2023]",,,,,,,,,,
+rs1555074574,variant,rs1555074574,"GWAS Catalog MONDO_0004975, data/ad_gwas.tsv (Module 2) [Sollis 2023]",,,,,,,,,,
+rs1376535353,variant,rs1376535353,"GWAS Catalog MONDO_0004975, data/ad_gwas.tsv (Module 2) [Sollis 2023]",,,,,,,,,,
+rs7614725,variant,rs7614725,"GWAS Catalog MONDO_0004975, data/ad_gwas.tsv (Module 2) [Sollis 2023]",,,,,,,,,,
+rs4238032,variant,rs4238032,"GWAS Catalog MONDO_0004975, data/ad_gwas.tsv (Module 2) [Sollis 2023]",,,,,,,,,,
+Developmental and epileptic encephalopathy,disease,MONDO:0100620,HPO genes_to_disease [Gargano 2024]; Open Targets [Buniello 2025],,,,,,,,,,
+KCNQ2,gene,,drug target added via Open Targets [Buniello 2025]; ensembl from Open Targets; gwas_p/rna_lfc/prot_lfc from my Module 2 files where present,ENSG00000075043,4e-09,-0.28,-0.21,,,,,,
+KCNQ3,gene,,drug target added via Open Targets [Buniello 2025]; ensembl from Open Targets; gwas_p/rna_lfc/prot_lfc from my Module 2 files where present,ENSG00000184156,6e-06,-0.53,-0.09,,,,,,
+CYP46A1,gene,,drug target added via Open Targets [Buniello 2025]; ensembl from Open Targets; gwas_p/rna_lfc/prot_lfc from my Module 2 files where present,ENSG00000036530,,,,,,,,,
+Ezogabine,drug,CHEMBL41355,Open Targets drugAndClinicalCandidates [Buniello 2025]; ChEMBL [Zdrazil 2024],,,,,,phase 3,,,,
+Soticlestat,drug,CHEMBL4298172,Open Targets drugAndClinicalCandidates [Buniello 2025]; ChEMBL [Zdrazil 2024],,,,,,phase 2,,,,
+Aicardi-Goutieres syndrome,disease,ORPHA:51; OMIM:612952 (AGS5); MONDO:0018866,HPO genes_to_disease [Gargano 2024]; Open Targets [Buniello 2025],,,,,,,,,,
+JAK1,gene,,drug target added via Open Targets [Buniello 2025]; ensembl from Open Targets; gwas_p/rna_lfc/prot_lfc from my Module 2 files where present,ENSG00000162434,,,,,,,,,
+Baricitinib,drug,CHEMBL2105759,Open Targets drugAndClinicalCandidates [Buniello 2025]; ChEMBL [Zdrazil 2024],,,,,,phase 2/3,,,,
+"Cerebral amyloid angiopathy, APP-related",disease,OMIM:605714; MONDO:0011583,HPO genes_to_disease [Gargano 2024]; Open Targets [Buniello 2025],,,,,,,,,,
+Ponezumab,drug,CHEMBL1743058,Open Targets drugAndClinicalCandidates [Buniello 2025]; ChEMBL [Zdrazil 2024],,,,,,phase 2,,,,
+Tramiprosate,drug,CHEMBL149082,Open Targets drugAndClinicalCandidates [Buniello 2025]; ChEMBL [Zdrazil 2024],,,,,,phase 2,,,,
+NA19703,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,case,52.5,e2/e3,0.09,AFR
+HG02558,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,case,65.4,e3/e3,0.74,AFR
+HG03127,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,control,56.5,e3/e4,0.97,AFR
+HG02820,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,control,69.4,e3/e4,0.89,AFR
+NA19771,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,case,66.4,e3/e3,0.68,AMR
+HG01083,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,case,65.5,e2/e3,0.2,AMR
+HG01939,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,control,54.9,e3/e3,0.38,AMR
+HG01107,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,control,53.4,e3/e3,0.26,AMR
+HG00851,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,case,42.0,e3/e3,0.05,EAS
+HG00407,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,case,72.9,e3/e3,0.37,EAS
+HG00446,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,control,59.7,e3/e3,0.37,EAS
+HG01864,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,control,57.4,e3/e3,0.27,EAS
+HG01791,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,case,47.6,e4/e4,0.98,EUR
+HG00238,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,case,59.8,e2/e3,0.14,EUR
+NA10847,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,control,56.7,e3/e3,0.67,EUR
+HG01620,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,control,55.7,e3/e3,0.25,EUR
+HG02684,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,case,84.3,e3/e3,0.71,SAS
+HG03998,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,case,72.3,e3/e3,0.68,SAS
+HG04239,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,control,64.0,e3/e3,0.12,SAS
+HG03990,patient,,"1000 Genomes phase 3 genotypes [1000 Genomes 2015], data/genotypes.csv + data/meta.csv (Module 6); PRS = PGS000334 [Zhang 2020; Lambert 2021]; age and status SIMULATED",,,,,,control,56.8,e2/e3,0.19,SAS

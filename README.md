@@ -52,3 +52,21 @@ Key results:
 Figures and key result tables (CSV) from the graded notebooks are saved in `images/`, with files named by module, part, and content (for Module 6, `module6_part3_*`).
 
 Caveat: the phenotype is simulated (1000 Genomes has no disease labels), so AUC and calibration are illustrative. The weak AFR performance partly reflects the simulation's missing LD proxy for APOE ε4 in that group, not real biology.
+
+### Module 7
+Disease: Alzheimer's disease. Notebook: `BIOT6900_Module7_Starter.ipynb`. Outputs are saved in `images/` (like my earlier modules' figures): `images/my_knowledge_graph.png`, `images/nodes.csv`, `images/edges.csv`.
+
+The graph has 82 nodes and 85 relationships. Genes are my Module 3 top 15, carrying my Module 2 GWAS, RNA and protein evidence and my Module 3 druggability scores. Patients are 20 people from my Module 6 cohort. Phenotypes come from HPO, pathways from Reactome, and drugs from Open Targets. Sources are cited in comments in section 1 of the notebook. Neo4j credentials are read from the git-ignored `.env`.
+
+What didn't work or needed changing:
+- My original AuraDB instance had been paused, so I resumed it.
+- The provided node-count query in section 2 listed every node under the shared `Entity` label, because `labels(n)[0]` returns that label. I changed it to skip `Entity`, so it now reports counts per node type, and added a per-relationship count.
+- My Module 5 gene was CYP2C19, which isn't an Alzheimer's gene, so the variant layer uses lead SNPs from my Module 2 GWAS file plus the APOE ε4/ε2 SNPs instead of Module 5 calls.
+- Open Targets lists no drug for HCN1. I added ivabradine → HCN1 from the primary literature (cited in the notebook).
+- I changed the starter's build code in five commented places:
+  - it allows more than one related disease
+  - related-disease edges cite their real evidence instead of reusing the Alzheimer's GWAS p-value
+  - patients store their ancestry
+  - patients link to their APOE variants
+  - every node and edge carries a `source` citation, plus an `xref` ID (HPO, Reactome, ChEMBL, OMIM/Orphanet/Mondo, rsID) where one exists
+- Patient age and case status are simulated, as in Module 6.
