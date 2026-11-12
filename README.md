@@ -1,6 +1,52 @@
 # BIOT 6900 coursework
 ## Nicholas Adrogue
 
+### Environment setup
+All notebooks run in one conda environment, `biot6900` (Python 3.11).
+
+```bash
+conda create -n biot6900 python=3.11
+conda activate biot6900
+
+# Core + Jupyter (all modules)
+pip install jupyter notebook ipykernel numpy pandas scipy scikit-learn matplotlib requests
+
+# Module 1-5: sequences, structures, variant scoring
+pip install biopython alphagenome
+conda install -c conda-forge -c bioconda fpocket   # Module 4 pocket detection
+
+# Module 7: knowledge graph
+pip install neo4j networkx anthropic
+
+# Module 8: single-cell and spatial
+pip install anndata scanpy squidpy
+
+# Module 9: clinical NLP
+pip install spacy scispacy negspacy
+pip install "numpy>=2"   # scispacy pins numpy<2, which breaks Module 8; it works fine on numpy 2
+python -m spacy download en_core_web_sm
+pip install --no-deps https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
+pip install --no-deps "https://huggingface.co/kormilitzin/en_core_med7_lg/resolve/main/en_core_med7_lg-any-py3-none-any.whl"   # optional
+```
+
+| Package | Version tested | Used in |
+|---|---|---|
+| numpy / pandas / scipy | 2.4.6 / 2.3.3 / 1.17.1 | all modules |
+| scikit-learn / matplotlib | 1.9.1 / 3.11.2 | Modules 3, 5, 6, 9 / all modules |
+| requests | 2.34.2 | Modules 1, 5, 7 |
+| biopython | 1.88 | Module 1 |
+| fpocket (conda) | | Module 4 |
+| alphagenome | 0.10.0 | Module 5 |
+| neo4j / networkx / anthropic | 6.4.1 / 3.6.1 / 2.1.0 | Module 7 |
+| anndata / scanpy / squidpy | 0.12.19 / 1.11.5 / 1.8.2 | Module 8 |
+| spacy / scispacy / negspacy | 3.8.18 / 0.6.2 / 1.1.0 | Module 9 |
+| en_core_web_sm / en_core_sci_sm | 3.8.0 / 0.5.4 | Module 9 (spaCy models) |
+| en_core_med7_lg | not installed | Module 9 (optional Med7 preview) |
+
+Setup notes:
+- `en_core_sci_sm` 0.5.4 is the newest scispaCy model and was built for spaCy 3.7. To load it on spaCy 3.8, open its `config.cfg` (in `site-packages/en_core_sci_sm/en_core_sci_sm-0.5.4/`) and change the three quoted booleans `= "False"` to `= false`.
+- Module 7 reads Neo4j credentials from a git-ignored `.env` file (`NEO4J_URI`, `NEO4J_USERNAME`, `NEO4J_PASSWORD`).
+
 ### Module 1
 My only issue was with deleting old Conda environments from my computer since 
 they had been corrupted. After that, everything worked as expected.
@@ -70,3 +116,17 @@ What didn't work or needed changing:
   - patients link to their APOE variants
   - every node and edge carries a `source` citation, plus an `xref` ID (HPO, Reactome, ChEMBL, OMIM/Orphanet/Mondo, rsID) where one exists
 - Patient age and case status are simulated, as in Module 6.
+
+### Module 8
+
+
+### Module 9
+Disease: Alzheimer's disease (hospitalized patients, outcome = in-hospital death). Notebook: `BIOT6900_Module9_Notebook3_Graded.ipynb`. It needs only pandas and scikit-learn, and all data is synthetic, generated inside the notebook (`SEED = 1386377`).
+
+Signals (seizure, gait disturbance, APOE ε4) and consequences (anti-amyloid therapy stopped, feeding tube, comfort care) come from my Module 2, 6 and 7 findings. Sources and DOIs are in the comments of the Part A cell.
+
+Results: AUROC 0.912 with everything, 0.780 with my declared leakage removed, and 0.680 with all leakage removed (`renal_replacement` caught as the hidden leak).
+
+What didn't fit:
+- The provided engine is built for sepsis, so every note includes ICU lactate and creatinine values and the two injected features (`lactate_not_clearing`, `renal_replacement`) are sepsis concepts. I left the engine unedited, as instructed.
+- My three AD signals add little to the model on top of age. With 400 patients, their effects are too small to show clearly.
