@@ -1,0 +1,4 @@
+method,batch_silhouette_by_donor (lower = better mixing),celltype_silhouette (higher = better biology)
+No integration,0.095,-0.016
+Harmony,-0.082,0.006
+scVI,-0.06,0.02

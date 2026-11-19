@@ -10,6 +10,7 @@ conda activate biot6900
 
 # Core + Jupyter (all modules)
 pip install jupyter notebook ipykernel numpy pandas scipy scikit-learn matplotlib requests
+pip install --force-reinstall charset_normalizer   # only if importing requests warns about charset_normalizer
 
 # Module 1-5: sequences, structures, variant scoring
 pip install biopython alphagenome
@@ -19,7 +20,8 @@ conda install -c conda-forge -c bioconda fpocket   # Module 4 pocket detection
 pip install neo4j networkx anthropic
 
 # Module 8: single-cell and spatial
-pip install anndata scanpy squidpy
+pip install anndata scanpy squidpy cellxgene-census scvi-tools harmonypy
+pip install "pynndescent==0.6.0"   # 0.7.0 breaks scanpy 1.11.5 neighbors/UMAP
 
 # Module 9: clinical NLP
 pip install spacy scispacy negspacy
@@ -27,6 +29,9 @@ pip install "numpy>=2"   # scispacy pins numpy<2, which breaks Module 8; it work
 python -m spacy download en_core_web_sm
 pip install --no-deps https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
 pip install --no-deps "https://huggingface.co/kormilitzin/en_core_med7_lg/resolve/main/en_core_med7_lg-any-py3-none-any.whl"   # optional
+
+# Module 10: medical imaging
+pip install torch torchvision "monai[pillow]" "medmnist>=3.0"
 ```
 
 | Package | Version tested | Used in |
@@ -39,13 +44,18 @@ pip install --no-deps "https://huggingface.co/kormilitzin/en_core_med7_lg/resolv
 | alphagenome | 0.10.0 | Module 5 |
 | neo4j / networkx / anthropic | 6.4.1 / 3.6.1 / 2.1.0 | Module 7 |
 | anndata / scanpy / squidpy | 0.12.19 / 1.11.5 / 1.8.2 | Module 8 |
+| cellxgene-census / scvi-tools / harmonypy | 1.18.0 / 1.4.2 / 2.1.0 | Module 8 |
+| pynndescent | 0.6.0 | Module 8 (pinned) |
 | spacy / scispacy / negspacy | 3.8.18 / 0.6.2 / 1.1.0 | Module 9 |
 | en_core_web_sm / en_core_sci_sm | 3.8.0 / 0.5.4 | Module 9 (spaCy models) |
 | en_core_med7_lg | not installed | Module 9 (optional Med7 preview) |
+| torch / torchvision / monai / medmnist | 2.15.0 / 0.29.2 / 1.6.1 / 3.0.2 | Module 10 |
 
 Setup notes:
 - `en_core_sci_sm` 0.5.4 is the newest scispaCy model and was built for spaCy 3.7. To load it on spaCy 3.8, open its `config.cfg` (in `site-packages/en_core_sci_sm/en_core_sci_sm-0.5.4/`) and change the three quoted booleans `= "False"` to `= false`.
 - Module 7 reads Neo4j credentials from a git-ignored `.env` file (`NEO4J_URI`, `NEO4J_USERNAME`, `NEO4J_PASSWORD`).
+- Module 8 needs `pynndescent` 0.6.0. Version 0.7.0 returns a sparse-matrix type that scanpy 1.11.5 can't read, so `sc.pp.neighbors` fails with `'csr_array' object has no attribute 'getnnz'`.
+- My `charset_normalizer` install was broken, so importing `requests` warned about it. Reinstalling it fixed the warning.
 
 ### Module 1
 My only issue was with deleting old Conda environments from my computer since 
@@ -118,6 +128,20 @@ What didn't work or needed changing:
 - Patient age and case status are simulated, as in Module 6.
 
 ### Module 8
+Target gene: ERBB2 (HER2). Notebook: `BIOT6900_Module8_Assignment_Starter.ipynb`. Report: `Nicholas Adrogue — BIOT 6900 Module 8.pdf`. Figures and tables are in `images/` (`module8_assignment_*`).
+
+The kernel kept dying in section 1.2, and fixing that turned up two more errors. I made these changes to get it running:
+- **Kernel crash (segmentation fault) in `sc.pp.calculate_qc_metrics`.** The import cell loads PyTorch, and PyTorch and numba (which scanpy uses) each load their own copy of the OpenMP threading library, which conflict. I added these lines at the very top of the import cell, before `import scanpy`, so numba uses its own threading layer instead:
+  ```python
+  import os
+  os.environ["NUMBA_THREADING_LAYER"] = "workqueue"
+  ```
+- **`ValueError: reciprocal condition number` in `sc.pp.highly_variable_genes`.** Two donors (`pal_Patient 0056` and `pal_Patient 0178`) are very sparse (median about 330 genes per cell), and the curve fit in `flavor="seurat_v3"` fails on them. I added `span=0.5` to that call to smooth the fit, which keeps all 10 donors.
+- **`'csr_array' object has no attribute 'getnnz'` in `sc.pp.neighbors`.** pynndescent 0.7.0 returns a sparse-matrix type that scanpy 1.11.5 can't read, so I downgraded it to 0.6.0 (see Environment setup).
+
+I also fixed a labelling bug in the provided `broad_type()` function (section 1.1). It labels a cell "T" if its Census label contains the text `"t cell"`, and "malignan**t cell**" contains that text, so all ~9,600 malignant (tumour) cells were labelled as T cells. The 1.7 marker plots showed it: CD3D (the T-cell marker) lit up only a small cluster, while EPCAM (an epithelial marker) lit up the large "T" region. I added a check for `"malignant"` before the T-cell check, so those cells are now labelled Epithelial/Tumor (about 9,768 cells, with T cells down to about 2,505). After the fix the markers matched their labels. This matters for my target, ERBB2, which would otherwise have looked like it was expressed by T cells.
+
+I ran Part 1 on my Mac instead of Explorer. The import cell only checked for an NVIDIA GPU (`torch.cuda.is_available()`), so on a Mac scVI fell back to the CPU and trained for only 60 epochs. I changed the check to `torch.cuda.is_available() or torch.backends.mps.is_available()`, so scVI uses the Apple-silicon GPU (MPS) and trains the full 200 epochs. The scVI cell itself is unchanged.
 
 
 ### Module 9
@@ -130,3 +154,12 @@ Results: AUROC 0.912 with everything, 0.780 with my declared leakage removed, an
 What didn't fit:
 - The provided engine is built for sepsis, so every note includes ICU lactate and creatinine values and the two injected features (`lactate_not_clearing`, `renal_replacement`) are sepsis concepts. I left the engine unedited, as instructed.
 - My three AD signals add little to the model on top of age. With 400 patients, their effects are too small to show clearly.
+
+### Module 10
+The notebooks only checked for an NVIDIA GPU (CUDA), so on my Mac they always ran on the CPU. I changed the `device =` line in `BIOT6900_Module10_Toy_MedNIST.ipynb` and `BIOT6900_Module10_Real_Pathology_executed.ipynb` to fall back to Apple's GPU (MPS) when CUDA isn't available:
+
+```python
+device = torch.device("cuda" if torch.cuda.is_available()
+                      else "mps" if torch.backends.mps.is_available()
+                      else "cpu")
+```
