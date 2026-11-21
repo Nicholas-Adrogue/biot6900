@@ -1,4 +1,10 @@
 structures/
 
 .env
-data/
+data/*
+!data/pathmnist_tumour_vs_normal_subset.npz
+
+# Capstone — OASIS data must never be committed (DUA clause 3: no redistribution)
+Capstone/Data/
+Capstone/**/Data/
+.DS_Store

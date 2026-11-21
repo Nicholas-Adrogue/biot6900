@@ -163,3 +163,5 @@ device = torch.device("cuda" if torch.cuda.is_available()
                       else "mps" if torch.backends.mps.is_available()
                       else "cpu")
 ```
+
+Graded notebook: `BIOT6900_Module10_Assignment.ipynb`, built from the Notebook 2 template (`NEW:`/`CHANGED:` comments mark my edits). Confounder: a Gaussian blur patch on tumour tiles. The data subset (`data/pathmnist_tumour_vs_normal_subset.npz`) is committed so the notebook re-runs as-is.
