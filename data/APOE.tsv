@@ -1,0 +1,224 @@
+hgvs_g	rsid	gene	clinvar_id	consequence	consequence_all	aa_change	cadd_phred	revel	alphamissense	gnomad_af	clinvar_sig	clinvar_stars
+chr19:g.44907807G>A	rs201672011	APOE	440842	missense_variant	downstream_gene_variant;missense_variant;sequence_feature	E31K	12.41	0.425	0.0875	0.000473105	Pathogenic	0
+chr19:g.44907930T>G		APOE	1786732	missense_variant	downstream_gene_variant;missense_variant	S72A	0.872	0.298	0.0877		Uncertain significance	1
+chr19:g.44908525G>C		APOE	3047229	splice_region_variant	downstream_gene_variant;intron_variant;splice_region_variant						Likely benign	0
+chr19:g.44909060C>T	rs780984110	APOE	3417889	missense_variant	missense_variant	A255V	23.4	0.149	0.1046	0.0	Uncertain significance	1
+chr19:g.44909063A>T	rs1197351070	APOE	1760098	missense_variant	missense_variant	E256V	25.3	0.489	0.1987	2.63089e-05	Uncertain significance	1
+chr19:g.44908911G>A		APOE	1751939	synonymous_variant	synonymous_variant		0.662				Likely benign	1
+chr19:g.44907908G>C	rs370594287	APOE	2514464	missense_variant	downstream_gene_variant;missense_variant	Q64H	23.2	0.655	0.2679	6.57022e-05	Uncertain significance	0
+chr19:g.44908668G>A	rs1269499752	APOE	3886402	synonymous_variant	downstream_gene_variant;sequence_feature;synonymous_variant		7.348			1.10049e-05	Likely benign	1
+chr19:g.44907841A>C		APOE	1762635	missense_variant	downstream_gene_variant;missense_variant	Q42P	23.5	0.587	0.0943		Uncertain significance	1
+chr19:g.44908921C>T	rs1459595735	APOE	2586037	missense_variant	missense_variant;sequence_feature	R209W	26.6	0.431	0.2096	1.31634e-05	Uncertain significance	1
+chr19:g.44908938C>T	rs1969875907	APOE	3231975	synonymous_variant	synonymous_variant		9.021				Likely benign	1
+chr19:g.44909197G>A	rs1378119160	APOE	3886441	missense_variant	missense_variant	V301M	12.12	0.113	0.1216	0.0	Uncertain significance	1
+chr19:g.44908596G>A	rs267605543	APOE	3886369	synonymous_variant	downstream_gene_variant;synonymous_variant		5.779			6.56875e-06	Likely benign	1
+chr19:g.44908774C>T	rs387906567	APOE	440870	missense_variant	missense_variant	R160C	35.0	0.827	0.2782		not provided	0
+chr19:g.44909001G>A	rs1380820758	APOE	3886411	synonymous_variant	synonymous_variant		2.562				Likely benign	1
+chr19:g.44909035C>G		APOE	1758697	missense_variant	missense_variant	L247V	23.1	0.315	0.1258		Uncertain significance	1
+chr19:g.44909057T>A	rs199768005	APOE	478872	missense_variant	missense_variant	V254E	27.6	0.26	0.3685	0.000473435	Uncertain significance	1
+chr19:g.44907921C>T	rs139948786	APOE	3231962	synonymous_variant	downstream_gene_variant;synonymous_variant		12.47			2.62829e-05	Likely benign	1
+chr19:g.44906322C>T	rs769448	APOE	1329718	intron_variant	downstream_gene_variant;intron_variant;upstream_gene_variant		8.854			0.0291269	Likely benign	1
+chr19:g.44908784G>C	rs121918397	APOE	17879	missense_variant	missense_variant	R163P	26.1	0.697	0.8019		Pathogenic	0
+chr19:g.44909101C>G	rs267606661	APOE	441267	missense_variant	missense_variant	R269G	25.6	0.581	0.16	0.000302234	Pathogenic	0
+chr19:g.44909255C>T	rs754223652	APOE	3350760	3_prime_UTR_variant	3_prime_UTR_variant;upstream_gene_variant		6.385			7.22847e-05	Likely benign	0
+chr19:g.44907830G>A	rs2122132512	APOE	1320871	stop_gained	downstream_gene_variant;stop_gained	W38X	26.9				Uncertain significance	1
+chr19:g.44908948G>T	rs1488379910	APOE	3417728	missense_variant	missense_variant	G218C	16.88	0.358	0.2144		Uncertain significance	1
+chr19:g.44908575A>G	rs371331933	APOE	1796120	synonymous_variant	downstream_gene_variant;sequence_feature;synonymous_variant		5.663			4.00933e-06	Likely benign	1
+chr19:g.44908786A>G	rs121918394	APOE	17857	missense_variant	missense_variant	K164E	28.5	0.757	0.9008		Pathogenic	0
+chr19:g.44908844G>C	rs2122137937	APOE	1341575	missense_variant	missense_variant	G183A	23.5	0.511	0.1932		Likely pathogenic	1
+chr19:g.44905579T>T		APOE	17877								risk factor	0
+chr19:g.44905923G>A	rs563571689	APOE	1722323	missense_variant	downstream_gene_variant;intron_variant;missense_variant;upstream_gene_variant	D19N	6.546	0.008	0.126	0.000572135	Uncertain significance	1
+chr19:g.44908601C>G	rs11083750	APOE	441269	missense_variant	downstream_gene_variant;missense_variant;sequence_feature	P102R	24.8	0.517	0.3966	2.62771e-05	association	0
+chr19:g.44908749G>C	rs563140413	APOE	3308507	synonymous_variant	synonymous_variant		7.427			6.57315e-06	Likely benign	1
+chr19:g.44908901T>C		APOE	3886422	missense_variant	missense_variant	L202P	25.5	0.613	0.3936		Uncertain significance	1
+chr19:g.44908738A>C		APOE	3886459	missense_variant	missense_variant	T148P	5.807	0.304	0.128		Uncertain significance	1
+chr19:g.44908785T>G		APOE	1743923	synonymous_variant	synonymous_variant		9.511				Likely benign	1
+chr19:g.44909022G>A	rs1969880289	APOE	3417793	synonymous_variant	synonymous_variant		9.544			6.57575e-06	Likely benign	1
+chr19:g.44909085G>A	rs1427053863	APOE	1761097	synonymous_variant	synonymous_variant		5.727			0.0	Likely benign	1
+chr19:g.44908706_44908707dup		APOE	17853								Pathogenic	0
+chr19:g.44908728C>T	rs1489359246	APOE	1739764	synonymous_variant	synonymous_variant		16.27			0.0	Likely benign	1
+chr19:g.44907806C>G	rs370227413	APOE	1209987	synonymous_variant	downstream_gene_variant;synonymous_variant		8.62			0.000151161	Likely benign	0
+chr19:g.44907881G>C	rs376607258	APOE	3031963	synonymous_variant	downstream_gene_variant;synonymous_variant		6.288			1.3142e-05	Likely benign	0
+chr19:g.44908740C>G	rs773479792	APOE	1740672	synonymous_variant	synonymous_variant		12.8			6.39664e-06	Likely benign	1
+chr19:g.44908984G>A	rs567353589	APOE	1315806	missense_variant	missense_variant	E230K	14.04	0.457	0.1099	1.97342e-05	Uncertain significance	1
+chr19:g.44909082G>A	rs569017773	APOE	1209955	synonymous_variant	synonymous_variant		7.88			5.25755e-05	Likely benign	0
+chr19:g.44908912G>A		APOE	3886431	missense_variant	missense_variant	G206S	5.38	0.165	0.1222		Uncertain significance	1
+chr19:g.44907777G>A	rs121918392	APOE	17849	missense_variant	downstream_gene_variant;missense_variant	E21K	11.62	0.555	0.1249	1.97091e-05	Pathogenic	0
+chr19:g.44909169G>C		APOE	3340082	missense_variant	missense_variant	Q291H	23.0	0.083	0.3399		Uncertain significance	0
+chr19:g.44906645G>C	rs373321868	APOE	3417776	synonymous_variant	downstream_gene_variant;synonymous_variant		10.19			6.57825e-06	Likely benign	1
+chr19:g.44908923G>A	rs774452222	APOE	1752588	synonymous_variant	sequence_feature;synonymous_variant		3.951			3.94841e-05	Likely benign	1
+chr19:g.44908592A>G	rs577618688	APOE	1798256	missense_variant	downstream_gene_variant;missense_variant	Q99R	24.0	0.468	0.1455	7.88426e-05	Uncertain significance	1
+chr19:g.44908602G>C	rs368495194	APOE	1799480	synonymous_variant	downstream_gene_variant;sequence_feature;synonymous_variant		5.245			4.06289e-06	Likely benign	1
+chr19:g.44906655A>G	rs144354013	APOE	1803815	missense_variant	downstream_gene_variant;missense_variant	T11A	0.001	0.252	0.0745	8.55747e-05	Uncertain significance	1
+chr19:g.44907854G>A	rs761381769	APOE	1771513	synonymous_variant	downstream_gene_variant;synonymous_variant		1.795			1.97101e-05	Likely benign	1
+chr19:g.44908619G>A	rs749160976	APOE	3308503	missense_variant	downstream_gene_variant;missense_variant	R108Q	11.84	0.179	0.0809	6.57237e-06	Likely benign	1
+chr19:g.44908684T>T		APOE	17863								Pathogenic	0
+chr19:g.44908839G>T	rs754627330	APOE	3417748	missense_variant	missense_variant	Q181H	15.65	0.288	0.2266	6.57929e-06	Uncertain significance	1
+chr19:g.44908917C>A		APOE	1752261	synonymous_variant	synonymous_variant		16.99				Likely benign	1
+chr19:g.44909032C>T	rs121918395	APOE	17859	missense_variant	missense_variant	R246C	29.1	0.561	0.2378	9.86141e-05	Pathogenic	0
+chr19:g.44908705C>G	rs573658040	APOE	2498787	missense_variant	missense_variant	R137G	25.7	0.557	0.1597	3.28662e-05	Uncertain significance	1
+chr19:g.44908936G>A	rs759721023	APOE	1753374	missense_variant	missense_variant	G214S	0.961	0.097	0.0903	5.92051e-05	Uncertain significance	1
+chr19:g.44908784G>T	rs121918397	APOE	1687222	missense_variant	missense_variant	R163L	33.0	0.539	0.7623		Uncertain significance	1
+chr19:g.44908822C>T	rs7412	APOE	441265	missense_variant	missense_variant	R176C	12.34	0.588	0.4222	0.0778795	Pathogenic	0
+chr19:g.44908833G>A	rs1465409896	APOE	1747154	synonymous_variant	synonymous_variant		5.332			7.55846e-06	Likely benign	1
+chr19:g.44908838A>T		APOE	1747488	missense_variant	missense_variant	Q181L	5.745	0.167	0.1985		Uncertain significance	1
+chr19:g.44908884C>T	rs992491839	APOE	1750302	synonymous_variant	synonymous_variant		13.49			1.05436e-05	Likely benign	1
+chr19:g.44908658G>A	rs1969859756	APOE	1733394	missense_variant	downstream_gene_variant;missense_variant	R121Q	28.1	0.535	0.1398		Uncertain significance	1
+chr19:g.44908712A>G		APOE	2307328	missense_variant	missense_variant	E139G	29.6	0.688	0.578		Uncertain significance	1
+chr19:g.44908579G>A	rs1969855667	APOE	3231965	missense_variant	downstream_gene_variant;missense_variant	E95K	28.4	0.597	0.2061		Uncertain significance	1
+chr19:g.44908887G>A	rs928986800	APOE	1750497	synonymous_variant	synonymous_variant		7.677				Likely benign	1
+chr19:g.44908917C>T	rs1296647170	APOE	2586036	synonymous_variant	synonymous_variant		14.5			1.2871e-05	Likely benign	1
+chr19:g.44909069G>A	rs756564996	APOE	1760393	missense_variant	missense_variant	R258H	19.86	0.091	0.1114	3.94337e-05	Uncertain significance	1
+chr19:g.44909104C>T	rs992440908	APOE	739514	synonymous_variant	synonymous_variant		14.14			1.97091e-05	Likely benign	1
+chr19:g.44909061G>A	rs752327439	APOE	741936	synonymous_variant	synonymous_variant		15.98			1.31427e-05	Likely benign	1
+chr19:g.44907785G>A	rs111833428	APOE	1210034	synonymous_variant	downstream_gene_variant;synonymous_variant		9.813			0.000229942	Likely benign	0
+chr19:g.44907825G>A	rs142480126	APOE	3779927	missense_variant	downstream_gene_variant;missense_variant	E37K	0.041	0.21	0.0909	7.99923e-06	Uncertain significance	1
+chr19:g.44907836C>T	rs373020952	APOE	1298772	synonymous_variant	downstream_gene_variant;sequence_feature;synonymous_variant		11.79			8.54195e-05	Likely benign	1
+chr19:g.44908632C>G	rs11542033	APOE	2565617	synonymous_variant	downstream_gene_variant;synonymous_variant		12.61			1.31435e-05	Likely benign	1
+chr19:g.44908700A>G	rs753798476	APOE	3417858	missense_variant	missense_variant	Q135R	24.4	0.553	0.1156	1.31463e-05	Uncertain significance	1
+chr19:g.44908710C>T	rs1267728092	APOE	2565615	synonymous_variant	synonymous_variant		19.71			6.36456e-06	Likely benign	1
+chr19:g.44908622_44908623dup		APOE	3066201								Uncertain significance	1
+chr19:g.44908635G>A		APOE	3231968	synonymous_variant	downstream_gene_variant;synonymous_variant		12.91				Likely benign	1
+chr19:g.44908684T>C	rs429358	APOE	441269	missense_variant	downstream_gene_variant;missense_variant	C130R	24.8	0.229	0.0365	0.157101	association	0
+chr19:g.44908704C>T	rs2122136545	APOE	3417831	synonymous_variant	synonymous_variant		11.48				Likely benign	1
+chr19:g.44908987C>A		APOE	1756154	synonymous_variant	synonymous_variant		18.29				Likely benign	1
+chr19:g.44909005G>A	rs1335550286	APOE	1757142	missense_variant	missense_variant	E237K	27.3	0.403	0.1926	6.57445e-06	Uncertain significance	1
+chr19:g.44906643G>C	rs1969812567	APOE	3127999	missense_variant	downstream_gene_variant;missense_variant	A7P	21.3	0.484	0.5093		Uncertain significance	1
+chr19:g.44907187G>A	rs769450	APOE	619952	intron_variant	downstream_gene_variant;intron_variant		3.436			0.390351	drug response	0
+chr19:g.44907832A>G	rs756353413	APOE	3127998	missense_variant	downstream_gene_variant;missense_variant	Q39R	11.38	0.226	0.0955	2.39806e-05	Uncertain significance	1
+chr19:g.44908680C>T	rs766493265	APOE	2446926	synonymous_variant	downstream_gene_variant;synonymous_variant		11.87			6.57315e-06	Likely benign	1
+chr19:g.44908718A>G	rs1969863273	APOE	917851	missense_variant	missense_variant	Q141R	10.8	0.286	0.0844		Uncertain significance	0
+chr19:g.44908979G>A	rs121918396	APOE	17862	stop_gained	sequence_feature;stop_gained	W228X	24.7			3.28831e-05	Pathogenic	0
+chr19:g.44909015G>A	rs1391215146	APOE	2586038	missense_variant	missense_variant	G240D	23.6	0.517	0.309	6.57549e-06	Uncertain significance	1
+chr19:g.44908564A>G	rs1278944082	APOE	3340172	missense_variant	downstream_gene_variant;missense_variant	K90E	23.8	0.353	0.2006	4.00937e-06	Uncertain significance	1
+chr19:g.44908602G>A	rs368495194	APOE	1799478	synonymous_variant	downstream_gene_variant;sequence_feature;synonymous_variant		7.875			1.31377e-05	Likely benign	1
+chr19:g.44908809T>G	rs1599953786	APOE	3779932	missense_variant	missense_variant	D171E	0.002	0.171	0.1062		Uncertain significance	1
+chr19:g.44908837C>A	rs1434405741	APOE	3779933	missense_variant	missense_variant	Q181K	0.129	0.121	0.0855		Uncertain significance	1
+chr19:g.44905888G>A	rs1246551383	APOE	2635119	missense_variant	downstream_gene_variant;intron_variant;missense_variant;upstream_gene_variant	R7K		0.004	0.1432	6.57428e-06	Uncertain significance	1
+chr19:g.44908859C>G		APOE	3417918	missense_variant	missense_variant	A188G	20.6	0.281	0.179		Uncertain significance	1
+chr19:g.44908870C>G	rs1599953984	APOE	3779934	missense_variant	missense_variant	L192V	0.003	0.116	0.0551		Uncertain significance	1
+chr19:g.44908922G>A	rs1047319304	APOE	3886481	missense_variant	missense_variant;sequence_feature	R209Q	15.62	0.151	0.1099	6.58397e-06	Uncertain significance	1
+chr19:g.44908966C>T		APOE	2338186	missense_variant	missense_variant	R224W	32.0	0.534	0.2699		Uncertain significance	1
+chr19:g.44908996G>A	rs1241924076	APOE	3308514	missense_variant	missense_variant;sequence_feature	A234T	15.29	0.194	0.0769	7.67825e-06	Uncertain significance	1
+chr19:g.44908577C>G		APOE	1796422	missense_variant	downstream_gene_variant;missense_variant	S94W	25.0	0.388	0.2118		Uncertain significance	1
+chr19:g.44909223C>G	rs774354369	APOE	1766409	synonymous_variant	synonymous_variant		10.84			6.57073e-06	Likely benign	1
+chr19:g.44905910C>G	rs440446	APOE	1175067	missense_variant	downstream_gene_variant;intron_variant;missense_variant;upstream_gene_variant	N14K	6.762	0.013	0.1231	0.688045	Benign	0
+chr19:g.44908574A>G	rs761285934	APOE	3886470	missense_variant	downstream_gene_variant;missense_variant;sequence_feature	K93R	8.627	0.126	0.0857	8.01912e-06	Uncertain significance	1
+chr19:g.44908606G>A	rs767382895	APOE	1727733	missense_variant	downstream_gene_variant;missense_variant	A104T	4.009	0.078	0.0778	2.62709e-05	Uncertain significance	1
+chr19:g.44908608G>A	rs752409518	APOE	1727945	synonymous_variant	downstream_gene_variant;synonymous_variant		9.82			2.62702e-05	Likely benign	1
+chr19:g.44908756C>A	rs121918393	APOE	17850	missense_variant	missense_variant	R154S	31.0	0.67	0.615	4.60133e-05	Likely pathogenic	1
+chr19:g.44909171G>A	rs121918398	APOE	17875	missense_variant	missense_variant	R292H	32.0	0.42	0.1084	4.47319e-06	Pathogenic	0
+chr19:g.44911194T>C	rs439401	APOE	619953	upstream_gene_variant	downstream_gene_variant;intergenic_region;upstream_gene_variant		1.037			0.669889	drug response	0
+chr19:g.44909128C>T	rs762845923	APOE	1762954	missense_variant	missense_variant	R278C	35.0	0.607	0.3885	2.62878e-05	Uncertain significance	1
+chr19:g.44908737C>T	rs1361979577	APOE	3308543	synonymous_variant	sequence_feature;synonymous_variant		10.61			0.0	Likely benign	1
+chr19:g.44908840G>C	rs796443813	APOE	2562132	missense_variant	missense_variant	A182P	23.4	0.444	0.7363	6.58337e-06	Uncertain significance	1
+chr19:g.44908884C>A	rs992491839	APOE	2565619	synonymous_variant	synonymous_variant		14.73			6.58354e-06	Likely benign	1
+chr19:g.44907786G>C	rs1394832846	APOE	3764407	missense_variant	downstream_gene_variant;missense_variant	V24L	0.001	0.298	0.1059	4.02878e-06	Uncertain significance	1
+chr19:g.44907824C>G	rs755434388	APOE	1328619	synonymous_variant	downstream_gene_variant;sequence_feature;synonymous_variant		6.018			2.79984e-05	Likely benign	1
+chr19:g.44909025C>T	rs1969880483	APOE	3886449	synonymous_variant	synonymous_variant		13.57				Likely benign	1
+chr19:g.44909106G>A	rs747184737	APOE	1762036	synonymous_variant	synonymous_variant		9.717			1.97088e-05	Likely benign	1
+chr19:g.44909220C>T	rs1245915178	APOE	1766316	synonymous_variant	sequence_feature;synonymous_variant		12.12			6.57047e-06	Likely benign	1
+chr19:g.44908927G>A	rs1376916580	APOE	3417899	missense_variant	missense_variant	A211T	23.3	0.307	0.0958	0.0	Uncertain significance	1
+chr19:g.44908562T>C	rs368210726	APOE	3128000	missense_variant	downstream_gene_variant;missense_variant	L89S	26.0	0.566	0.8361	6.56996e-05	Uncertain significance	1
+chr19:g.44908654G>T	rs1324343215	APOE	3417851	missense_variant	downstream_gene_variant;missense_variant	A120S	22.2	0.358	0.1077	1.31389e-05	Uncertain significance	1
+chr19:g.44909522del		APOE	1287640	upstream_gene_variant	downstream_gene_variant;intergenic_region;upstream_gene_variant					0.048641	Benign	1
+chr19:g.44908747C>A	rs587778877	APOE	88640	missense_variant	missense_variant	L151M	24.7	0.492	0.1566	6.57099e-06	not provided	0
+chr19:g.44908752G>T	rs1969865204	APOE	1741558	synonymous_variant	synonymous_variant		7.759			6.5741e-06	Likely benign	1
+chr19:g.44908756C>T	rs121918393	APOE	3572888	missense_variant	missense_variant	R154C	33.0	0.71	0.3257	4.60133e-05	Conflicting interpretations of pathogenicity	1
+chr19:g.44908809T>C		APOE	3308535	synonymous_variant	synonymous_variant		0.01				Likely benign	1
+chr19:g.44909010G>T	rs892532644	APOE	2219434	missense_variant	missense_variant	E238D	9.76	0.142	0.1313	1.97202e-05	Uncertain significance	1
+chr19:g.44908514_44908517del		APOE	1210067	intron_variant	downstream_gene_variant;intron_variant					0.000984964	Likely benign	1
+chr19:g.44908531A>G	rs397514253	APOE	17852	splice_acceptor_variant	downstream_gene_variant;intron_variant;splice_acceptor_variant						Pathogenic	0
+chr19:g.44908587del		APOE	143248	frameshift_variant	downstream_gene_variant;frameshift_variant;sequence_feature						not provided	0
+chr19:g.44908784G>A	rs121918397	APOE	17865	missense_variant	missense_variant	R163H	23.6	0.641	0.1566	6.48265e-06	Pathogenic	0
+chr19:g.44908842C>T	rs1368598158	APOE	1747722	synonymous_variant	synonymous_variant		19.94			1.31633e-05	Likely benign	1
+chr19:g.44908935G>T	rs1313313298	APOE	718465	synonymous_variant	synonymous_variant		2.592			5.2633e-05	Likely benign	1
+chr19:g.44908947C>T	rs72654468	APOE	779286	synonymous_variant	synonymous_variant		15.26			0.00088859	Benign/Likely benign	2
+chr19:g.44908988G>T		APOE	2499380	missense_variant	missense_variant	R231L	21.7	0.297	0.1483		Uncertain significance	1
+chr19:g.44909070C>G		APOE	3417813	synonymous_variant	synonymous_variant		14.1				Likely benign	1
+chr19:g.44908804G>C	rs267606662	APOE	441270	missense_variant	missense_variant	A170P	25.8	0.353	0.9049		Pathogenic	0
+chr19:g.44908848C>T		APOE	1748127	synonymous_variant	synonymous_variant		16.6				Likely benign	1
+chr19:g.44907894A>G	rs28931576	APOE	17871	missense_variant	downstream_gene_variant;missense_variant	T60A	11.88	0.184	0.144	1.97138e-05	Pathogenic	0
+chr19:g.44907909G>T		APOE	2451018	missense_variant	downstream_gene_variant;missense_variant	V65L	15.99	0.375	0.4119		Uncertain significance	1
+chr19:g.44908951C>G	rs941248161	APOE	2565618	missense_variant	missense_variant	Q219E	2.695	0.111	0.1182	1.31589e-05	Uncertain significance	1
+chr19:g.44908995C>T	rs1354007902	APOE	1756513	synonymous_variant	synonymous_variant		12.62			1.97311e-05	Likely benign	1
+chr19:g.44909209G>T		APOE	3417786	missense_variant	missense_variant	V305L	1.714	0.046	0.1265		Likely benign	1
+chr19:g.44909226C>G	rs1312197636	APOE	3308529	synonymous_variant	synonymous_variant		8.357			1.31411e-05	Likely benign	1
+chr19:g.44909236A>C	rs28931579	APOE	17876	missense_variant	missense_variant;sequence_feature	S314R	12.62	0.092	0.192	6.57341e-05	Pathogenic	0
+chr19:g.44908730G>A	rs267606664	APOE	441262	missense_variant	missense_variant	G145D	24.7	0.52	0.3772	0.000144592	Pathogenic	0
+chr19:g.44908799G>A	rs376170967	APOE	3380625	missense_variant	missense_variant;sequence_feature	R168H	24.8	0.535	0.2811	0.000407568	Uncertain significance	1
+chr19:g.44908987C>T	rs1381171305	APOE	3417910	missense_variant	missense_variant	R231W	26.7	0.307	0.1938	0.0	Uncertain significance	1
+chr19:g.44909114A>G	rs951182634	APOE	2446927	missense_variant	missense_variant	E273G	27.0	0.502	0.1893	5.91475e-05	Uncertain significance	1
+chr19:g.44909241C>T		APOE	3417868	synonymous_variant	synonymous_variant		4.153				Likely benign	1
+chr19:g.44906655A>T	rs144354013	APOE	3779929	missense_variant	downstream_gene_variant;missense_variant	T11S	0.007	0.19	0.1354	0.000111905	Uncertain significance	1
+chr19:g.44906745G>A	rs769449	APOE	1264941	intron_variant	downstream_gene_variant;intron_variant		6.923			0.0839356	Benign	2
+chr19:g.44907883G>A	rs752790054	APOE	1320334	missense_variant	downstream_gene_variant;missense_variant	R56H	22.7	0.31	0.0881	6.57142e-06	Uncertain significance	1
+chr19:g.44908690C>G		APOE	3128001	missense_variant	missense_variant	R132G	27.7	0.636	0.5109		Uncertain significance	1
+chr19:g.44908934T>G	rs1227709957	APOE	1753235	missense_variant	missense_variant	V213G	11.85	0.286	0.1408	5.26427e-05	Uncertain significance	1
+chr19:g.44909080G>A	rs140808909	APOE	441263	missense_variant	missense_variant	E262K	26.7	0.51	0.2292	0.000118279	Pathogenic	0
+chr19:g.44909145C>T	rs954301448	APOE	1763601	synonymous_variant	synonymous_variant		18.57			1.3143e-05	Likely benign	1
+chr19:g.44907864C>A	rs11542029	APOE	451406	missense_variant	downstream_gene_variant;missense_variant	R50S	27.7	0.504	0.4442	6.57125e-06	Uncertain significance	1
+chr19:g.44908757G>T	rs200703101	APOE	375636	missense_variant	missense_variant	R154L	29.9	0.602	0.3653		Likely pathogenic	1
+chr19:g.44908790G>C	rs1332591068	APOE	1077013	missense_variant	missense_variant	R165P	32.0	0.752	0.8989		Likely pathogenic	1
+chr19:g.44908851C>T	rs781722239	APOE	1748286	synonymous_variant	synonymous_variant		17.15			8.55646e-05	Likely benign	1
+chr19:g.44909150C>A	rs1358158446	APOE	3308517	missense_variant	missense_variant	P285H	29.0	0.621	0.7528	0.0	Uncertain significance	1
+chr19:g.44908545C>T	rs767980905	APOE	760030	synonymous_variant	downstream_gene_variant;synonymous_variant		13.94			2.62781e-05	Likely benign	1
+chr19:g.44908690C>T	rs11542041	APOE	1317910	missense_variant	missense_variant	R132C	33.0	0.663	0.3462	2.62867e-05	Uncertain significance	1
+chr19:g.44908919T>G		APOE	1752385	missense_variant	missense_variant	V208G	0.002	0.179	0.084		Uncertain significance	1
+chr19:g.44909021G>A	rs267606663	APOE	441265	missense_variant	missense_variant	R242Q	12.34	0.112	0.0773	6.57635e-06	Pathogenic	0
+chr19:g.44909033G>C	rs1330553726	APOE	2572764	missense_variant	missense_variant	R246P	25.9	0.519	0.4744	1.37743e-05	Uncertain significance	2
+chr19:g.44909129G>T	rs767339630	APOE	2594997	missense_variant	missense_variant	R278L	27.2	0.444	0.457	6.57082e-06	Uncertain significance	1
+chr19:g.44908677G>A	rs773391883	APOE	710486	synonymous_variant	downstream_gene_variant;synonymous_variant		3.544			3.28563e-05	Likely benign	1
+chr19:g.44908683G>A	rs1056815951	APOE	3032874	synonymous_variant	downstream_gene_variant;synonymous_variant		4.53			6.57056e-06	Likely benign	0
+chr19:g.44906646T>C	rs978402858	APOE	1789275	synonymous_variant	downstream_gene_variant;synonymous_variant		0.489			2.63082e-05	Likely benign	1
+chr19:g.44907814G>A	rs1212454788	APOE	3886380	missense_variant	downstream_gene_variant;missense_variant	R33H	0.002	0.313	0.073	1.31413e-05	Likely benign	1
+chr19:g.44907853T>C	rs769452	APOE	441268	missense_variant	downstream_gene_variant;missense_variant	L46P	11.43	0.534	0.2367	0.00192525	Pathogenic	0
+chr19:g.44907879C>T		APOE	2451019	synonymous_variant	downstream_gene_variant;synonymous_variant		12.55				Likely benign	1
+chr19:g.44908758C>T	rs753601274	APOE	3231969	synonymous_variant	synonymous_variant		14.43			1.31453e-05	Likely benign	1
+chr19:g.44908751G>A	rs28931578	APOE	17874	missense_variant	missense_variant	R152Q	26.4	0.321	0.1007	3.28727e-05	Pathogenic	0
+chr19:g.44908761C>T	rs1356159599	APOE	3231970	synonymous_variant	synonymous_variant		17.48			0.0	Likely benign	1
+chr19:g.44908780C>A	rs1377830202	APOE	2624706	missense_variant	missense_variant;sequence_feature	L162M	23.2	0.371	0.1476	1.97174e-05	Uncertain significance	1
+chr19:g.44908786A>C	rs121918394	APOE	17858	missense_variant	missense_variant	K164Q	26.5	0.759	0.6847	6.51449e-06	Pathogenic	0
+chr19:g.44908837C>G	rs1434405741	APOE	2499313	missense_variant	missense_variant	Q181E	0.006	0.081	0.104	4.60441e-05	Uncertain significance	1
+chr19:g.44908998G>A	rs1441106443	APOE	1756777	synonymous_variant	sequence_feature;synonymous_variant		6.864			7.65193e-06	Likely benign	1
+chr19:g.44909040C>G	rs1221046029	APOE	3886391	missense_variant	missense_variant	D248E	6.919	0.053	0.1261	1.31569e-05	Likely benign	1
+chr19:g.44908645G>A	rs28931577	APOE	441270	missense_variant	downstream_gene_variant;missense_variant	A117T	25.8	0.3	0.1629		Pathogenic	0
+chr19:g.44908660C>A	rs587778876	APOE	88639	missense_variant	downstream_gene_variant;missense_variant	L122M	24.5	0.644	0.3022	6.56927e-06	not provided	0
+chr19:g.44907860del		APOE	17861	frameshift_variant	downstream_gene_variant;frameshift_variant						Pathogenic	0
+chr19:g.44909484C>G	rs117656888	APOE	1197019	upstream_gene_variant	downstream_gene_variant;intergenic_region;upstream_gene_variant		1.319			0.0121725	Likely benign	1
+chr19:g.44907926C>T	rs781192562	APOE	1786056	synonymous_variant	downstream_gene_variant;synonymous_variant		12.99			3.99345e-06	Likely benign	1
+chr19:g.44908617G>A	rs777571029	APOE	3231967	synonymous_variant	downstream_gene_variant;synonymous_variant		11.52			6.57117e-06	Likely benign	1
+chr19:g.44908652A>C	rs777291619	APOE	1710568	missense_variant	downstream_gene_variant;missense_variant	Q119P	23.2	0.541	0.5307	9.85804e-05	Uncertain significance	1
+chr19:g.44909100A>C		APOE	3308522	synonymous_variant	synonymous_variant		0.308				Likely benign	1
+chr19:g.44909152C>T	rs750138933	APOE	1763883	synonymous_variant	sequence_feature;synonymous_variant		15.07			6.5684e-06	Likely benign	1
+chr19:g.44909162A>C	rs1568618190	APOE	1706316	missense_variant	missense_variant	D289A	27.6	0.55	0.6229	4.42537e-06	Uncertain significance	1
+chr19:g.44907800G>A	rs150688032	APOE	3231977	synonymous_variant	downstream_gene_variant;synonymous_variant		8.028			6.57065e-06	Likely benign	1
+chr19:g.44907917G>T		APOE	3417840	missense_variant	downstream_gene_variant;missense_variant	E67D	16.67	0.328	0.1772		Uncertain significance	1
+chr19:g.44908866C>G		APOE	3231973	synonymous_variant	sequence_feature;synonymous_variant		9.004				Likely benign	1
+chr19:g.44908968G>T		APOE	1755132	synonymous_variant	synonymous_variant		1.491				Likely benign	1
+chr19:g.44909010G>C		APOE	2586039	missense_variant	missense_variant	E238D	8.954	0.142	0.1313		Uncertain significance	1
+chr19:g.44909083G>A	rs190853081	APOE	441263	missense_variant	missense_variant	E263K	26.7	0.452	0.1964	0.000118275	Pathogenic	0
+chr19:g.44908773G>C		APOE	3417821	synonymous_variant	synonymous_variant		9.146				Likely benign	1
+chr19:g.44908783C>T	rs769455	APOE	441264	missense_variant	missense_variant	R163C	34.0	0.695	0.4378	0.00642888	Pathogenic	0
+chr19:g.44908879A>T	rs1380773651	APOE	2562131	missense_variant	missense_variant	I195F	1.567	0.24	0.1754		Uncertain significance	1
+chr19:g.44908894G>C		APOE	1750896	missense_variant	missense_variant;sequence_feature	G200R	4.33	0.183	0.247		Uncertain significance	1
+chr19:g.44909043G>A	rs771354248	APOE	729588	synonymous_variant	synonymous_variant		9.847			1.97195e-05	Likely benign	1
+chr19:g.44909208C>T	rs772936346	APOE	1765901	synonymous_variant	synonymous_variant		14.08			1.97114e-05	Likely benign	1
+chr19:g.44909238C>T	rs1051068315	APOE	726778	synonymous_variant	sequence_feature;synonymous_variant		13.02			1.31423e-05	Likely benign	2
+chr19:g.44907906C>T		APOE	2575584	stop_gained	downstream_gene_variant;stop_gained	Q64X	36.0				Uncertain significance	1
+chr19:g.44908631C>A	rs745552623	APOE	1315880	missense_variant	downstream_gene_variant;missense_variant	S112Y	22.7	0.406	0.2392	4.59976e-05	Uncertain significance	1
+chr19:g.44908650G>T	rs768998148	APOE	1732582	synonymous_variant	downstream_gene_variant;synonymous_variant		13.17			1.31435e-05	Likely benign	1
+chr19:g.44908666G>A		APOE	2565616	missense_variant	downstream_gene_variant;missense_variant;sequence_feature	A124T	0.183	0.259	0.0744		Uncertain significance	1
+chr19:g.44905579T>G	rs405509	APOE	619951	upstream_gene_variant	downstream_gene_variant;intergenic_region;upstream_gene_variant		7.314			0.575394	drug response	0
+chr19:g.44909023A>T	rs1969880357	APOE	3128002	missense_variant	missense_variant	T243S	2.557	0.079	0.1083	6.58302e-06	Uncertain significance	1
+chr19:g.44909029G>T	rs1334498236	APOE	3308526	missense_variant	missense_variant	D245Y	26.6	0.422	0.2154	6.57652e-06	Uncertain significance	1
+chr19:g.44909178G>T	rs557715042	APOE	1764810	missense_variant	missense_variant	W294C	25.5	0.668	0.9019	0.000105122	Uncertain significance	1
+chr19:g.44909182G>T	rs757764781	APOE	3352089	missense_variant	missense_variant	G296W	25.2	0.377	0.2655	1.31427e-05	Uncertain significance	0
+chr19:g.44909191G>C	rs1367811482	APOE	1765256	missense_variant	missense_variant	E299Q	24.3	0.396	0.1144	4.50353e-06	Uncertain significance	1
+chr19:g.44909228C>T	rs1969889684	APOE	3308501	missense_variant	missense_variant	P311L	14.54	0.076	0.0931		Uncertain significance	1
+chr19:g.44908529G>T	rs1238363607	APOE	2412586	splice_region_variant	downstream_gene_variant;intron_variant;splice_region_variant					6.57436e-06	Uncertain significance	0
+chr19:g.44908536G>A	rs759134820	APOE	3231964	synonymous_variant	downstream_gene_variant;sequence_feature;synonymous_variant		9.863			1.31415e-05	Likely benign	1
+chr19:g.44907843C>T	rs121918399	APOE	17880	missense_variant	downstream_gene_variant;missense_variant;sequence_feature	R43C	24.2	0.601	0.2016	7.98831e-06	Pathogenic/Likely pathogenic	2
+chr19:g.44908771_44908779del		APOE	2439146	disruptive_inframe_deletion	disruptive_inframe_deletion						Uncertain significance	1
+chr19:g.44908791G>T	rs1347476726	APOE	3055012	synonymous_variant	synonymous_variant		9.805			6.57324e-06	Likely benign	0
+chr19:g.44908917C>G	rs1296647170	APOE	2562134	synonymous_variant	synonymous_variant		12.08			0.00012871	Likely benign	1

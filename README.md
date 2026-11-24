@@ -93,6 +93,8 @@ The provided global_align forces end-to-end pairing. That paired APOE's last 3 e
 ### Module 5
 I used CYP2C19, and I did run Atlas.
 
+For the assignment I used my assigned pharmacogene, CYP2C19, but for Portfolio Deliverable 2 I reran it on Alzheimer's disease in `BIOT6900_Module5_Part3_Assignment_AD_version.ipynb` (HCN1 variants plus APOE and CYP2C19 pharmacogenomics for AD drugs), with every change from the original marked by an `# AD VERSION —` comment.
+
 Note on the Atlas cell (Step 7). The top_feature tally in Step 7 sums to 169 although the cell reports scoring 70 variants, which indicates rows were duplicated when the Atlas scores were merged onto the variant table. The Step 8 flag counts are computed over that enlarged table and are therefore overstated. Every variant discussed in my report has an rsID and a distinct score, and pgx_classified_CYP2C19.csv is written before this cell runs.
 
 ### Module 6
@@ -129,6 +131,8 @@ What didn't work or needed changing:
 
 ### Module 8
 Target gene: ERBB2 (HER2). Notebook: `BIOT6900_Module8_Assignment_Starter.ipynb`. Report: `Nicholas Adrogue — BIOT 6900 Module 8.pdf`. Figures and tables are in `images/` (`module8_assignment_*`).
+
+For the assignment I used the course's breast-cancer data with ERBB2, but for Portfolio Deliverable 2 I reran it on Alzheimer's disease in `BIOT6900_Module8_Assignment_AD_version.ipynb` (CELLxGENE AD brain cells with HCN1 and APOE, plus a Visium section from an AD patient's middle temporal gyrus, donor T4857 from GEO GSE220442, committed in `data/GSE220442_T4857/`), with every change from the original marked by an `# AD VERSION —` comment.
 
 The kernel kept dying in section 1.2, and fixing that turned up two more errors. I made these changes to get it running:
 - **Kernel crash (segmentation fault) in `sc.pp.calculate_qc_metrics`.** The import cell loads PyTorch, and PyTorch and numba (which scanpy uses) each load their own copy of the OpenMP threading library, which conflict. I added these lines at the very top of the import cell, before `import scanpy`, so numba uses its own threading layer instead:

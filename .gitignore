@@ -4,6 +4,24 @@ structures/
 data/*
 !data/pathmnist_tumour_vs_normal_subset.npz
 
+# Data needed to re-run the Portfolio Deliverable 2 notebooks (Labs 5-8)
+# Module 5 AD version: cached ClinVar/MyVariant tables and AlphaGenome Atlas scores
+!data/HCN1.tsv
+!data/APOE.tsv
+!data/CYP2C19.tsv
+!data/avi_HCN1.tsv
+!data/avi_CYP2C19.tsv
+# Module 6 (and Module 7 patients): 1000 Genomes genotypes + PGS000334
+!data/genotypes.csv
+!data/variants.csv
+!data/score.csv
+!data/meta.csv
+!data/README.md
+# Module 7: AD GWAS (Module 2)
+!data/ad_gwas.tsv
+# Module 8 AD version: one AD donor's Visium section (GEO GSE220442, donor T4857) + spot metadata
+!data/GSE220442_T4857/
+
 # Capstone — OASIS data must never be committed (DUA clause 3: no redistribution)
 Capstone/Data/
 Capstone/**/Data/

@@ -1,0 +1,27 @@
+rsid,consequence,clinvar_sig,label,gnomad_af
+rs4866929,intron_variant,Benign,B/LB,0.342157
+rs544994462,missense_variant,Benign/Likely benign,B/LB,0.00349109
+rs188586020,splice_region_variant,Benign/Likely benign,B/LB,0.00177069
+rs866912042,intron_variant,Likely benign,B/LB,0.0221741
+rs16902099,intron_variant,Benign,B/LB,0.0162843
+rs75449215,intron_variant,Benign,B/LB,0.0334928
+rs56217199,synonymous_variant,Benign,B/LB,0.00184068
+rs374836434,intron_variant,Likely benign,B/LB,0.00543557
+rs113202045,intron_variant,Benign,B/LB,0.022919
+rs75228534,intron_variant,Benign,B/LB,0.031253
+rs78789554,upstream_gene_variant,Likely benign,B/LB,0.00447855
+,intron_variant,Likely benign,B/LB,0.00658016
+rs561646796,intron_variant,Likely benign,B/LB,0.00817582
+rs79491080,intron_variant,Benign,B/LB,0.0160923
+rs184241507,upstream_gene_variant,Benign,B/LB,0.016927
+rs188999686,intron_variant,Likely benign,B/LB,0.00446206
+rs112775315,intron_variant,Likely benign,B/LB,0.00473778
+rs113860027,intron_variant,Likely benign,B/LB,0.00648224
+rs148932124,synonymous_variant,Benign,B/LB,0.00401731
+rs113964925,intron_variant,Likely benign,B/LB,0.00327979
+rs115647789,intron_variant,Likely benign,B/LB,0.00693211
+rs112886466,intron_variant,Likely benign,B/LB,0.0100808
+rs76055011,intron_variant,Benign,B/LB,0.0716446
+rs10066808,missense_variant,Benign,B/LB,0.00120896
+rs774992569,intron_variant,Likely benign,B/LB,0.0286185
+rs1554014669,intron_variant,Benign,B/LB,0.0178862

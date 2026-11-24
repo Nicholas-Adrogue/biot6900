@@ -1,0 +1,4 @@
+APOE e4 copies,example genotypes,lecanemab ARIA %,lecanemab placebo ARIA %,lecanemab symptomatic ARIA-E %,donanemab ARIA %,donanemab placebo ARIA %,donanemab symptomatic ARIA-E %,recommendation,actionability
+0 (non-carrier),"e3/e3, e2/e3, e2/e2",13,4,1,25,12,4,"Eligible; test before starting, standard ARIA MRI monitoring.",Label-directed test (boxed warning)
+1 (heterozygote),"e3/e4, e2/e4",19,9,2,36,13,7,Eligible; discuss intermediate ARIA risk; standard ARIA MRI monitoring.,Label-directed test (boxed warning)
+2 (homozygote),e4/e4,45,22,9,55,22,8,"Highest ARIA risk incl. symptomatic/serious ARIA; shared decision-making; EU lecanemab authorisation excludes e4 homozygotes; if treated in the US, close MRI monitoring.",Label-directed test (boxed warning)

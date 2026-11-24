@@ -1,0 +1,6 @@
+band,n,n_PLP,n_BLB,LR+,evidence
+"(0, 10]",217,0,217,0.0,"strong, benign"
+"(10, 20]",106,2,104,0.17,"moderate, benign"
+"(20, 25]",32,11,21,4.5,"moderate, pathogenic"
+"(25, 30]",27,20,7,24.53,"strong, pathogenic"
+"(30, 50]",11,8,3,22.89,"strong, pathogenic"

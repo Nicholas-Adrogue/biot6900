@@ -1,0 +1,15 @@
+consequence,n,cadd_phred,revel,alphamissense
+missense_variant,536,532,533,533
+synonymous_variant,279,277,0,0
+intron_variant,75,29,0,2
+splice_region_variant,32,6,0,1
+stop_gained,16,15,0,0
+frameshift_variant,13,0,0,0
+disruptive_inframe_deletion,7,0,0,0
+splice_donor_variant,4,0,0,0
+upstream_gene_variant,2,2,0,0
+3_prime_UTR_variant,1,0,0,0
+conservative_inframe_insertion,1,0,0,0
+disruptive_inframe_insertion,1,0,0,0
+splice_acceptor_variant,1,0,0,0
+start_lost,1,0,0,0

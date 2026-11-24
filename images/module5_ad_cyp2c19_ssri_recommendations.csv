@@ -1,0 +1,6 @@
+phenotype,example diplotype,CPIC 2023 citalopram/escitalopram,AD-specific note,actionability
+Ultrarapid,*17/*17,Consider an alternative not predominantly metabolized by CYP2C19.,Risk of non-response to agitation/depression treatment.,CPIC level A
+Rapid,*1/*17,"Standard starting dose; if inadequate response, titrate up or switch.",,CPIC level A
+Normal,*1/*1,Standard starting dose and titration.,"Citalopram still capped at 20 mg/day if over 60 (FDA, QT).",CPIC level A
+Intermediate,"*1/*2, *2/*17",Standard starting dose; consider slower titration and lower maintenance dose.,"Higher exposure in an elderly, QT-vulnerable population.",CPIC level A
+Poor,"*2/*2, *2/*3","Consider an alternative; if used, lower start, slower titration, ~50% maintenance dose.",Highest exposure: QT prolongation; CitAD 30 mg dose showed QT and cognitive effects.,CPIC level A

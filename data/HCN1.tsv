@@ -1,0 +1,1001 @@
+hgvs_g	rsid	gene	clinvar_id	consequence	consequence_all	aa_change	cadd_phred	revel	alphamissense	gnomad_af	clinvar_sig	clinvar_stars
+chr5:g.45262605T>A		HCN1	2841136	missense_variant	missense_variant	Q663H	0.539	0.402	0.1456		Uncertain significance	1
+chr5:g.45262334G>A	rs1744762137	HCN1	981335	stop_gained	stop_gained	Q754X	35.0				Uncertain significance	1
+chr5:g.45262335C>T	rs752434266	HCN1	530636	synonymous_variant	synonymous_variant		7.473			6.57263e-06	Likely benign	1
+chr5:g.45262422G>T	rs56217199	HCN1	2858659	synonymous_variant	synonymous_variant		3.867			4.04384e-06	Likely benign	1
+chr5:g.45262424C>A	rs141383188	HCN1	947821	missense_variant	missense_variant	A724S	23.7	0.134	0.1023		Uncertain significance	1
+chr5:g.45396577C>G	rs1579867065	HCN1	1061411	missense_variant	missense_variant	G382A	24.3	0.729	0.9977		Uncertain significance	1
+chr5:g.45396593G>C	rs2112040746	HCN1	1384118	missense_variant	missense_variant	L377V	23.3	0.694	0.4177		Uncertain significance	1
+chr5:g.45261982G>A	rs1744747998	HCN1	1350453	missense_variant	missense_variant	S871F	23.1	0.317	0.1604		Uncertain significance	1
+chr5:g.45645306A>G		HCN1	2027567	missense_variant	missense_variant	M243T	16.49	0.487	0.5225		Uncertain significance	1
+chr5:g.45303593A>G		HCN1	2097259	splice_region_variant	intron_variant;splice_region_variant						Uncertain significance	1
+chr5:g.45303681C>T	rs2111904917	HCN1	1474026	missense_variant	missense_variant	M512I	33.0	0.912	0.9996		Uncertain significance	1
+chr5:g.45303707G>A	rs35229491	HCN1	754429	stop_gained	stop_gained	R504X	41.0			0.0	Likely benign	1
+chr5:g.45645449C>A		HCN1	2128837	missense_variant	missense_variant;sequence_feature	R195S	27.6	0.866	0.9994		Pathogenic	1
+chr5:g.45645488T>C	rs769798851	HCN1	699401	synonymous_variant	synonymous_variant		0.46			6.57263e-06	Likely benign	1
+chr5:g.45645515T>A	rs934881083	HCN1	1104579	synonymous_variant	synonymous_variant		6.9			6.57428e-06	Likely benign	1
+chr5:g.45645550C>G		HCN1	2710337	missense_variant	missense_variant	V162L	23.5	0.78	0.882		Uncertain significance	1
+chr5:g.45695884G>A	rs1461727986	HCN1	461369	synonymous_variant	synonymous_variant		12.63				Likely benign	1
+chr5:g.45695896G>A	rs1037432166	HCN1	3628505	synonymous_variant	synonymous_variant		14.16			8.2371e-06	Likely benign	1
+chr5:g.45695966G>A	rs1060500095	HCN1	404096	missense_variant	missense_variant	P43L	24.7	0.288	0.0962	1.33781e-05	Likely benign	1
+chr5:g.45696016G>A	rs1245838252	HCN1	1097479	synonymous_variant	synonymous_variant		16.24			2.67455e-05	Likely benign	1
+chr5:g.45695781C>T		HCN1	1728069	missense_variant	missense_variant	G105R	33.0	0.772	0.9894		Uncertain significance	1
+chr5:g.45695791C>G		HCN1	1703379	missense_variant	missense_variant	M101I	23.9	0.425	0.9267		Uncertain significance	1
+chr5:g.45262342G>A	rs1052640717	HCN1	2398014	missense_variant	missense_variant	P751L	0.32	0.266	0.0821	8.05309e-06	Likely benign	1
+chr5:g.45262342G>C	rs1052640717	HCN1	1578121	missense_variant	missense_variant	P751R	0.006	0.198	0.1053		Likely benign	1
+chr5:g.45262346G>C	rs764274304	HCN1	2155270	missense_variant	missense_variant	Q750E	0.003	0.086	0.1044	4.02521e-06	Uncertain significance	1
+chr5:g.45262451G>T		HCN1	3721878	synonymous_variant	synonymous_variant		7.078				Likely benign	1
+chr5:g.45645267A>G		HCN1	1760114	missense_variant	missense_variant	I256T	26.5	0.976	0.9926		Uncertain significance	1
+chr5:g.45645313T>A		HCN1	2022517	stop_gained	sequence_feature;stop_gained	K241X	37.0				Uncertain significance	1
+chr5:g.45267192A>G	rs1561081385	HCN1	697128	synonymous_variant	synonymous_variant		5.301				Likely benign	1
+chr5:g.45303689T>C		HCN1	1900517	missense_variant	missense_variant	K510E	28.5	0.704	0.9102		Uncertain significance	1
+chr5:g.45303780C>T	rs372374391	HCN1	833684	synonymous_variant	synonymous_variant		17.09			9.20762e-05	Benign	1
+chr5:g.45396581C>T	rs750838439	HCN1	574550	missense_variant	missense_variant	V381I	23.5	0.547	0.1312	6.57194e-06	Uncertain significance	1
+chr5:g.45396681G>T		HCN1	2794550	stop_gained	stop_gained	Y347X	35.0				Uncertain significance	1
+chr5:g.45396694T>C	rs2112040825	HCN1	1053869	missense_variant	missense_variant	K343R	22.9	0.381	0.118		Uncertain significance	1
+chr5:g.45396714C>A	rs1739694682	HCN1	1644474	splice_region_variant	intron_variant;splice_region_variant						Likely benign	1
+chr5:g.45262549C>G	rs769364301	HCN1	2148924	missense_variant	missense_variant	S682T	10.03	0.248	0.0612	3.97848e-06	Uncertain significance	1
+chr5:g.45262642G>A	rs771934361	HCN1	1985766	missense_variant	missense_variant	S651L	13.7	0.233	0.0825	1.97272e-05	Uncertain significance	1
+chr5:g.45353244A>G		HCN1	2153701	synonymous_variant	synonymous_variant		7.588				Likely benign	1
+chr5:g.45645374G>A	rs1173962278	HCN1	2706708	synonymous_variant	sequence_feature;synonymous_variant		7.733				Likely benign	1
+chr5:g.45645398C>A	rs752579418	HCN1	1588010	synonymous_variant	synonymous_variant		12.78			6.57557e-06	Likely benign	1
+chr5:g.45695869C>G	rs2112109170	HCN1	1444790	missense_variant	missense_variant	E75D	7.816	0.207	0.0815		Uncertain significance	1
+chr5:g.45695878G>A	rs1307465057	HCN1	2122188	synonymous_variant	synonymous_variant		7.176			0.0	Likely benign	1
+chr5:g.45695969G>C		HCN1	3635385	missense_variant	missense_variant	P42R	23.6	0.27	0.1429		Uncertain significance	1
+chr5:g.45696027C>A		HCN1	2837155	missense_variant	missense_variant	A23S	14.1	0.209	0.0777		Uncertain significance	1
+chr5:g.45696064C>A	rs1459956316	HCN1	530598	synonymous_variant	synonymous_variant		17.6				Likely benign	1
+chr5:g.45262298C>T	rs776567935	HCN1	3022307	missense_variant	missense_variant	E766K	15.97	0.262	0.2885	8.00833e-06	Uncertain significance	1
+chr5:g.45262424C>T	rs141383188	HCN1	699883	missense_variant	missense_variant	A724T	25.0	0.105	0.1069	0.000256971	Likely benign	1
+chr5:g.45262517T>C	rs377359279	HCN1	1105577	missense_variant	missense_variant	I693V	5.701	0.089	0.0626	6.62875e-06	Likely benign	1
+chr5:g.45396578C>T		HCN1	3372095	missense_variant	missense_variant	G382R	33.0	0.836	1.0		Uncertain significance	1
+chr5:g.45396627G>A		HCN1	3721439	synonymous_variant	synonymous_variant		11.42				Likely benign	1
+chr5:g.45695657G>A	rs748471108	HCN1	1988924	intron_variant	intron_variant		5.654			6.57583e-06	Likely benign	1
+chr5:g.45695678C>T		HCN1	1738411	missense_variant	missense_variant	S139N	27.0	0.753	0.999		Uncertain significance	1
+chr5:g.45695820C>T		HCN1	2737673	missense_variant	missense_variant	G92S	25.8	0.403	0.1886		Uncertain significance	1
+chr5:g.45695848_45695849dup		HCN1	2580236								Uncertain significance	1
+chr5:g.45695854_45695855dup		HCN1	3766775								Uncertain significance	1
+chr5:g.45262117C>T	rs1204287489	HCN1	1363217	missense_variant	missense_variant	G826D	17.07	0.357	0.2836	4.00554e-06	Uncertain significance	1
+chr5:g.45262139C>T	rs1197215604	HCN1	2632451	missense_variant	missense_variant	V819M	11.34	0.136	0.0755	6.57272e-06	Uncertain significance	1
+chr5:g.45303837C>A	rs1745674800	HCN1	1714910	missense_variant	missense_variant;splice_region_variant	E460D	24.4	0.605	0.8735		Uncertain significance	1
+chr5:g.45645347G>A	rs1442056712	HCN1	1648729	synonymous_variant	synonymous_variant		9.192			3.98867e-06	Likely benign	1
+chr5:g.45262557G>A	rs762879493	HCN1	2060628	synonymous_variant	synonymous_variant		1.446			7.95608e-06	Likely benign	1
+chr5:g.45262613T>A	rs1744772554	HCN1	2724380	missense_variant	missense_variant	R661W	17.53	0.597	0.2273		Uncertain significance	1
+chr5:g.45266487A>G	rs4866929	HCN1	3256856	intron_variant	intron_variant		7.264			0.342157	Benign	1
+chr5:g.45267217C>G	rs936848980	HCN1	938199	missense_variant	missense_variant	S552T	26.3	0.662	0.5272	1.31525e-05	Uncertain significance	1
+chr5:g.45267258A>G	rs1579766462	HCN1	796483	splice_region_variant	intron_variant;splice_region_variant						Likely benign	1
+chr5:g.45303590T>C	rs1467443579	HCN1	2188971	intron_variant	intron_variant					1.31468e-05	Likely benign	1
+chr5:g.45303698C>T	rs1685224516	HCN1	932617	missense_variant	missense_variant	A507T	17.8	0.462	0.1307	1.31518e-05	Uncertain significance	1
+chr5:g.45695873_45696282del		HCN1	646929	start_lost	5_prime_UTR_truncation;conservative_inframe_deletion;exon_loss_variant;intergenic_region;sequence_feature;start_lost;upstream_gene_variant						Uncertain significance	1
+chr5:g.45695954C>A	rs544994462	HCN1	193442	missense_variant	missense_variant	G47V	23.7	0.376	0.091	0.00349109	Benign/Likely benign	2
+chr5:g.45353141C>T	rs1234068441	HCN1	461359	missense_variant	missense_variant	E446K	26.2	0.87	0.9977	3.99345e-06	Uncertain significance	1
+chr5:g.45645349A>T	rs1561230513	HCN1	589246	missense_variant	missense_variant	S229T	23.9	0.854	0.7975		Uncertain significance	1
+chr5:g.45695704T>G	rs1368467625	HCN1	2746452	synonymous_variant	synonymous_variant		2.935			4.03125e-06	Likely benign	1
+chr5:g.45695893A>G	rs779788281	HCN1	412770	synonymous_variant	synonymous_variant		13.71			0.000219209	Likely benign	1
+chr5:g.45695964C>A	rs1421975269	HCN1	1319667	missense_variant	missense_variant	G44W	26.3	0.36	0.3843		Uncertain significance	1
+chr5:g.45695964C>G	rs1421975269	HCN1	859951	missense_variant	missense_variant	G44R	23.3	0.335	0.3525	6.66596e-06	Uncertain significance	1
+chr5:g.45695988C>G		HCN1	2120317	missense_variant	missense_variant	E36Q	17.73	0.193	0.1356		Uncertain significance	1
+chr5:g.45696003C>A	rs2112109649	HCN1	1494945	missense_variant	missense_variant	G31W	28.0	0.344	0.3791		Uncertain significance	1
+chr5:g.45696015C>T	rs1740005870	HCN1	853010	missense_variant	missense_variant	A27T	21.0	0.29	0.0723		Uncertain significance	1
+chr5:g.45696064C>G	rs1459956316	HCN1	2062629	synonymous_variant	synonymous_variant		13.01			1.32837e-05	Likely benign	1
+chr5:g.45645333T>C	rs1554037381	HCN1	3366984	missense_variant	missense_variant	Y234C	25.8	0.935	0.9674		Likely pathogenic	1
+chr5:g.45645627T>A	rs753464271	HCN1	1933209	intron_variant	intron_variant		7.442			4.43549e-06	Likely benign	1
+chr5:g.45262255G>A		HCN1	1721413	missense_variant	missense_variant	T780I	17.46	0.195	0.334		Uncertain significance	1
+chr5:g.45262347C>T	rs1744762588	HCN1	1626460	synonymous_variant	synonymous_variant		0.578			6.57125e-06	Likely benign	1
+chr5:g.45262433A>T	rs905412259	HCN1	2740137	missense_variant	missense_variant	S721T	13.95	0.178	0.0852	1.32422e-05	Uncertain significance	1
+chr5:g.45267158C>A		HCN1	3648848	missense_variant	missense_variant	V572F	34.0	0.912	0.9981		Uncertain significance	1
+chr5:g.45303622A>G		HCN1	3764175	missense_variant	missense_variant	L532P	29.3	0.994	0.9999		Uncertain significance	1
+chr5:g.45396570G>T	rs764282200	HCN1	530586	synonymous_variant	synonymous_variant		8.403			1.31425e-05	Likely benign	1
+chr5:g.45396579G>A	rs761760627	HCN1	588618	synonymous_variant	synonymous_variant		12.7			1.97135e-05	Likely benign	1
+chr5:g.45396626G>T		HCN1	2627061	missense_variant	missense_variant	P366T	26.3	0.922	0.9964		Likely pathogenic	0
+chr5:g.45396680C>T	rs1333872397	HCN1	1499661	missense_variant	missense_variant	A348T	27.4	0.938	0.9838	6.57817e-06	Uncertain significance	1
+chr5:g.45645435T>C	rs374770620	HCN1	1112424	missense_variant	missense_variant	N200S	8.912	0.242	0.1194	2.62885e-05	Likely benign	1
+chr5:g.45645539T>C	rs763384509	HCN1	1573894	synonymous_variant	synonymous_variant		2.188			1.3151e-05	Likely benign	1
+chr5:g.45262049C>A	rs1561078885	HCN1	2041691	missense_variant	missense_variant	A849S	24.5	0.444	0.1013	3.99218e-06	Uncertain significance	1
+chr5:g.45262147G>C	rs1413473165	HCN1	645665	missense_variant	missense_variant	P816R	15.13	0.444	0.3009	3.99007e-06	Uncertain significance	1
+chr5:g.45262826_45262829del		HCN1	1568456	intron_variant	intron_variant					6.57082e-06	Likely benign	1
+chr5:g.45267085G>A	rs188586020	HCN1	461365	splice_region_variant	intron_variant;splice_region_variant		12.03			0.00177069	Benign/Likely benign	2
+chr5:g.45303817C>G	rs773990933	HCN1	1047281	missense_variant	missense_variant	R467P	34.0	0.866	0.9998	6.58077e-06	Uncertain significance	1
+chr5:g.45353198_45353215del		HCN1	3369286	disruptive_inframe_deletion	disruptive_inframe_deletion						Uncertain significance	1
+chr5:g.45303850C>T	rs1263517532	HCN1	2878007	intron_variant	intron_variant					6.58944e-06	Likely benign	1
+chr5:g.45353116T>C		HCN1	2797275	missense_variant	missense_variant	N454S	10.27	0.417	0.1162		Uncertain significance	1
+chr5:g.45353194C>T	rs1265198753	HCN1	1675984	missense_variant	missense_variant	R428H	35.0	0.819	0.9963	0.0	Uncertain significance	1
+chr5:g.45262219G>A	rs140758934	HCN1	1951639	missense_variant	missense_variant	S792L	31.0	0.291	0.3095	2.6275e-05	Uncertain significance	1
+chr5:g.45262362C>T	rs757283749	HCN1	1159415	synonymous_variant	synonymous_variant		14.02			2.6293e-05	Likely benign	1
+chr5:g.45262416C>A	rs1039430806	HCN1	1343279	missense_variant	missense_variant;sequence_feature	Q726H	23.9	0.278	0.2768	6.57843e-06	Uncertain significance	1
+chr5:g.45262624G>A	rs1293402226	HCN1	2501542	missense_variant	missense_variant	T657I	8.813	0.192	0.121	6.57713e-06	Uncertain significance	1
+chr5:g.45262644T>C	rs750304269	HCN1	1104981	synonymous_variant	synonymous_variant		0.003			1.59058e-05	Likely benign	1
+chr5:g.45262697C>T	rs756115935	HCN1	1312056	missense_variant	missense_variant	V633M	24.5	0.372	0.4441		Uncertain significance	1
+chr5:g.45262730G>A	rs748765112	HCN1	2861939	missense_variant	missense_variant	L622F	23.7	0.614	0.963	3.98086e-06	Uncertain significance	1
+chr5:g.45262737G>C	rs754531784	HCN1	662430	missense_variant	missense_variant	N619K	20.2	0.374	0.8271		Uncertain significance	1
+chr5:g.45262789A>G		HCN1	2817150	missense_variant	missense_variant	L602P	23.7	0.363	0.9896		Uncertain significance	1
+chr5:g.45267464A>T	rs866912042	HCN1	1300964	intron_variant	intron_variant					0.0221741	Likely benign	1
+chr5:g.45303696G>A	rs55642950	HCN1	461360	synonymous_variant	synonymous_variant		14.66			0.000111947	Likely benign	1
+chr5:g.45353227T>A	rs2111983197	HCN1	1698306	missense_variant	missense_variant	Y417F	23.8	0.737	0.926		Uncertain significance	1
+chr5:g.45396684T>C	rs1739694100	HCN1	2960838	synonymous_variant	synonymous_variant		9.683				Likely benign	1
+chr5:g.45261959G>A	rs761866949	HCN1	1554103	missense_variant	missense_variant	P879S	7.365	0.254	0.0649	1.1955e-05	Likely benign	1
+chr5:g.45261996A>G	rs894086520	HCN1	1111587	synonymous_variant	synonymous_variant		0.189				Likely benign	1
+chr5:g.45262026G>T	rs781250348	HCN1	1620105	synonymous_variant	synonymous_variant		6.241			3.98559e-06	Likely benign	1
+chr5:g.45262143T>C		HCN1	2858424	synonymous_variant	synonymous_variant		0.003				Likely benign	1
+chr5:g.45461963A>C		HCN1	2116196	missense_variant	missense_variant	I298M	23.3	0.752	0.9609		Uncertain significance	1
+chr5:g.45645241G>T	rs1745528201	HCN1	937761	missense_variant	missense_variant	L265I	26.6	0.775	0.8979		Uncertain significance	1
+chr5:g.45695701G>T		HCN1	2795982	synonymous_variant	synonymous_variant		0.558				Likely benign	1
+chr5:g.45695889_45695890insCTTAGTGGCTGCGGTCCGGGCTCCGGTGCGGCTGGTGCTGAAGCTGAGGCT		HCN1	2958291	conservative_inframe_insertion	conservative_inframe_insertion						Uncertain significance	1
+chr5:g.45695917G>T	rs1298378220	HCN1	1779936	missense_variant	missense_variant	F59L	22.8	0.396	0.9352	0.0	Uncertain significance	1
+chr5:g.45695967G>A		HCN1	3692275	missense_variant	missense_variant	P43S	14.33	0.235	0.0655		Uncertain significance	1
+chr5:g.45696074G>C	rs1156299203	HCN1	2047090	missense_variant	missense_variant	P7R	18.56	0.305	0.1002	1.33844e-05	Uncertain significance	1
+NM_021072.4:c.2T>C		HCN1	3361935								Uncertain significance	1
+chr5:g.45396628G>T	rs1739693084	HCN1	1307953	missense_variant	missense_variant	A365D	31.0	0.97	0.9866		Uncertain significance	1
+chr5:g.45461845C>A		HCN1	1712221	splice_donor_variant	intron_variant;splice_donor_variant						Uncertain significance	1
+chr5:g.45461999G>A	rs765728211	HCN1	1932872	synonymous_variant	synonymous_variant		9.182			6.57436e-06	Likely benign	1
+chr5:g.45462006A>G	rs1741171789	HCN1	981336	missense_variant	missense_variant;splice_region_variant	I284T	28.1	0.967	0.9956		Uncertain significance	1
+chr5:g.45645177C>T	rs747245331	HCN1	2066044	splice_region_variant	intron_variant;splice_region_variant	C286Y	0.297		0.2059	6.57782e-06	Likely benign	1
+chr5:g.45645202T>C		HCN1	2105764	missense_variant	missense_variant	I278V	23.2	0.628	0.416		Uncertain significance	1
+chr5:g.45645565G>T	rs1561230606	HCN1	1380415	missense_variant	missense_variant	L157I	23.1	0.715	0.883		Uncertain significance	1
+chr5:g.45695662C>T	rs759096969	HCN1	2076175	splice_region_variant	intron_variant;splice_region_variant						Likely benign	1
+chr5:g.45695734C>T	rs751582076	HCN1	1610365	synonymous_variant	synonymous_variant		9.121			1.20879e-05	Likely benign	1
+chr5:g.45261953C>T	rs56377228	HCN1	2732092	missense_variant	missense_variant	A881T	14.5	0.263	0.0625	3.98568e-06	Uncertain significance	1
+chr5:g.45262125G>A	rs142485423	HCN1	1089038	synonymous_variant	synonymous_variant		1.889			2.62885e-05	Likely benign	1
+chr5:g.45262596C>T	rs758849997	HCN1	1013758	synonymous_variant	synonymous_variant		9.606			1.19339e-05	Likely benign	1
+chr5:g.45262614C>T	rs1335934380	HCN1	530509	missense_variant	missense_variant	M660I	6.194	0.276	0.1186	6.58328e-06	Likely benign	1
+chr5:g.45262644T>G	rs750304269	HCN1	1783212	synonymous_variant	synonymous_variant		0.01			1.97358e-05	Likely benign	1
+chr5:g.45262645G>A	rs766768359	HCN1	2263575	missense_variant	missense_variant	T650I	7.605	0.097	0.0989	1.31486e-05	Likely benign	1
+chr5:g.45266544C>T	rs1354247600	HCN1	2655456	intron_variant	intron_variant					1.31619e-05	Likely benign	1
+chr5:g.45267075G>T		HCN1	2706799	intron_variant	intron_variant						Likely benign	1
+chr5:g.45461944T>A	rs1057521989	HCN1	384546	missense_variant	missense_variant	M305L	29.1	0.78	0.8911		Likely pathogenic	1
+chr5:g.45695955C>T		HCN1	2742869	missense_variant	missense_variant	G47R	24.8	0.249	0.4211		Uncertain significance	1
+chr5:g.45695965C>T	rs1250800401	HCN1	639313	synonymous_variant	synonymous_variant		12.06				Likely benign	1
+chr5:g.45696057T>A		HCN1	2100411	missense_variant	missense_variant	S13C	22.9	0.336	0.0809		Uncertain significance	1
+chr5:g.45696078T>G		HCN1	3679018	missense_variant	missense_variant	K6Q	7.103	0.337	0.13		Uncertain significance	1
+chr5:g.45396508C>T	rs1351333514	HCN1	1342976	missense_variant	missense_variant	R405Q	29.6	0.608	0.9773	3.99802e-06	Uncertain significance	0
+chr5:g.45396532A>T		HCN1	3023856	missense_variant	missense_variant	I397N	28.1	0.806	0.9999		Uncertain significance	1
+chr5:g.45262307G>A		HCN1	2662104	missense_variant	missense_variant	P763S	16.84	0.23	0.0702		Uncertain significance	1
+chr5:g.45262405A>G	rs1744764294	HCN1	959661	missense_variant	missense_variant	M730T	4.245	0.135	0.1402		Uncertain significance	1
+chr5:g.45262518G>A	rs1016993157	HCN1	1124736	synonymous_variant	synonymous_variant		8.648			3.98194e-06	Likely benign	1
+chr5:g.45262472C>T	rs1406904527	HCN1	2832685	missense_variant	missense_variant	V708I	23.0	0.112	0.0764	3.99616e-06	Uncertain significance	1
+chr5:g.45262146_45262147dup		HCN1	2709117								Uncertain significance	1
+chr5:(?_45665996)_(46199398_?)del		HCN1	443903								Uncertain significance	0
+chr5:g.45267259A>T	rs2111846924	HCN1	1307502	splice_region_variant	intron_variant;splice_region_variant						Uncertain significance	1
+chr5:g.45303570T>C	rs16902099	HCN1	1291444	intron_variant	intron_variant		3.267			0.0162843	Benign	2
+chr5:g.45303617C>T	rs2111904810	HCN1	1313468	missense_variant	missense_variant	D534N	34.0	0.611	0.9718		Uncertain significance	1
+chr5:g.45461949C>A		HCN1	2014403	missense_variant	missense_variant	G303V	26.5	0.669	0.713		Likely pathogenic	1
+chr5:g.45461967C>G	rs587777494	HCN1	139574	missense_variant	missense_variant	R297T	32.0	0.98	0.9993		Pathogenic	0
+chr5:g.45461975T>C	rs1052609040	HCN1	2725664	synonymous_variant	synonymous_variant		5.742				Likely benign	1
+chr5:g.45645405G>C		HCN1	3781194	missense_variant	missense_variant	P210R	25.6	0.875	0.9883		Uncertain significance	1
+chr5:g.45262554G>A	rs2111839646	HCN1	1080305	synonymous_variant	synonymous_variant		7.133				Likely benign	1
+chr5:g.45262711T>G		HCN1	2841931	missense_variant	missense_variant	H628P	22.5	0.469	0.9389		Uncertain significance	1
+chr5:g.45262725C>T		HCN1	1999455	synonymous_variant	synonymous_variant		6.533				Likely benign	1
+chr5:g.45262738T>G	rs778783214	HCN1	1345269	missense_variant	missense_variant	N619T	21.1	0.361	0.2634	2.38983e-05	Uncertain significance	1
+chr5:g.45267072G>T	rs567989576	HCN1	1550587	intron_variant	intron_variant						Likely benign	1
+chr5:g.45267090T>A	rs1286683037	HCN1	2152598	splice_region_variant	splice_region_variant;synonymous_variant		15.24			3.97633e-06	Uncertain significance	1
+chr5:g.45396540G>A	rs1261922847	HCN1	461358	synonymous_variant	synonymous_variant		9.25			2.62943e-05	Likely benign	1
+chr5:g.45695671G>C	rs2112108769	HCN1	1437574	missense_variant	missense_variant;splice_region_variant	F141L	23.5	0.789	0.9984		Uncertain significance	1
+chr5:g.45695805G>T		HCN1	1878888	missense_variant	missense_variant	Q97K	27.5	0.755	0.8551		Uncertain significance	1
+chr5:g.45262030C>T	rs755932633	HCN1	839464	missense_variant	missense_variant	G855E	24.1	0.373	0.2604		Uncertain significance	1
+chr5:g.45262039G>A	rs201368368	HCN1	2916975	missense_variant	missense_variant	P852L	26.7	0.637	0.1797	1.31468e-05	Uncertain significance	1
+chr5:g.45262095G>T	rs767166082	HCN1	2833256	missense_variant	missense_variant	S833R	12.64	0.286	0.5772	3.99744e-06	Uncertain significance	1
+chr5:g.45262105C>G	rs2111838550	HCN1	1381558	missense_variant	missense_variant	G830A	2.254	0.283	0.0728		Likely benign	1
+chr5:g.45262206C>T	rs2111838849	HCN1	1470492	synonymous_variant	synonymous_variant		10.04				Likely benign	1
+chr5:g.45262336G>A	rs367708007	HCN1	2350054	missense_variant	missense_variant	P753L	0.509	0.195	0.077	1.31423e-05	Uncertain significance	1
+chr5:g.45262468_45262469del		HCN1	848899	frameshift_variant	frameshift_variant						Uncertain significance	1
+chr5:g.45262545G>A		HCN1	1899158	synonymous_variant	synonymous_variant		8.29				Likely benign	1
+chr5:g.45461929G>A	rs2111627182	HCN1	1342851	missense_variant	missense_variant	H310Y	29.0	0.903	0.9989		Uncertain significance	1
+chr5:g.45695993G>A	rs1740005052	HCN1	1525055	missense_variant	missense_variant	A34V	22.4	0.239	0.0948		Uncertain significance	1
+chr5:g.45696001C>T	rs1740005197	HCN1	3718492	synonymous_variant	synonymous_variant		13.42				Likely benign	1
+chr5:g.45696024T>C	rs1316303062	HCN1	3683968	missense_variant	missense_variant	K24E	6.278	0.254	0.1639	6.71447e-06	Uncertain significance	1
+chr5:g.45696086C>A		HCN1	2814889	missense_variant	missense_variant	G3V	23.6	0.28	0.0905		Uncertain significance	1
+chr5:g.45262332C>T	rs924390427	HCN1	1999061	synonymous_variant	synonymous_variant		3.365				Likely benign	1
+chr5:g.45262363G>A	rs1252725512	HCN1	728708	missense_variant	missense_variant	P744L	12.73	0.221	0.0757	8.09238e-06	Likely benign	1
+chr5:g.45262421A>T	rs1383923470	HCN1	2800362	missense_variant	missense_variant	S725T	23.3	0.322	0.1513		Uncertain significance	1
+chr5:g.45262526G>T		HCN1	2664638	missense_variant	missense_variant	P690T	13.62	0.269	0.063		Uncertain significance	1
+chr5:g.45262545G>T		HCN1	3660939	synonymous_variant	synonymous_variant		5.607				Likely benign	1
+chr5:g.45353148G>A	rs1579834564	HCN1	703386	synonymous_variant	synonymous_variant		11.89				Likely benign	1
+chr5:g.45645399A>T	rs2112032121	HCN1	1306863	missense_variant	missense_variant	V212E	21.2	0.459	0.4199		Uncertain significance	1
+chr5:g.45645458C>T		HCN1	3377933	missense_variant	missense_variant	M192I	23.8	0.413	0.9516		Uncertain significance	1
+chr5:g.45645575C>G	rs1057519548	HCN1	375530	missense_variant	missense_variant	M153I	21.2	0.769	0.9982		Likely pathogenic	1
+chr5:g.45261989T>C	rs1207082922	HCN1	2902065	missense_variant	missense_variant	R869G	18.81	0.6	0.1291	1.31527e-05	Uncertain significance	1
+chr5:g.45262173A>G	rs1485135826	HCN1	3617736	synonymous_variant	synonymous_variant		0.043			6.57117e-06	Likely benign	1
+chr5:g.45262553G>A	rs1561079334	HCN1	578466	missense_variant	missense_variant	P681S	19.16	0.352	0.0666		Likely benign	1
+chr5:g.45262646T>G	rs776850213	HCN1	1028215	missense_variant	missense_variant	T650P	0.99	0.055	0.0625		Uncertain significance	1
+chr5:g.45262678A>G	rs982964789	HCN1	3702713	missense_variant	missense_variant	I639T	1.797	0.063	0.098	6.57713e-06	Uncertain significance	1
+chr5:g.45262684G>A	rs1394179231	HCN1	3703664	missense_variant	missense_variant	A637V	9.843	0.047	0.0855	6.57367e-06	Uncertain significance	1
+chr5:g.45267210T>A	rs1472804069	HCN1	461362	synonymous_variant	synonymous_variant		9.523				Likely benign	1
+chr5:g.45267215C>T	rs924134838	HCN1	963677	missense_variant	missense_variant	V553I	32.0	0.621	0.3886	1.97241e-05	Uncertain significance	1
+chr5:g.45267256A>G	rs376434225	HCN1	502430	splice_region_variant	intron_variant;splice_region_variant		13.29			0.000578529	Conflicting interpretations of pathogenicity	1
+chr5:g.45303583C>A		HCN1	2751553	intron_variant	intron_variant						Likely benign	1
+chr5:g.45303675G>A	rs1579793918	HCN1	796935	synonymous_variant	synonymous_variant		10.4			6.57609e-06	Likely benign	1
+chr5:g.45303683T>A		HCN1	3389568	missense_variant	missense_variant	M512L	27.9	0.867	0.9932		Uncertain significance	1
+chr5:g.45396562G>C		HCN1	2729721	missense_variant	missense_variant	A387G	24.2	0.911	0.9211		Pathogenic	1
+chr5:g.45396581C>G		HCN1	3378244	missense_variant	missense_variant	V381L	23.4	0.654	0.87		Uncertain significance	1
+chr5:g.45695888_45695893del		HCN1	2058134	disruptive_inframe_deletion	disruptive_inframe_deletion					7.12535e-06	Likely benign	1
+chr5:g.45695891C>T		HCN1	1970593	missense_variant	missense_variant	G68D	13.69	0.422	0.2248		Uncertain significance	1
+chr5:g.45695928A>T		HCN1	2862278	missense_variant	missense_variant	S56T	25.5	0.43	0.1823		Uncertain significance	1
+chr5:g.45695987T>C	rs2112109568	HCN1	1373030	missense_variant	missense_variant	E36G	10.49	0.182	0.0853		Uncertain significance	1
+chr5:g.45695995G>A		HCN1	3020445	synonymous_variant	synonymous_variant		10.15				Likely benign	1
+chr5:g.45645306A>C	rs1561230486	HCN1	635188	missense_variant	missense_variant	M243R	19.22	0.629	0.674		Pathogenic	0
+chr5:g.45695808T>A		HCN1	3690707	missense_variant	missense_variant	R96W	25.8	0.605	0.9168		Uncertain significance	1
+chr5:g.45303843A>G	rs767538006	HCN1	588152	splice_region_variant	intron_variant;splice_region_variant		7.518			6.57393e-06	Likely benign	1
+chr5:g.45353102C>G	rs1375816918	HCN1	860698	missense_variant	missense_variant;splice_region_variant	E459Q	24.6	0.455	0.8703	4.00231e-06	Uncertain significance	1
+chr5:g.45353108G>C	rs766405905	HCN1	1770989	missense_variant	missense_variant	L457V	25.9	0.829	0.9695	6.58181e-06	Uncertain significance	1
+chr5:g.45353115A>G		HCN1	3389731	synonymous_variant	synonymous_variant		5.801				Likely benign	1
+chr5:g.45353158T>C		HCN1	3383767	missense_variant	missense_variant	Q440R	23.2	0.724	0.9387		Uncertain significance	1
+chr5:g.45353171C>T	rs1746946756	HCN1	952380	missense_variant	missense_variant	E436K	26.6	0.705	0.9986		Uncertain significance	1
+chr5:g.45396473G>A	rs1419183053	HCN1	1984310	intron_variant	intron_variant					1.97707e-05	Likely benign	1
+chr5:g.45645174A>T	rs1745526627	HCN1	2918272	intron_variant	intron_variant	I287N			0.3073		Likely benign	1
+chr5:g.45396613G>A	rs2112040755	HCN1	1359557	missense_variant	missense_variant	S370F	32.0	0.81	0.9279		Uncertain significance	1
+chr5:g.45396924T>C	rs75449215	HCN1	1241224	intron_variant	intron_variant		1.403			0.0334928	Benign	1
+chr5:g.45461834G>C	rs755646529	HCN1	2724416	intron_variant	intron_variant					6.57696e-06	Likely benign	1
+chr5:g.45262035G>T	rs140186173	HCN1	1061667	missense_variant	missense_variant	N853K	8.634	0.159	0.2451	1.31434e-05	Uncertain significance	1
+chr5:g.45262099C>T	rs199887416	HCN1	452127	missense_variant	missense_variant	R832K	13.51	0.336	0.1081		Uncertain significance	1
+chr5:g.45645542G>T	rs377642714	HCN1	2888901	synonymous_variant	synonymous_variant		8.993			6.58155e-06	Likely benign	1
+chr5:g.45645546C>T	rs1554037393	HCN1	809755	missense_variant	missense_variant	G163E	27.8	0.883	0.9949		Uncertain significance	1
+chr5:g.45645575C>A		HCN1	1741776	missense_variant	missense_variant	M153I	22.8	0.769	0.9982		Likely pathogenic	1
+chr5:g.45396386_45396387dup		HCN1	1234323								Benign	1
+chr5:g.45695799_45695800dup		HCN1	661484								Uncertain significance	1
+chr5:g.45262639G>C	rs768576555	HCN1	2160179	missense_variant	missense_variant	S652C	8.814	0.137	0.0878		Uncertain significance	1
+chr5:g.45262241G>A	rs778039525	HCN1	645656	missense_variant	missense_variant	P785S	13.87	0.226	0.1422	6.56978e-06	Likely benign	1
+chr5:g.45262348T>G		HCN1	2963474	missense_variant	missense_variant	Q749P	0.052	0.145	0.0661		Uncertain significance	1
+chr5:g.45262494G>A	rs1304151044	HCN1	2841158	synonymous_variant	synonymous_variant		6.822				Likely benign	1
+chr5:g.45267229C>T	rs1554014649	HCN1	461361	missense_variant	missense_variant	R548H	35.0	0.873	0.9218		Likely benign	1
+chr5:g.45267262A>C	rs1744876767	HCN1	1976803	intron_variant	intron_variant						Likely benign	1
+chr5:g.45303618T>G	rs762489247	HCN1	2063564	synonymous_variant	synonymous_variant		7.59			1.9947e-05	Likely benign	1
+chr5:g.45303655C>A	rs1745671912	HCN1	976076	missense_variant	missense_variant	G521V	33.0	0.458	0.2858		Pathogenic	1
+chr5:g.45303703_45303704delinsAA		HCN1	3654633	missense_variant	missense_variant						Uncertain significance	1
+chr5:g.45695935G>T	rs10066808	HCN1	2724937	missense_variant	missense_variant	H53Q	19.74	0.271	0.1269	0.0	Benign	1
+chr5:g.45696004C>G	rs1290982240	HCN1	1630102	synonymous_variant	synonymous_variant		16.19			6.68244e-06	Likely benign	1
+chr5:g.45696067A>C	rs766207863	HCN1	2955686	synonymous_variant	synonymous_variant		0.033			3.35031e-05	Likely benign	1
+NM_021072.4:c.959C>T		HCN1	1676397								Uncertain significance	1
+chr5:g.45262119C>T		HCN1	2030898	synonymous_variant	synonymous_variant		10.16				Likely benign	1
+chr5:g.45262198G>A	rs766397326	HCN1	1488929	missense_variant	missense_variant	T799I	15.8	0.13	0.1815	3.98362e-06	Uncertain significance	1
+chr5:g.45262280G>C	rs975750493	HCN1	2047508	missense_variant	missense_variant	Q772E	22.7	0.374	0.1545	1.19957e-05	Uncertain significance	1
+chr5:g.45262422G>A	rs56217199	HCN1	198898	synonymous_variant	synonymous_variant		5.63			0.00184068	Benign	1
+chr5:g.45695680G>A	rs1261940824	HCN1	1998048	synonymous_variant	synonymous_variant		1.038			4.04116e-06	Likely benign	1
+chr5:g.45695690A>C		HCN1	3378290	missense_variant	missense_variant	I135S	25.1	0.939	0.9997		Uncertain significance	1
+chr5:g.45695798_45695799delinsCC	rs1739996970	HCN1	850586	missense_variant	missense_variant						Uncertain significance	1
+chr5:g.45695838C>T	rs760568557	HCN1	530439	missense_variant	missense_variant	G86R	23.8	0.454	0.4773	4.31831e-06	Likely benign	1
+chr5:g.45267234T>C	rs1744876391	HCN1	1013252	synonymous_variant	synonymous_variant		2.408				Likely benign	1
+chr5:g.45303597A>T	rs2111904781	HCN1	1701056	splice_donor_variant	intron_variant;splice_donor_variant						Uncertain significance	0
+chr5:g.45303611A>C	rs1490887803	HCN1	1701055	missense_variant	missense_variant	S536A	24.6	0.733	0.4414	6.57307e-06	Uncertain significance	0
+chr5:g.45695860C>T	rs752840004	HCN1	1107175	synonymous_variant	synonymous_variant		10.35			4.76581e-06	Likely benign	1
+chr5:g.45695862C>T	rs376072704	HCN1	1789702	missense_variant	missense_variant	A78T	9.766	0.205	0.0772	6.61857e-06	Uncertain significance	1
+chr5:g.45695990_45696019del		HCN1	2713744	disruptive_inframe_deletion	disruptive_inframe_deletion					7.94997e-05	Uncertain significance	1
+chr5:g.45696010C>T	rs1377682866	HCN1	833840	synonymous_variant	synonymous_variant		20.4			4.01011e-05	Benign	1
+chr5:g.45696069A>G	rs1554040148	HCN1	530572	missense_variant	missense_variant	S9P	21.1	0.404	0.0961		Likely benign	1
+chr5:g.45262574A>G		HCN1	3524208	missense_variant	missense_variant	S674P	18.18	0.377	0.0875		Uncertain significance	1
+chr5:g.45262625T>C	rs748070273	HCN1	838986	missense_variant	missense_variant	T657A	0.001	0.129	0.0601	2.6411e-05	Likely benign	1
+chr5:g.45267069A>G		HCN1	2786840	intron_variant	intron_variant						Likely benign	1
+chr5:g.45396513C>T	rs759480243	HCN1	1129790	synonymous_variant	synonymous_variant		17.14			6.57912e-06	Likely benign	1
+chr5:g.45396521C>G	rs587777491	HCN1	139571	missense_variant	missense_variant	D401H	28.0	0.977	0.9997		Pathogenic	0
+chr5:g.45396521C>T	rs587777491	HCN1	1514590	missense_variant	missense_variant	D401N	25.2	0.576	0.9969		Uncertain significance	1
+chr5:g.45645395G>T	rs778870158	HCN1	3052815	synonymous_variant	synonymous_variant		7.103			3.98661e-06	Likely benign	0
+chr5:g.45353172A>G	rs1342395210	HCN1	1157982	synonymous_variant	synonymous_variant		1.083			1.31569e-05	Likely benign	1
+chr5:g.45353182T>A	rs747175226	HCN1	1302736	missense_variant	missense_variant	H432L	26.3	0.55	0.9908		Uncertain significance	1
+chr5:g.45396488T>G		HCN1	2004988	splice_region_variant	intron_variant;splice_region_variant						Uncertain significance	1
+chr5:g.45396584T>A	rs2112040738	HCN1	1342979	missense_variant	missense_variant	I380F	29.0	0.879	0.9696		Uncertain significance	0
+chr5:g.45645332A>G	rs370083488	HCN1	1095273	synonymous_variant	synonymous_variant		0.019			1.31423e-05	Likely benign	1
+chr5:g.45645386A>T		HCN1	3635384	missense_variant	missense_variant	N216K	13.55	0.28	0.3498		Uncertain significance	1
+chr5:(?_45519525)_(45693058_?)del		HCN1	624518								Uncertain significance	1
+NM_021072.4:c.1006A>G		HCN1	3360673								Uncertain significance	1
+chr5:g.45645362A>G	rs1462630974	HCN1	2156936	synonymous_variant	synonymous_variant		3.229			3.98804e-06	Likely benign	1
+chr5:g.45645565G>C	rs1561230606	HCN1	635193	missense_variant	missense_variant	L157V	15.78	0.669	0.8955		Pathogenic	0
+chr5:g.45262204A>C	rs150936707	HCN1	576892	missense_variant	missense_variant	V797G	13.93	0.272	0.1249	0.000105161	Benign	1
+chr5:g.45262384T>A		HCN1	2811984	missense_variant	missense_variant	Q737L	0.029	0.162	0.1039		Uncertain significance	1
+chr5:g.45262557G>T	rs762879493	HCN1	3713372	missense_variant	missense_variant	H679Q	0.271	0.298	0.0979	3.28774e-05	Uncertain significance	1
+chr5:g.45262576A>T	rs750680736	HCN1	2897745	missense_variant	missense_variant	L673Q	23.5	0.57	0.1249		Uncertain significance	1
+chr5:g.45262609G>A	rs1317033746	HCN1	3524207	missense_variant	missense_variant	T662I	13.03	0.431	0.183		Uncertain significance	1
+chr5:g.45267119T>A	rs1561081327	HCN1	587588	missense_variant	missense_variant	T585S	24.7	0.247	0.8199		Uncertain significance	1
+chr5:g.45396504_45396505dup		HCN1	3365228								Uncertain significance	1
+chr5:g.45303855G>A	rs185060611	HCN1	2963289	intron_variant	intron_variant		0.968			6.57722e-06	Likely benign	1
+chr5:g.45353085G>A	rs371752783	HCN1	3688786	intron_variant	intron_variant		3.073			6.58562e-06	Likely benign	1
+chr5:g.45353155C>T	rs1746946512	HCN1	982913	missense_variant	missense_variant	G441D	32.0	0.818	0.9998		Uncertain significance	1
+chr5:g.45353168G>C		HCN1	2099551	missense_variant	missense_variant	H437D	28.5	0.644	0.998		Uncertain significance	1
+chr5:g.45396550C>T	rs1057519547	HCN1	375529	missense_variant	missense_variant	G391D	32.0	0.967	1.0		Likely pathogenic	1
+chr5:g.45396553A>G	rs2112040676	HCN1	1342980	missense_variant	missense_variant	V390A	24.3	0.846	0.9917		Pathogenic	0
+chr5:g.45396632G>C		HCN1	3856971	missense_variant	missense_variant	Q364E	15.49	0.46	0.1917		Uncertain significance	1
+chr5:g.45261935C>T	rs757124569	HCN1	1133375	missense_variant	missense_variant	A887T	20.9	0.358	0.1181	2.63051e-05	Likely benign	1
+chr5:g.45261944G>C		HCN1	3373343	missense_variant	missense_variant	P884A	1.685	0.318	0.0854		Uncertain significance	1
+chr5:g.45262035G>C	rs140186173	HCN1	2900770	missense_variant	missense_variant	N853K	8.218	0.156	0.2451	3.28584e-05	Uncertain significance	1
+chr5:g.45303604_45303607del		HCN1	1479904	frameshift_variant	frameshift_variant						Uncertain significance	1
+chr5:g.45462292_45462293insTATA	rs374836434	HCN1	1300614	intron_variant	intron_variant					0.00543557	Likely benign	1
+chr5:g.45645206T>C	rs1417499521	HCN1	568372	synonymous_variant	synonymous_variant		4.065			6.57263e-06	Benign	1
+chr5:g.45645208T>G		HCN1	2089049	synonymous_variant	synonymous_variant		6.976				Likely benign	1
+chr5:g.45645220A>G	rs587777493	HCN1	139573	missense_variant	missense_variant	S272P	27.8	0.951	0.9918		Pathogenic	0
+chr5:g.45695649C>A	rs749453191	HCN1	2814572	intron_variant	intron_variant		10.17			4.15096e-06	Likely benign	1
+chr5:g.45695659G>C	rs1345138151	HCN1	3013478	intron_variant	intron_variant						Likely benign	1
+chr5:g.45695724G>T		HCN1	2832909	missense_variant	missense_variant	Q124K	21.2	0.348	0.8193		Uncertain significance	1
+chr5:g.45695831C>A	rs1173138693	HCN1	1461921	missense_variant	missense_variant	R88L	22.0	0.255	0.2193		Uncertain significance	1
+chr5:g.45695854G>T	rs373664268	HCN1	593590	synonymous_variant	synonymous_variant		0.114			0.000297926	Conflicting interpretations of pathogenicity	1
+chr5:g.45695870_45695871insACG		HCN1	1917205	stop_gained	conservative_inframe_insertion;stop_gained						Uncertain significance	1
+chr5:g.45695871C>G	rs1374925949	HCN1	1700324	missense_variant	missense_variant	E75Q	15.64	0.274	0.1456		Uncertain significance	2
+chr5:g.45695981C>A	rs761449013	HCN1	3610994	missense_variant	missense_variant	R38L	13.11	0.246	0.1505	6.67869e-06	Uncertain significance	1
+chr5:g.45696060T>C		HCN1	3632269	missense_variant	missense_variant	N12D	4.338	0.19	0.1105		Uncertain significance	1
+chr5:g.45262039G>T	rs201368368	HCN1	833771	missense_variant	missense_variant	P852Q	25.4	0.595	0.1622	1.31468e-05	Likely benign	1
+chr5:g.45262053C>T	rs1158586028	HCN1	1792835	synonymous_variant	synonymous_variant		14.4				Likely benign	1
+chr5:g.45262057G>C	rs1477444033	HCN1	1313491	missense_variant	missense_variant	S846W	30.0	0.773	0.8791		Uncertain significance	1
+chr5:g.45262190A>G	rs1461281527	HCN1	864113	missense_variant	missense_variant	S802P	14.13	0.18	0.0753		Uncertain significance	1
+chr5:g.45262230G>A	rs948061807	HCN1	1134183	synonymous_variant	synonymous_variant		7.053			6.56883e-06	Likely benign	1
+chr5:g.45262265T>C	rs1307516754	HCN1	1495674	missense_variant	missense_variant	T777A	1.022	0.137	0.0646	3.99208e-06	Uncertain significance	1
+chr5:g.45262288T>C	rs773048153	HCN1	1627880	missense_variant	missense_variant	K769R	9.359	0.195	0.0763	1.99974e-05	Likely benign	1
+chr5:g.45262306G>C	rs1437053801	HCN1	1518436	missense_variant	missense_variant	P763R	16.86	0.155	0.113		Uncertain significance	1
+chr5:g.45262386C>T		HCN1	2867063	synonymous_variant	synonymous_variant		0.156				Likely benign	1
+chr5:g.45695721C>T	rs764078270	HCN1	2696113	missense_variant	missense_variant	E125K	24.6	0.426	0.8468	4.02816e-06	Uncertain significance	1
+chr5:g.45695791C>T	rs1456742212	HCN1	858492	missense_variant	missense_variant	M101I	24.3	0.425	0.9267	6.57895e-06	Uncertain significance	1
+chr5:g.45695894_45695899del		HCN1	3065924	disruptive_inframe_deletion	disruptive_inframe_deletion						Uncertain significance	1
+chr5:g.45695909T>A	rs1554040136	HCN1	493408	missense_variant	missense_variant	D62V	25.4	0.379	0.4185		Uncertain significance	1
+chr5:g.45695937G>A	rs1467006341	HCN1	1775653	missense_variant	missense_variant	H53Y	19.59	0.287	0.1553	6.68021e-06	Uncertain significance	1
+chr5:g.45695987T>G	rs2112109568	HCN1	1387686	missense_variant	missense_variant	E36A	7.08	0.252	0.1317		Uncertain significance	1
+chr5:g.45696070G>A	rs753690439	HCN1	461372	synonymous_variant	synonymous_variant		0.801			0.000133783	Likely benign	1
+chr5:g.45695795_45695796dup		HCN1	645890								Uncertain significance	1
+chr5:(?_45003751)_(45362364_?)del		HCN1	148902								Uncertain significance	0
+chr5:g.45645203G>C	rs1745526984	HCN1	1005903	stop_gained	stop_gained	Y277X	38.0				Uncertain significance	1
+chr5:g.45262550T>C		HCN1	3104495	missense_variant	missense_variant	S682G	12.84	0.259	0.0847		Uncertain significance	1
+chr5:g.45262678A>T		HCN1	2824763	missense_variant	missense_variant	I639N	8.7	0.068	0.0848		Uncertain significance	1
+chr5:g.45262719A>T		HCN1	2007218	synonymous_variant	synonymous_variant		0.005				Likely benign	1
+chr5:g.45262796T>A		HCN1	2130768	missense_variant	missense_variant	I600F	23.5	0.514	0.4264		Uncertain significance	1
+chr5:g.45267193C>T	rs1744875525	HCN1	1517194	missense_variant	missense_variant	R560H	32.0	0.605	0.8792		Uncertain significance	1
+chr5:g.45303647T>C	rs1561096281	HCN1	568189	missense_variant	missense_variant	T524A	24.0	0.596	0.2408		Uncertain significance	1
+chr5:g.45303677A>G	rs2111904910	HCN1	1366498	missense_variant	missense_variant	F514L	29.9	0.891	0.9999		Uncertain significance	1
+chr5:g.45303714A>G	rs1579793982	HCN1	755863	synonymous_variant	synonymous_variant		0.123				Likely benign	1
+chr5:g.45303724del		HCN1	1313798	frameshift_variant	frameshift_variant						Uncertain significance	1
+chr5:g.45353093A>G	rs1746945188	HCN1	1536173	splice_region_variant	intron_variant;splice_region_variant						Likely benign	1
+chr5:g.45353220T>C		HCN1	2970520	synonymous_variant	synonymous_variant		6.676				Likely benign	1
+chr5:g.45353345_45353346del	rs113202045	HCN1	1237826	intron_variant	intron_variant					0.022919	Benign	1
+chr5:g.45461918A>G	rs746190871	HCN1	1111776	synonymous_variant	synonymous_variant		15.69			5.91467e-05	Likely benign	1
+chr5:g.45645461G>T	rs771244051	HCN1	1090986	synonymous_variant	synonymous_variant		6.677			1.97267e-05	Likely benign	1
+chr5:g.45262261T>C		HCN1	3856972	missense_variant	missense_variant	N778S	0.002	0.159	0.0507		Likely benign	1
+chr5:g.45303844A>T	rs1579794103	HCN1	799266	splice_region_variant	intron_variant;splice_region_variant						Likely benign	1
+chr5:g.45396388T>C	rs75228534	HCN1	1242107	intron_variant	intron_variant		3.285			0.031253	Benign	2
+chr5:(?_45407119)_(45521734_?)del		HCN1	685059								Uncertain significance	0
+chr5:g.45695725C>T	rs956231769	HCN1	699473	synonymous_variant	synonymous_variant		8.2			2.62885e-05	Likely benign	1
+chr5:g.45695794G>A	rs756288135	HCN1	2417144	synonymous_variant	synonymous_variant		13.24			4.06098e-06	Likely benign	1
+chr5:g.45695833G>C	rs199612501	HCN1	530592	synonymous_variant	synonymous_variant		8.342			0.000125307	Benign	1
+chr5:g.45695852A>T	rs886043302	HCN1	286070	missense_variant	missense_variant	F81Y	5.668	0.209	0.1764	6.65885e-06	Uncertain significance	1
+chr5:g.45695856C>A	rs754990881	HCN1	949924	missense_variant	missense_variant	G80C	24.4	0.34	0.1424		Uncertain significance	1
+chr5:g.45262102C>A	rs756131996	HCN1	2144103	missense_variant	missense_variant	G831V	3.265	0.22	0.0695	4.00061e-06	Uncertain significance	1
+chr5:g.45262116G>A	rs2111838570	HCN1	1079162	synonymous_variant	synonymous_variant		5.185				Likely benign	1
+chr5:g.45262129A>T	rs1579762392	HCN1	3391567	missense_variant	missense_variant	V822D	8.034	0.529	0.2558		Uncertain significance	1
+chr5:g.45396552G>A	rs369683016	HCN1	412774	synonymous_variant	synonymous_variant		11.04			6.57367e-05	Likely benign	1
+chr5:g.45461867C>T		HCN1	1768579	stop_gained	stop_gained	W330X	43.0				Uncertain significance	1
+chr5:g.45461920C>T	rs2111627146	HCN1	1395676	missense_variant	missense_variant	G313S	34.0	0.941	0.976		Uncertain significance	1
+chr5:g.45262785T>C	rs531628240	HCN1	2118132	synonymous_variant	synonymous_variant		0.025			6.57117e-06	Likely benign	1
+chr5:g.45267081T>C	rs2111846632	HCN1	1124115	splice_region_variant	intron_variant;splice_region_variant						Likely benign	1
+chr5:g.45695859C>G		HCN1	1911657	missense_variant	missense_variant	G79R	9.378	0.204	0.3515		Likely benign	1
+chr5:g.45695941C>T		HCN1	3722934	synonymous_variant	synonymous_variant		14.46				Likely benign	1
+chr5:g.45695945G>A		HCN1	1953358	missense_variant	missense_variant	A50V	22.8	0.209	0.0743		Uncertain significance	1
+chr5:g.45696013C>A	rs1740005791	HCN1	2764465	synonymous_variant	synonymous_variant		20.8			6.68297e-06	Likely benign	1
+chr5:g.45696014G>T		HCN1	3695081	missense_variant	missense_variant	A27E	23.8	0.311	0.2031		Uncertain significance	1
+chr5:g.45696049G>A	rs760319799	HCN1	3017993	synonymous_variant	synonymous_variant		6.785			6.68601e-06	Benign	1
+chr5:g.45262544T>G	rs1373506537	HCN1	2970316	missense_variant	missense_variant	S684R	15.28	0.427	0.4509	3.97858e-06	Uncertain significance	1
+chr5:g.45262547G>T	rs745344977	HCN1	530459	missense_variant	missense_variant	P683T	22.2	0.436	0.0653		Likely benign	1
+chr5:g.45262551G>A	rs369398186	HCN1	2873668	synonymous_variant	synonymous_variant		7.682			1.9742e-05	Likely benign	1
+chr5:g.45262555G>T		HCN1	3026527	missense_variant	missense_variant	S680Y	23.9	0.603	0.1669		Uncertain significance	1
+chr5:g.45262623G>A	rs955267493	HCN1	530628	synonymous_variant	synonymous_variant		0.118			0.0	Likely benign	1
+chr5:g.45267216A>G		HCN1	2751076	synonymous_variant	synonymous_variant		1.202				Likely benign	1
+chr5:g.45267272A>G		HCN1	2903950	intron_variant	intron_variant						Likely benign	1
+chr5:g.45303579G>C		HCN1	2106217	intron_variant	intron_variant						Likely benign	1
+chr5:g.45303678A>G	rs750209568	HCN1	1902806	synonymous_variant	synonymous_variant		0.045			3.98676e-06	Likely benign	1
+chr5:g.45303695C>T	rs180790607	HCN1	530453	missense_variant	missense_variant	V508M	33.0	0.517	0.5116	3.94576e-05	Pathogenic	1
+chr5:g.45645314T>A	rs1554037379	HCN1	530436	missense_variant	missense_variant	E240D	23.3	0.655	0.6601		Uncertain significance	1
+chr5:g.45262569G>A	rs2111839679	HCN1	1162268	synonymous_variant	synonymous_variant		4.203				Likely benign	1
+chr5:g.45262698C>A	rs1226802525	HCN1	461366	missense_variant	missense_variant	M632I	29.2	0.596	0.9441		Uncertain significance	1
+chr5:g.45267094C>T	rs769934821	HCN1	1036565	missense_variant	missense_variant	R593Q	35.0	0.37	0.8486	6.57549e-06	Uncertain significance	1
+chr5:g.45267095G>C	rs989268235	HCN1	857604	missense_variant	missense_variant	R593G	29.4	0.462	0.989	3.18109e-05	Uncertain significance	1
+chr5:g.45461960del		HCN1	2574900	frameshift_variant	frameshift_variant						Uncertain significance	1
+chr5:g.45461981G>A	rs1741171103	HCN1	1161570	synonymous_variant	synonymous_variant		12.15				Likely benign	1
+chr5:g.45645208_45645211del		HCN1	2811961	frameshift_variant	frameshift_variant						Uncertain significance	1
+chr5:g.45695857C>T	rs778950857	HCN1	2077083	synonymous_variant	synonymous_variant		10.02				Likely benign	1
+chr5:g.45695926G>C		HCN1	3661472	synonymous_variant	synonymous_variant		12.49				Likely benign	1
+chr5:g.45696023T>G		HCN1	2867054	missense_variant	missense_variant	K24T	14.1	0.229	0.1297		Uncertain significance	1
+chr5:g.45262333T>C	rs2111839088	HCN1	1434210	missense_variant	missense_variant	Q754R	0.001	0.112	0.1134		Uncertain significance	1
+chr5:g.45262477G>A		HCN1	3682606	missense_variant	missense_variant	P706L	27.7	0.484	0.1957		Uncertain significance	1
+chr5:g.45262495G>T	rs1352995652	HCN1	1492733	missense_variant	missense_variant	T700N	17.34	0.379	0.1028	3.28939e-05	Uncertain significance	1
+chr5:g.45303797G>C		HCN1	3659258	missense_variant	missense_variant	P474A	25.9	0.761	0.9983		Uncertain significance	1
+chr5:g.45303813T>C	rs763861424	HCN1	588303	synonymous_variant	synonymous_variant		5.882			3.98479e-06	Likely benign	1
+chr5:g.45353099C>T	rs1554020031	HCN1	520906	splice_donor_variant	intron_variant;splice_donor_variant						Uncertain significance	1
+chr5:g.45396571G>A		HCN1	2854291	missense_variant	missense_variant	T384I	28.6	0.757	0.9886		Uncertain significance	1
+chr5:g.45262140G>A	rs747153982	HCN1	1942279	synonymous_variant	synonymous_variant		6.689			7.98601e-06	Likely benign	1
+chr5:g.45262156G>A	rs777158203	HCN1	871770	missense_variant	missense_variant	A813V	25.3	0.453	0.2356	3.9888e-06	Uncertain significance	1
+chr5:g.45267183T>G		HCN1	3257529	synonymous_variant	synonymous_variant		2.736				Likely benign	1
+chr5:g.45645391T>C	rs975527828	HCN1	1305309	missense_variant	missense_variant	M215V	19.53	0.417	0.128		Uncertain significance	1
+chr5:g.45645451T>C		HCN1	3720643	missense_variant	missense_variant;sequence_feature	R195G	26.0	0.942	0.9992		Uncertain significance	1
+chr5:g.45645467G>A	rs1745531348	HCN1	1948693	synonymous_variant	synonymous_variant		6.804				Likely benign	1
+chr5:g.45645526G>T		HCN1	2702481	missense_variant	missense_variant	Q170K	22.5	0.284	0.3025		Uncertain significance	1
+chr5:g.45645612C>T	rs1054399439	HCN1	1151799	splice_region_variant	intron_variant;splice_region_variant					6.58493e-06	Likely benign	1
+chr5:g.45645613_45645616del		HCN1	1335580	splice_region_variant	intron_variant;splice_region_variant					6.58493e-06	Uncertain significance	1
+chr5:g.45645620del		HCN1	1632132	intron_variant	intron_variant						Benign	1
+chr5:g.45695672A>C	rs2112108772	HCN1	1447154	missense_variant	missense_variant	F141C	25.5	0.904	0.9938		Uncertain significance	1
+chr5:g.45695748T>C		HCN1	1720840	missense_variant	missense_variant	S116G	23.6	0.746	0.9683		Uncertain significance	1
+chr5:g.45695751C>A	rs2112108860	HCN1	1308971	missense_variant	missense_variant	G115W	28.0	0.853	0.9999		Uncertain significance	1
+chr5:g.45695815G>A	rs2112108977	HCN1	1138371	synonymous_variant	synonymous_variant		13.01				Likely benign	1
+chr5:g.45396509G>A	rs375110542	HCN1	3705063	missense_variant	missense_variant	R405W	32.0	0.685	0.9953	6.5838e-06	Uncertain significance	1
+chr5:g.45396563C>T		HCN1	2027999	missense_variant	missense_variant	A387T	24.3	0.922	0.9911		Likely pathogenic	1
+NM_021072.4:c.1625G>T		HCN1	3362204								Uncertain significance	1
+chr5:g.45262254G>A	rs746392507	HCN1	3701188	synonymous_variant	synonymous_variant		5.739			6.57065e-06	Benign	1
+chr5:g.45262292G>C	rs760215449	HCN1	650513	missense_variant	missense_variant	H768D	23.3	0.558	0.3492	4.00176e-06	Uncertain significance	1
+chr5:g.45262364G>A	rs1466817263	HCN1	3234981	missense_variant	missense_variant	P744S	10.93	0.158	0.0603	4.04498e-06	Uncertain significance	1
+chr5:g.45262532G>T	rs779436110	HCN1	1490217	missense_variant	missense_variant	P688T	22.6	0.43	0.0615		Uncertain significance	1
+chr5:g.45262692C>T	rs192503845	HCN1	1550660	synonymous_variant	synonymous_variant		8.887			0.000151206	Likely benign	1
+chr5:g.45267130C>G	rs1248907862	HCN1	2879605	missense_variant	missense_variant	R581T	32.0	0.483	0.9965	3.97627e-06	Uncertain significance	1
+chr5:g.45396576C>T	rs751832265	HCN1	1732659	synonymous_variant	synonymous_variant		15.14			4.78629e-05	Benign	1
+chr5:g.45396609G>A	rs761981654	HCN1	1085379	synonymous_variant	synonymous_variant		10.11			6.57047e-06	Likely benign	1
+chr5:g.45396684T>G	rs1739694100	HCN1	2853955	synonymous_variant	synonymous_variant		11.56				Likely benign	1
+chr5:g.45461950C>T	rs1214072611	HCN1	2432380	missense_variant	missense_variant	G303S	29.0	0.56	0.2893	6.57635e-06	Uncertain significance	1
+chr5:g.45645191C>G		HCN1	3647801	missense_variant	missense_variant	W281C	32.0	0.95	0.9992		Uncertain significance	1
+chr5:g.45645199G>A	rs587777495	HCN1	139575	missense_variant	missense_variant	H279Y	27.9	0.94	0.9346		Likely pathogenic	1
+chr5:g.45645253T>C	rs1554037378	HCN1	520907	missense_variant	missense_variant	K261E	26.5	0.957	0.9989		Uncertain significance	1
+chr5:g.45645315T>C	rs2112031908	HCN1	1342975	missense_variant	missense_variant	E240G	24.6	0.765	0.7895		Uncertain significance	0
+chr5:g.45645319C>A		HCN1	3609139	missense_variant	missense_variant	V239L	25.6	0.753	0.7635		Uncertain significance	1
+chr5:g.45645330A>G		HCN1	2661932	missense_variant	missense_variant	I235T	25.7	0.956	0.9597		Uncertain significance	1
+chr5:g.45695722C>T		HCN1	2747223	synonymous_variant	synonymous_variant		6.834				Likely benign	1
+chr5:g.45695812C>T	rs748665278	HCN1	1033971	missense_variant	missense_variant	M94I	22.5	0.416	0.644	4.10867e-06	Uncertain significance	1
+chr5:g.45695814T>C	rs773441535	HCN1	578939	missense_variant	missense_variant	M94V	21.5	0.389	0.242	3.29559e-05	Uncertain significance	1
+chr5:g.45695855C>T	rs1252720341	HCN1	497543	missense_variant	missense_variant	G80D	22.1	0.241	0.2332	6.60301e-06	Uncertain significance	1
+chr5:g.45695950G>A	rs768484814	HCN1	3670083	synonymous_variant	synonymous_variant		12.14			0.0	Likely benign	1
+chr5:g.45695959G>C	rs886043996	HCN1	2047222	synonymous_variant	synonymous_variant		9.859			1.33636e-05	Likely benign	1
+chr5:g.45695962C>G	rs2112109508	HCN1	1528476	synonymous_variant	synonymous_variant		10.48				Likely benign	1
+chr5:g.45696016G>C	rs1245838252	HCN1	1627998	synonymous_variant	synonymous_variant						Likely benign	1
+chr5:g.45696061A>G	rs1243611752	HCN1	2898272	synonymous_variant	synonymous_variant		0.872			1.33145e-05	Likely benign	1
+chr5:g.45696372G>A	rs78789554	HCN1	1314947	upstream_gene_variant	intergenic_region;upstream_gene_variant		3.117			0.00447855	Likely benign	1
+chr5:g.45261990T>C	rs1362126619	HCN1	700689	synonymous_variant	synonymous_variant		0.008			6.57479e-06	Likely benign	1
+chr5:g.45262164C>T	rs1744755026	HCN1	1655402	synonymous_variant	synonymous_variant		11.77			6.57073e-06	Likely benign	1
+chr5:g.45303742C>T	rs920701498	HCN1	2800939	missense_variant	missense_variant	R492K	18.29	0.295	0.1045		Uncertain significance	1
+chr5:g.45303818G>A	rs1745674495	HCN1	1687675	missense_variant	missense_variant	R467W	34.0	0.897	0.9953		Uncertain significance	1
+chr5:g.45353264T>C	rs1399432924	HCN1	1950534	intron_variant	intron_variant					6.59178e-06	Likely benign	1
+chr5:g.45645372C>A	rs2112032055	HCN1	1311191	missense_variant	missense_variant	W221L	32.0	0.948	0.997		Uncertain significance	1
+chr5:g.45645499T>A		HCN1	1803037	missense_variant	missense_variant	N179Y	26.5	0.969	0.9625		Likely pathogenic	1
+chr5:g.45645504A>G		HCN1	2764918	missense_variant	missense_variant	I177T	22.7	0.596	0.4568		Uncertain significance	1
+chr5:g.45303848G>A	rs1442110194	HCN1	1099402	intron_variant	intron_variant					6.57531e-06	Likely benign	1
+chr5:g.45396693C>T		HCN1	2885911	synonymous_variant	synonymous_variant		14.32				Likely benign	1
+chr5:g.45461849C>G	rs1051256215	HCN1	1036969	missense_variant	missense_variant	M336I	24.7	0.742	0.9899		Uncertain significance	1
+chr5:g.45461906G>A		HCN1	1994582	synonymous_variant	synonymous_variant		13.99				Likely benign	1
+chr5:g.45262203C>T		HCN1	2815263	synonymous_variant	synonymous_variant		11.05				Likely benign	1
+chr5:g.45262310T>A	rs2111839064	HCN1	1314059	missense_variant	missense_variant	T762S	4.437	0.11	0.0714		Uncertain significance	1
+chr5:g.45262378T>C	rs1418945597	HCN1	652161	missense_variant	missense_variant	Q739R	0.002	0.304	0.1098		Uncertain significance	1
+chr5:g.45262532G>A	rs779436110	HCN1	1504027	missense_variant	missense_variant	P688S	18.75	0.451	0.0677	3.97956e-06	Uncertain significance	1
+chr5:g.45262558T>C	rs200794598	HCN1	2167668	missense_variant	missense_variant	H679R	8.074	0.227	0.1113	1.98303e-05	Likely benign	1
+chr5:g.45262617G>A	rs1282221978	HCN1	1047202	synonymous_variant	synonymous_variant		0.393			1.97311e-05	Uncertain significance	1
+chr5:g.45262686G>A	rs1744774998	HCN1	1102170	synonymous_variant	synonymous_variant		5.177				Likely benign	1
+chr5:g.45262697C>A	rs756115935	HCN1	1684791	missense_variant	missense_variant	V633L	22.7	0.342	0.4892		Uncertain significance	1
+chr5:g.45262044G>A	rs772068771	HCN1	2961880	synonymous_variant	synonymous_variant		7.491			6.5716e-06	Likely benign	1
+chr5:g.45262106C>T	rs1484753978	HCN1	1464619	missense_variant	missense_variant	G830R	23.2	0.31	0.4526	3.99866e-06	Uncertain significance	1
+chr5:g.45262162G>T	rs967232218	HCN1	3524209	missense_variant	missense_variant	S811Y	26.7	0.738	0.5205		Uncertain significance	1
+chr5:g.45262174G>C	rs1244303801	HCN1	940229	missense_variant	missense_variant	T807S	8.039	0.447	0.0747		Uncertain significance	1
+chr5:g.45267163T>C	rs1433400858	HCN1	2833354	missense_variant	missense_variant	N570S	25.6	0.624	0.6492	6.57229e-06	Uncertain significance	1
+chr5:g.45267176C>T	rs766943052	HCN1	589995	missense_variant	missense_variant	V566M	27.7	0.82	0.9131	3.97627e-06	Uncertain significance	1
+chr5:g.45267240C>T		HCN1	3690774	synonymous_variant	synonymous_variant		12.08				Likely benign	1
+chr5:g.45267246G>A	rs150863293	HCN1	588309	synonymous_variant	synonymous_variant		10.79			0.000230406	Benign	1
+chr5:g.45303689T>A	rs539896753	HCN1	3602313	stop_gained	stop_gained	K510X	41.0			6.57289e-06	Uncertain significance	1
+chr5:g.45303762A>G	rs1745673552	HCN1	3613659	synonymous_variant	synonymous_variant		6.539				Likely benign	1
+chr5:g.45645380T>C	rs1561230533	HCN1	2583029	synonymous_variant	synonymous_variant		0.583				Uncertain significance	1
+chr5:g.45645473T>C	rs745915622	HCN1	1544379	synonymous_variant	synonymous_variant		1.473			3.98791e-06	Likely benign	1
+chr5:g.45645485A>G	rs903438728	HCN1	2040283	synonymous_variant	synonymous_variant		2.051				Likely benign	1
+chr5:g.45645583T>C	rs890733454	HCN1	590015	missense_variant	missense_variant	I151V	11.45	0.384	0.0686		Uncertain significance	1
+chr5:g.45695737C>G		HCN1	3700749	synonymous_variant	synonymous_variant		10.82				Likely benign	1
+chr5:g.45695796A>C	rs780364002	HCN1	1011220	missense_variant	missense_variant	S100A	8.581	0.217	0.1074	2.63522e-05	Likely benign	1
+chr5:g.45396495C>G	rs2112040574	HCN1	1461761	missense_variant	missense_variant	E409D	21.3	0.466	0.9801		Uncertain significance	1
+chr5:g.45645323A>G	rs1381111783	HCN1	772228	synonymous_variant	synonymous_variant		0.659			6.57358e-06	Likely benign	1
+chr5:g.45695895C>G	rs1427664939	HCN1	588630	missense_variant	missense_variant	G67R	19.97	0.372	0.3217		Uncertain significance	1
+chr5:g.45695902A>G	rs1740002375	HCN1	1154183	synonymous_variant	synonymous_variant		14.2				Likely benign	1
+chr5:g.45696048C>G		HCN1	3283621	missense_variant	missense_variant	D16H	24.3	0.314	0.2501		Uncertain significance	1
+chr5:g.45696065G>C		HCN1	3674886	missense_variant	missense_variant	S10W	22.6	0.341	0.301		Uncertain significance	1
+chr5:g.45303786A>T	rs1299427978	HCN1	1130716	synonymous_variant	synonymous_variant		0.481			3.98403e-06	Likely benign	1
+chr5:g.45645354A>G	rs2112032017	HCN1	1303114	missense_variant	missense_variant	I227T	23.1	0.916	0.8865		Uncertain significance	1
+chr5:g.45695896G>C	rs1037432166	HCN1	2181364	synonymous_variant	synonymous_variant		11.94			6.72812e-06	Likely benign	1
+chr5:g.45696026G>A	rs1060500096	HCN1	404097	missense_variant	missense_variant	A23V	20.6	0.226	0.0975	5.34552e-05	Benign	1
+chr5:g.45261979G>A	rs199774910	HCN1	1055235	missense_variant	missense_variant	S872F	25.6	0.38	0.1922	1.97174e-05	Uncertain significance	1
+chr5:g.45262013G>C	rs756753787	HCN1	2058375	missense_variant	missense_variant	P861A	4.807	0.288	0.0531	6.57298e-06	Uncertain significance	1
+chr5:g.45267244A>C		HCN1	1776745	missense_variant	missense_variant	L543R	31.0	0.987	0.9997		Uncertain significance	1
+chr5:g.45267464del		HCN1	1254043	intron_variant	intron_variant					0.00658016	Likely benign	1
+chr5:g.45303599C>G		HCN1	3372859	missense_variant	missense_variant;splice_region_variant	E540Q	29.7	0.921	0.999		Uncertain significance	1
+chr5:g.45303637C>G		HCN1	2700889	missense_variant	missense_variant	S527T	21.9	0.358	0.0836		Uncertain significance	1
+chr5:g.45303672A>G	rs1298501995	HCN1	2655457	synonymous_variant	synonymous_variant		8.034				Likely benign	1
+chr5:g.45303706C>T	rs2111904958	HCN1	1417147	missense_variant	missense_variant	R504Q	35.0	0.713	0.5057		Uncertain significance	1
+chr5:g.45303755G>T	rs2111905061	HCN1	1062508	missense_variant	missense_variant	L488M	27.8	0.708	0.9555		Uncertain significance	1
+chr5:g.45396478A>G	rs2112040547	HCN1	1535477	intron_variant	intron_variant						Likely benign	1
+chr5:g.45645457T>G		HCN1	2864827	missense_variant	missense_variant	N193H	25.0	0.943	0.9966		Uncertain significance	1
+chr5:g.45695826_45695827delinsTT	rs2112109013	HCN1	1608931	missense_variant	missense_variant;sequence_feature						Likely benign	1
+chr5:g.45695839C>A	rs868228427	HCN1	287565	missense_variant	missense_variant	E85D	20.7	0.293	0.0672	2.63831e-05	Uncertain significance	1
+chr5:g.45262209A>T		HCN1	3635381	missense_variant	missense_variant	H795Q	12.48	0.45	0.1955		Uncertain significance	1
+chr5:g.45262266G>A	rs770127695	HCN1	2117261	synonymous_variant	synonymous_variant		3.605			7.9869e-06	Likely benign	1
+chr5:g.45262276G>C		HCN1	2915109	missense_variant	missense_variant	A773G	24.6	0.316	0.1242		Uncertain significance	1
+chr5:g.45262365C>A	rs781134292	HCN1	2113343	synonymous_variant	synonymous_variant		13.37			4.05071e-06	Likely benign	1
+chr5:g.45396506G>C	rs2112040583	HCN1	1058375	missense_variant	missense_variant	Q406E	21.2	0.546	0.6956		Uncertain significance	1
+chr5:g.45396583A>G	rs1561139596	HCN1	579671	missense_variant	missense_variant	I380T	26.9	0.906	0.9259		Likely benign	1
+chr5:g.45396653G>A	rs777248475	HCN1	2984340	synonymous_variant	synonymous_variant		11.29			6.57203e-06	Likely benign	1
+chr5:g.45396678T>G	rs745452621	HCN1	500133	synonymous_variant	synonymous_variant		10.65			2.6331e-05	Uncertain significance	1
+chr5:g.45645287C>G		HCN1	2444576	missense_variant	missense_variant;sequence_feature	K249N	28.4	0.518	0.9832		Uncertain significance	1
+chr5:g.45645307T>C	rs1745528879	HCN1	999614	missense_variant	missense_variant	M243V	10.29	0.354	0.1116		Uncertain significance	1
+chr5:g.45645327A>G		HCN1	2430668	missense_variant	missense_variant	F236S	28.1	0.936	0.9971		Uncertain significance	1
+chr5:g.45645619_45645620dup		HCN1	2044367								Benign	1
+chr5:g.45262155G>T	rs1356149824	HCN1	2702104	synonymous_variant	synonymous_variant		5.213			1.31413e-05	Likely benign	1
+chr5:g.45262603G>A		HCN1	2814859	missense_variant	missense_variant	S664F	18.59	0.445	0.2219		Uncertain significance	1
+chr5:g.45262641C>T	rs761466382	HCN1	2719514	synonymous_variant	synonymous_variant		6.244				Likely benign	1
+chr5:g.45262653C>T	rs924255101	HCN1	1671792	synonymous_variant	synonymous_variant		0.382				Likely benign	1
+chr5:g.45267109A>G		HCN1	3283622	missense_variant	missense_variant	I588T	25.4	0.42	0.9205		Uncertain significance	1
+chr5:g.45695737C>A	rs757047781	HCN1	2090069	synonymous_variant	synonymous_variant		17.4			4.02894e-06	Likely benign	1
+chr5:g.45396563C>A	rs2112040690	HCN1	1457415	missense_variant	missense_variant	A387S	24.9	0.858	0.8615		Pathogenic	1
+chr5:g.45261940C>A	rs775806199	HCN1	3242018	missense_variant	missense_variant	R885L	25.3	0.571	0.3446	3.98394e-06	Uncertain significance	1
+chr5:g.45261958G>C		HCN1	2801973	missense_variant	missense_variant	P879R	6.441	0.317	0.099		Uncertain significance	1
+chr5:g.45262028C>T	rs745821900	HCN1	2539225	missense_variant	missense_variant	V856I	19.54	0.275	0.0684	7.9741e-06	Uncertain significance	1
+chr5:g.45262079C>A	rs1328423751	HCN1	1058999	missense_variant	missense_variant	V839F	25.0	0.681	0.2229	3.99559e-06	Uncertain significance	1
+chr5:g.45262449T>C	rs903099002	HCN1	589545	synonymous_variant	synonymous_variant		0.449				Likely benign	1
+chr5:g.45262514G>C	rs1222433760	HCN1	950258	missense_variant	missense_variant	L694V	10.92	0.22	0.0676		Uncertain significance	1
+chr5:g.45645406G>A	rs2112032137	HCN1	1308642	missense_variant	missense_variant	P210S	26.3	0.886	0.9856		Likely pathogenic	1
+chr5:g.45695424C>G	rs561646796	HCN1	1300960	intron_variant	intron_variant					0.00817582	Likely benign	1
+chr5:g.45695708G>T		HCN1	2038192	missense_variant	missense_variant	T129N	23.0	0.311	0.4083		Uncertain significance	1
+chr5:g.45695758G>T	rs794726951	HCN1	193443	synonymous_variant	synonymous_variant		0.064			4.03307e-06	Conflicting interpretations of pathogenicity	1
+chr5:g.45695767G>A		HCN1	1969226	synonymous_variant	synonymous_variant		8.98				Likely benign	1
+chr5:g.45695804T>C	rs1580055035	HCN1	809756	missense_variant	missense_variant	Q97R	26.3	0.699	0.8316		Uncertain significance	1
+chr5:g.45695851G>C	rs2112109104	HCN1	1391626	missense_variant	missense_variant	F81L	0.002	0.248	0.481		Likely benign	1
+chr5:g.45262601G>A		HCN1	2841135	missense_variant	missense_variant	P665S	14.92	0.356	0.0943		Uncertain significance	1
+chr5:g.45262617G>T		HCN1	1711604	synonymous_variant	synonymous_variant		0.017				Likely benign	1
+chr5:g.45262619G>A	rs745561895	HCN1	662493	missense_variant	missense_variant	R659C	14.8	0.38	0.1428	1.5911e-05	Uncertain significance	1
+chr5:g.45267092T>C	rs1579766327	HCN1	658579	missense_variant	missense_variant	I594V	22.8	0.149	0.6321		Uncertain significance	1
+chr5:g.45267103C>T	rs1561081319	HCN1	635190	missense_variant	missense_variant;sequence_feature	R590Q	35.0	0.516	0.9984		Pathogenic	0
+chr5:g.45267111G>A		HCN1	1779590	synonymous_variant	synonymous_variant		13.36				Likely benign	1
+chr5:g.45267124A>C		HCN1	3856973	missense_variant	missense_variant	F583C	29.0	0.714	0.9996		Uncertain significance	1
+chr5:g.45303731A>G	rs2111905018	HCN1	1298992	missense_variant	missense_variant	F496L	31.0	0.958	0.9997		Uncertain significance	1
+chr5:g.45267154A>C		HCN1	3254995	missense_variant	missense_variant	L573R	29.8	0.978	0.9998		Uncertain significance	1
+chr5:g.45267182G>C		HCN1	1707089	missense_variant	missense_variant	L564V	24.2	0.794	0.984		Uncertain significance	1
+chr5:g.45267194G>C	rs1744875571	HCN1	986134	missense_variant	missense_variant	R560G	32.0	0.874	0.9945		Uncertain significance	1
+chr5:g.45267198A>G	rs2111846818	HCN1	1078564	synonymous_variant	synonymous_variant		0.69				Likely benign	1
+chr5:g.45267226C>T		HCN1	2582369	missense_variant	missense_variant;sequence_feature	R549H	33.0	0.927	0.9905		Uncertain significance	1
+chr5:g.45461958T>A		HCN1	2764508	missense_variant	missense_variant	N300I	32.0	0.877	0.9885		Uncertain significance	1
+chr5:g.45461983C>T	rs1741171183	HCN1	1216781	missense_variant	missense_variant	A292T	35.0	0.81	0.9851		Uncertain significance	1
+chr5:g.45462012T>G		HCN1	2045454	splice_region_variant	intron_variant;splice_region_variant						Likely benign	1
+chr5:g.45578765C>A	rs986310668	HCN1	1679696	intron_variant	intron_variant						Uncertain significance	1
+chr5:g.45695886C>G		HCN1	1785721	missense_variant	missense_variant	G70R	15.95	0.351	0.3086		Uncertain significance	1
+chr5:g.45695968C>T	rs1740004296	HCN1	1612683	synonymous_variant	synonymous_variant		11.46				Likely benign	1
+chr5:g.45695983C>T		HCN1	2864535	synonymous_variant	synonymous_variant		4.783				Likely benign	1
+chr5:g.45696037G>T	rs1237981237	HCN1	3341424	missense_variant	missense_variant	S19R	9.901	0.16	0.4284	0.0	Uncertain significance	1
+chr5:g.45262215C>T	rs1579762540	HCN1	2959086	synonymous_variant	synonymous_variant		11.17			6.57099e-06	Likely benign	1
+chr5:g.45262291T>G	rs1561079128	HCN1	588158	missense_variant	missense_variant	H768P	14.82	0.315	0.0926	6.57142e-06	Uncertain significance	1
+chr5:g.45262451G>C	rs1486444621	HCN1	2138832	missense_variant	missense_variant	R715G	24.7	0.401	0.4761	4.01352e-06	Likely benign	1
+chr5:g.45262489G>A	rs147007826	HCN1	579467	missense_variant	missense_variant	A702V	14.48	0.175	0.112	6.58285e-06	Uncertain significance	1
+chr5:g.45262508G>A		HCN1	2432382	missense_variant	missense_variant	P696S	23.3	0.264	0.12		Uncertain significance	1
+chr5:g.45262528T>G	rs1293979204	HCN1	2163035	missense_variant	missense_variant	Q689P	14.78	0.349	0.0668	1.33003e-05	Uncertain significance	1
+chr5:g.45262551G>C		HCN1	2770906	synonymous_variant	synonymous_variant		5.155				Likely benign	1
+chr5:g.45262556A>G	rs1579763121	HCN1	2748387	missense_variant	missense_variant	S680P	22.2	0.599	0.0858		Uncertain significance	1
+chr5:g.45262641C>G	rs761466382	HCN1	2872561	synonymous_variant	synonymous_variant		0.793				Likely benign	1
+chr5:g.45267104G>T	rs1744874434	HCN1	1138450	synonymous_variant	sequence_feature;synonymous_variant		12.3				Likely benign	1
+chr5:g.45353491T>C	rs79491080	HCN1	1226922	intron_variant	intron_variant		2.107			0.0160923	Benign	1
+chr5:g.45396491C>A	rs1739690273	HCN1	939280	splice_donor_variant	intron_variant;splice_donor_variant						Uncertain significance	1
+chr5:g.45396539C>T	rs1739691061	HCN1	848402	missense_variant	missense_variant	A395T	24.6	0.691	0.7295		Likely benign	1
+chr5:g.45261954G>T	rs768551046	HCN1	2103870	missense_variant	missense_variant	D880E	0.032	0.308	0.0615		Likely benign	1
+chr5:g.45261962C>G		HCN1	1794077	missense_variant	missense_variant	D878H	24.0	0.425	0.2328		Uncertain significance	1
+chr5:g.45262043G>C		HCN1	2858580	missense_variant	missense_variant	P851A	24.9	0.593	0.1268		Uncertain significance	1
+chr5:g.45262087G>A	rs368989823	HCN1	699326	missense_variant	missense_variant	P836L	29.6	0.567	0.2778	1.97135e-05	Likely benign	1
+chr5:g.45262166C>G	rs727503956	HCN1	167166	missense_variant	missense_variant	E810Q	18.67	0.397	0.3212		Uncertain significance	1
+chr5:g.45353126T>C	rs945853543	HCN1	856755	missense_variant	missense_variant	N451D	19.13	0.298	0.1486	1.1983e-05	Uncertain significance	1
+chr5:g.45353257G>A	rs775883111	HCN1	2916436	intron_variant	intron_variant		0.561			8.04693e-06	Likely benign	1
+chr5:g.45461998T>G		HCN1	2856642	missense_variant	missense_variant	M287L	23.1	0.721	0.7993		Uncertain significance	1
+chr5:g.45645333T>A	rs1554037381	HCN1	461375	missense_variant	missense_variant	Y234F	26.5	0.689	0.6684		Pathogenic	1
+chr5:g.45645476G>C	rs1060500097	HCN1	404101	missense_variant	missense_variant	F186L	25.7	0.905	0.9999		Uncertain significance	1
+chr5:g.45695669_45696118del		HCN1	971425	splice_region_variant	5_prime_UTR_truncation;exon_loss_variant;sequence_feature;splice_region_variant						Uncertain significance	1
+chr5:g.45695711T>C	rs1739995339	HCN1	1046687	missense_variant	missense_variant	K128R	11.87	0.353	0.1427		Likely benign	1
+chr5:g.45695797G>T	rs749348408	HCN1	1142246	synonymous_variant	synonymous_variant		10.63				Likely benign	1
+chr5:g.45695827C>T	rs775226551	HCN1	1610416	synonymous_variant	sequence_feature;synonymous_variant		13.02			1.31711e-05	Likely benign	1
+chr5:g.45695830C>T		HCN1	2801177	synonymous_variant	synonymous_variant		13.8				Likely benign	1
+chr5:g.45695845G>T	rs1739999039	HCN1	3345765	missense_variant	missense_variant	D83E	11.49	0.379	0.09		Uncertain significance	0
+chr5:g.45695880C>T		HCN1	2061739	missense_variant	missense_variant	G72S	11.23	0.314	0.0931		Uncertain significance	1
+chr5:g.45695992C>T	rs2112109599	HCN1	1061339	synonymous_variant	synonymous_variant		15.2				Likely benign	1
+chr5:g.45696019C>A	rs990297986	HCN1	1113009	synonymous_variant	synonymous_variant		22.2			2.00626e-05	Likely benign	1
+chr5:g.45696022C>G		HCN1	2696930	missense_variant	missense_variant	K24N	17.59	0.201	0.2982		Uncertain significance	1
+chr5:g.45696148C>A	rs184241507	HCN1	1272129	upstream_gene_variant	intergenic_region;upstream_gene_variant		14.77			0.016927	Benign	2
+chr5:g.45267176C>A		HCN1	2046912	missense_variant	missense_variant	V566L	28.4	0.768	0.9835		Uncertain significance	1
+chr5:g.45267270C>G	rs777720710	HCN1	1489698	intron_variant	intron_variant		11.66			1.31565e-05	Likely benign	1
+chr5:g.45353180C>A		HCN1	2106265	missense_variant	missense_variant	D433Y	33.0	0.797	0.9794		Uncertain significance	1
+chr5:g.45353237C>T	rs1561120793	HCN1	635192	missense_variant	missense_variant	V414M	29.9	0.784	0.9978		Pathogenic	0
+chr5:g.45461995_45462006del		HCN1	1053542	splice_region_variant	disruptive_inframe_deletion;splice_region_variant						Uncertain significance	1
+chr5:g.45695680del	rs1554040120	HCN1	496679	frameshift_variant	frameshift_variant						Likely pathogenic	1
+chr5:g.45695720T>C		HCN1	3774713	missense_variant	missense_variant	E125G	24.9	0.607	0.7956		Uncertain significance	1
+chr5:g.45695795G>A	rs587777492	HCN1	139572	missense_variant	missense_variant	S100F	26.3	0.861	0.9385		Pathogenic	0
+chr5:g.45695804del	rs2112108952	HCN1	1503391	frameshift_variant	frameshift_variant						Uncertain significance	1
+chr5:g.45695855del		HCN1	2090192	frameshift_variant	frameshift_variant						Uncertain significance	1
+chr5:g.45695977C>A		HCN1	2789457	synonymous_variant	synonymous_variant		10.47				Likely benign	1
+chr5:g.45695990G>A	rs1344167758	HCN1	2980061	missense_variant	missense_variant	A35V	19.2	0.222	0.106	6.68253e-06	Uncertain significance	1
+chr5:g.45262632C>A	rs986494425	HCN1	3709169	synonymous_variant	synonymous_variant		5.854				Likely benign	1
+chr5:g.45262743C>T	rs1210166186	HCN1	2820426	synonymous_variant	synonymous_variant		8.714			6.57384e-06	Likely benign	1
+chr5:g.45262801T>C	rs765435039	HCN1	2911335	missense_variant	missense_variant	N598S	22.5	0.417	0.7519	1.31498e-05	Uncertain significance	1
+chr5:g.45262925A>C	rs188999686	HCN1	1321480	intron_variant	intron_variant		2.988			0.00446206	Likely benign	1
+chr5:g.45267079A>G	rs776948676	HCN1	412772	intron_variant	intron_variant		11.9			1.32786e-05	Likely benign	1
+chr5:g.45303782C>T		HCN1	2770678	missense_variant	missense_variant	A479T	33.0	0.759	0.948		Uncertain significance	1
+chr5:g.45303835A>G	rs966376899	HCN1	1466117	missense_variant	missense_variant	I461T	27.9	0.95	0.9985		Uncertain significance	1
+chr5:g.45645353G>T	rs2112032005	HCN1	1657102	synonymous_variant	synonymous_variant		8.881				Likely benign	1
+chr5:g.45396508C>A		HCN1	1723114	missense_variant	missense_variant	R405L	29.3	0.654	0.992		Uncertain significance	1
+chr5:g.45396561G>A	rs1579867053	HCN1	758598	synonymous_variant	synonymous_variant		12.28				Likely benign	1
+chr5:g.45396595A>C		HCN1	2584433	missense_variant	missense_variant	M376R	24.2	0.961	0.9987		Likely pathogenic	1
+chr5:g.45396657G>A	rs200829129	HCN1	696919	synonymous_variant	synonymous_variant		9.094			1.31458e-05	Likely benign	1
+chr5:g.45396713G>A	rs1739694635	HCN1	983135	splice_region_variant	intron_variant;splice_region_variant						Uncertain significance	1
+chr5:g.45461881G>A		HCN1	3364945	missense_variant	missense_variant	P326S	24.4	0.736	0.975		Uncertain significance	1
+chr5:g.45261960G>T	rs773757463	HCN1	2336399	missense_variant	missense_variant	D878E	8.804	0.28	0.0812	1.31479e-05	Uncertain significance	1
+chr5:g.45262038C>A	rs1341530184	HCN1	809754	synonymous_variant	synonymous_variant		14.34			0.0	Likely benign	1
+chr5:g.45262080G>C	rs1561078915	HCN1	1619449	synonymous_variant	synonymous_variant		4.098			6.57246e-06	Likely benign	1
+chr5:g.45262103C>T	rs780209007	HCN1	660646	missense_variant	missense_variant	G831S	0.225	0.259	0.0613	6.57333e-06	Uncertain significance	1
+chr5:g.45262248T>C	rs1338055183	HCN1	530574	synonymous_variant	synonymous_variant		0.169			1.3142e-05	Likely benign	1
+chr5:g.45262315C>G	rs1744761859	HCN1	1421395	missense_variant	missense_variant	S760T	15.52	0.207	0.0625		Uncertain significance	1
+chr5:g.45262531G>A		HCN1	2112447	missense_variant	missense_variant	P688L	20.4	0.409	0.077		Uncertain significance	1
+chr5:g.45303647T>A		HCN1	2412825	missense_variant	missense_variant	T524S	24.5	0.448	0.2842		Uncertain significance	1
+chr5:g.45303665C>A		HCN1	1775088	missense_variant	missense_variant	G518C	35.0	0.968	0.9996		Uncertain significance	1
+chr5:g.45303743T>G	rs2111905032	HCN1	1558053	synonymous_variant	synonymous_variant		6.459				Likely benign	1
+chr5:g.45303772del		HCN1	853141	frameshift_variant	frameshift_variant						Uncertain significance	1
+chr5:g.45267194G>A		HCN1	3252500	missense_variant	missense_variant	R560C	34.0	0.738	0.941		Uncertain significance	1
+chr5:g.45303666G>A	rs1007416378	HCN1	530557	synonymous_variant	synonymous_variant		7.894			6.57886e-06	Likely benign	1
+chr5:g.45303751C>T	rs1745673386	HCN1	1047818	missense_variant	missense_variant	S489N	27.7	0.445	0.6706		Uncertain significance	1
+chr5:g.45353178A>G		HCN1	1918579	synonymous_variant	synonymous_variant		4.419				Likely benign	1
+chr5:g.45396504C>T	rs1384214329	HCN1	1117673	synonymous_variant	synonymous_variant		12.96			6.57601e-06	Likely benign	1
+chr5:g.45645437G>A	rs1051820929	HCN1	772311	synonymous_variant	synonymous_variant		7.622			6.57644e-06	Likely benign	1
+chr5:g.45645511A>G		HCN1	1800686	missense_variant	missense_variant	W175R	26.3	0.953	0.9995		Uncertain significance	1
+chr5:g.45262243C>T		HCN1	2168118	missense_variant	missense_variant	R784K	24.5	0.249	0.247		Uncertain significance	1
+chr5:g.45262357G>A	rs1306386314	HCN1	1941999	missense_variant	missense_variant	T746I	15.0	0.239	0.0954	4.03744e-06	Uncertain significance	1
+chr5:g.45262483C>T	rs1293827335	HCN1	969624	missense_variant	missense_variant	C704Y	22.5	0.412	0.1676		Uncertain significance	1
+chr5:g.45262741T>C		HCN1	2580691	missense_variant	missense_variant	E618G	25.9	0.792	0.9385		Uncertain significance	1
+chr5:g.45267097T>C	rs1166669677	HCN1	1699892	missense_variant	missense_variant	D592G	29.9	0.391	0.8125	6.57471e-06	Uncertain significance	1
+chr5:g.45695896G>T		HCN1	2799313	synonymous_variant	synonymous_variant		12.17				Likely benign	1
+chr5:g.45695913C>G	rs900254081	HCN1	864598	missense_variant	missense_variant	V61L	17.28	0.269	0.1863	0.000133106	Likely benign	1
+chr5:g.45695958C>A	rs1031913850	HCN1	1057532	missense_variant	missense_variant	G46C	27.7	0.382	0.1234	6.66978e-06	Uncertain significance	1
+chr5:g.45696004C>A	rs1290982240	HCN1	1585937	synonymous_variant	synonymous_variant		21.2				Likely benign	1
+chr5:g.45261934G>A	rs1283434459	HCN1	2709827	missense_variant	missense_variant	A887V	22.7	0.398	0.183	1.31456e-05	Uncertain significance	1
+chr5:g.45261988C>T	rs372807250	HCN1	1424356	missense_variant	missense_variant	R869K	12.44	0.333	0.077	5.25928e-05	Uncertain significance	1
+chr5:g.45262013G>T	rs756753787	HCN1	1062838	missense_variant	missense_variant	P861T	13.28	0.364	0.0681	6.57298e-06	Likely benign	1
+chr5:g.45262054G>C	rs572698864	HCN1	2720175	missense_variant	missense_variant	S847W	28.0	0.654	0.6441		Uncertain significance	1
+chr5:g.45262066C>T	rs1373191177	HCN1	3023396	missense_variant	missense_variant	R843Q	33.0	0.584	0.1864	3.99198e-06	Uncertain significance	1
+chr5:g.45262135G>A	rs1362460579	HCN1	3367768	missense_variant	missense_variant	T820M	19.09	0.274	0.0865		Uncertain significance	1
+chr5:g.45396507C>T	rs770503728	HCN1	1548806	synonymous_variant	synonymous_variant		15.64			6.578e-06	Likely benign	1
+chr5:g.45396548_45396549del	rs1739691445	HCN1	853410	frameshift_variant	frameshift_variant						Uncertain significance	1
+chr5:g.45396575C>T	rs1739692080	HCN1	1007083	missense_variant	missense_variant	A383T	31.0	0.842	0.9887		Uncertain significance	1
+chr5:g.45396724T>C	rs112775315	HCN1	1195027	intron_variant	intron_variant		1.0			0.00473778	Likely benign	2
+chr5:g.45645239G>T	rs775887697	HCN1	1615049	synonymous_variant	synonymous_variant		6.594			1.97213e-05	Likely benign	1
+chr5:g.45645244T>A	rs763339068	HCN1	658809	missense_variant	missense_variant	S264C	27.2	0.918	0.9725		Pathogenic	1
+chr5:g.45645297T>G	rs2112031854	HCN1	1341556	missense_variant	missense_variant	E246A	25.9	0.8	0.7711		Pathogenic	0
+chr5:g.45645331T>C	rs377021158	HCN1	1350715	missense_variant	missense_variant	I235V	23.3	0.648	0.1526	6.57229e-06	Uncertain significance	1
+chr5:g.45267463_45267464dup		HCN1	1293422								Benign	1
+chr5:g.45695511G>A	rs113860027	HCN1	1301116	intron_variant	intron_variant					0.00648224	Likely benign	1
+chr5:g.45695674A>G	rs765004004	HCN1	1086261	synonymous_variant	synonymous_variant		0.572			6.06894e-05	Likely benign	1
+chr5:g.45695758G>A		HCN1	3012411	synonymous_variant	synonymous_variant		1.496				Likely benign	1
+chr5:g.45695782G>A	rs750291664	HCN1	1109481	synonymous_variant	synonymous_variant		13.59			3.29038e-05	Likely benign	1
+NM_021072.4:c.359del		HCN1	3360207								Uncertain significance	1
+chr5:g.45695871_45695894del		HCN1	461368	disruptive_inframe_deletion	disruptive_inframe_deletion					1.35141e-05	Likely benign	1
+chr5:g.45695970G>A	rs56164833	HCN1	404100	missense_variant	missense_variant	P42S	21.7	0.355	0.0595	0.000327212	Benign	1
+chr5:g.45696020G>T	rs1469192494	HCN1	1033972	missense_variant	missense_variant	A25E	23.1	0.206	0.1705		Uncertain significance	1
+chr5:g.45696081C>T		HCN1	3677308	missense_variant	missense_variant	G5S	25.3	0.246	0.0881		Uncertain significance	1
+chr5:g.45262415G>T	rs1744764524	HCN1	833636	missense_variant	missense_variant	L727M	21.6	0.392	0.1057		Likely benign	1
+chr5:g.45262656G>A	rs1327256369	HCN1	2851401	synonymous_variant	synonymous_variant		0.173			1.97314e-05	Likely benign	1
+chr5:g.45262671A>T		HCN1	2572247	stop_gained	stop_gained	Y641X	35.0				Uncertain significance	1
+chr5:g.45262677G>C	rs764520573	HCN1	3367042	missense_variant	missense_variant	I639M	0.037	0.059	0.0581	6.57454e-06	Uncertain significance	1
+chr5:g.45262760C>T	rs1744776622	HCN1	1433753	missense_variant	missense_variant	G612S	29.8	0.554	0.7196	6.57324e-06	Uncertain significance	1
+chr5:g.45262796T>C	rs2111840202	HCN1	1439700	missense_variant	missense_variant	I600V	13.37	0.283	0.1027		Uncertain significance	1
+chr5:g.45267071G>A	rs978590562	HCN1	2956209	intron_variant	intron_variant						Likely benign	1
+chr5:g.45396654C>A		HCN1	2824430	missense_variant	missense_variant	M356I	33.0	0.848	0.9996		Uncertain significance	1
+chr5:g.45461976G>A		HCN1	2833978	missense_variant	missense_variant	A294V	26.9	0.763	0.981		Likely pathogenic	1
+chr5:g.45461993T>C	rs760071472	HCN1	444652	synonymous_variant	synonymous_variant		4.03			6.57488e-06	Uncertain significance	1
+chr5:g.45645201A>G		HCN1	3391747	missense_variant	missense_variant	I278T	27.5	0.957	0.9844		Uncertain significance	1
+chr5:g.45645241G>A		HCN1	3648849	missense_variant	missense_variant	L265F	26.5	0.86	0.9813		Uncertain significance	1
+chr5:g.45695663C>T	rs1487128437	HCN1	2115786	splice_region_variant	intron_variant;splice_region_variant					4.06699e-06	Likely benign	1
+chr5:g.45695797G>C	rs749348408	HCN1	796404	synonymous_variant	synonymous_variant		9.779				Likely benign	1
+chr5:g.45695857C>G	rs778950857	HCN1	2076184	synonymous_variant	synonymous_variant		7.324			4.66022e-06	Likely benign	1
+chr5:g.45261950C>G		HCN1	3677779	missense_variant	missense_variant	E882Q	13.64	0.389	0.1413		Uncertain significance	1
+chr5:g.45261958G>A	rs774478577	HCN1	2808320	missense_variant	missense_variant	P879L	8.953	0.309	0.0697	3.98514e-06	Uncertain significance	1
+chr5:g.45262075G>T		HCN1	3371752	missense_variant	missense_variant	T840N	13.09	0.309	0.0934		Uncertain significance	1
+chr5:g.45267240C>G		HCN1	2132398	synonymous_variant	synonymous_variant		8.913				Likely benign	1
+chr5:g.45303693C>A	rs1039268056	HCN1	2835845	synonymous_variant	synonymous_variant		15.67				Likely benign	1
+chr5:g.45303757A>G		HCN1	1806449	missense_variant	missense_variant	M487T	26.5	0.923	0.985		Uncertain significance	1
+chr5:g.45353138C>A	rs2111983087	HCN1	1350337	stop_gained	stop_gained	E447X	42.0				Uncertain significance	1
+chr5:g.45353139C>A	rs878855067	HCN1	1699526	missense_variant	missense_variant	E446D	23.2	0.718	0.9963		Uncertain significance	1
+chr5:g.45353139C>T	rs878855067	HCN1	241372	synonymous_variant	synonymous_variant		13.43			6.59031e-06	Likely benign	1
+chr5:g.45353211C>A		HCN1	2757953	missense_variant	missense_variant	K422N	26.5	0.585	0.9983		Uncertain significance	1
+chr5:g.45396472C>T	rs780579570	HCN1	1626875	intron_variant	intron_variant		0.443			3.96061e-05	Likely benign	1
+chr5:g.45396494T>C	rs2112040568	HCN1	1495538	missense_variant	missense_variant;splice_region_variant	K410E	24.0	0.896	0.9963		Uncertain significance	1
+chr5:g.45645364C>A		HCN1	2763200	missense_variant	missense_variant	V224F	31.0	0.859	0.9326		Uncertain significance	1
+chr5:g.45695869_45695870dup		HCN1	1442798								Uncertain significance	1
+chr5:g.45695875_45695876dup		HCN1	941766								Uncertain significance	1
+chr5:g.45695881_45695882dup		HCN1	3697102								Uncertain significance	1
+chr5:g.45695887_45695888dup		HCN1	573431								Likely benign	1
+chr5:g.45261959G>T	rs761866949	HCN1	587861	missense_variant	missense_variant	P879T	2.296	0.279	0.0565	2.39101e-05	Benign	1
+chr5:g.45262033C>G	rs1060500094	HCN1	404095	missense_variant	missense_variant	R854P	26.1	0.541	0.255	6.57834e-06	Likely benign	1
+chr5:g.45262039G>C	rs201368368	HCN1	2822523	missense_variant	missense_variant	P852R	27.6	0.656	0.3368	7.9839e-06	Uncertain significance	1
+chr5:g.45262105C>T		HCN1	2633984	missense_variant	missense_variant	G830E	23.2	0.46	0.3798		Uncertain significance	0
+chr5:g.45262134_45262135insAGG	rs1561078984	HCN1	2188876	disruptive_inframe_insertion	disruptive_inframe_insertion					1.19897e-05	Uncertain significance	1
+chr5:g.45262547G>A		HCN1	3771984	missense_variant	missense_variant	P683S	17.98	0.428	0.0748		Uncertain significance	1
+chr5:g.45262564T>C	rs1199032164	HCN1	1626270	missense_variant	missense_variant	N677S	1.256	0.343	0.0609	6.57981e-06	Likely benign	1
+chr5:g.45262679T>C		HCN1	3635383	missense_variant	missense_variant	I639V	0.001	0.1	0.0536		Uncertain significance	1
+chr5:g.45262797T>C	rs148932124	HCN1	167167	synonymous_variant	synonymous_variant		0.267			0.00401731	Benign	2
+chr5:g.45645364C>T		HCN1	3766250	missense_variant	missense_variant	V224I	24.5	0.54	0.2297		Uncertain significance	1
+chr5:g.45645571C>T		HCN1	3777421	missense_variant	missense_variant	G155R	28.6	0.928	0.9988		Uncertain significance	1
+chr5:g.45396628G>A	rs1739693084	HCN1	833982	missense_variant	missense_variant	A365V	32.0	0.83	0.8818		Likely benign	1
+chr5:g.45267257T>C	rs752222441	HCN1	1091530	splice_region_variant	intron_variant;splice_region_variant						Likely benign	1
+chr5:g.45396747T>A	rs113964925	HCN1	1300443	intron_variant	intron_variant		8.85			0.00327979	Likely benign	1
+chr5:g.45461852T>C	rs1561164051	HCN1	2135669	synonymous_variant	synonymous_variant		5.349			6.57488e-06	Likely benign	1
+chr5:g.45262291T>C	rs1561079128	HCN1	1025986	missense_variant	missense_variant	H768R	12.17	0.332	0.1666		Uncertain significance	1
+chr5:g.45262341C>G	rs1744762382	HCN1	1096808	synonymous_variant	synonymous_variant		2.943				Likely benign	1
+chr5:g.45262343G>C	rs758226055	HCN1	588384	missense_variant	missense_variant	P751A	1.306	0.204	0.0596	0.000112751	Likely benign	1
+chr5:g.45262383C>T	rs749649309	HCN1	2793384	synonymous_variant	synonymous_variant		0.014			4.05351e-06	Likely benign	1
+chr5:g.45262419G>A	rs529847164	HCN1	3629267	synonymous_variant	synonymous_variant		6.614			1.97223e-05	Likely benign	1
+chr5:g.45303803T>A	rs2111905140	HCN1	1308694	missense_variant	missense_variant	T472S	20.3	0.406	0.1983		Uncertain significance	1
+chr5:g.45303817C>T	rs773990933	HCN1	1441007	missense_variant	missense_variant	R467Q	35.0	0.752	0.9439	6.58085e-06	Uncertain significance	1
+chr5:g.45353081T>A	rs767167943	HCN1	2154055	intron_variant	intron_variant		5.605			0.0	Likely benign	1
+chr5:g.45353124A>G	rs1554020038	HCN1	530591	synonymous_variant	synonymous_variant		5.486				Likely benign	1
+chr5:g.45396481A>G	rs1739690077	HCN1	1902223	intron_variant	intron_variant						Likely benign	1
+chr5:g.45461936G>A	rs1385704339	HCN1	530567	synonymous_variant	synonymous_variant		7.972			6.57514e-06	Likely benign	1
+chr5:g.45645271G>A	rs1745528455	HCN1	1004454	missense_variant	missense_variant	R255C	33.0	0.955	0.9956		Uncertain significance	1
+chr5:g.45695657G>C	rs748471108	HCN1	1623739	intron_variant	intron_variant		2.451			2.63033e-05	Likely benign	1
+chr5:g.45695686G>A		HCN1	1938279	synonymous_variant	synonymous_variant		0.332				Likely benign	1
+chr5:g.45695691T>C		HCN1	2446330	missense_variant	missense_variant	I135V	23.5	0.663	0.8533		Uncertain significance	1
+chr5:g.45695905G>A	rs1580055249	HCN1	721630	synonymous_variant	synonymous_variant		14.87				Likely benign	1
+chr5:g.45695905G>T	rs1580055249	HCN1	1157054	synonymous_variant	synonymous_variant		12.82				Likely benign	1
+chr5:g.45695914C>T	rs1215461701	HCN1	1389137	synonymous_variant	synonymous_variant		14.63			9.20116e-06	Likely benign	1
+chr5:g.45695949C>T	rs1214766208	HCN1	2114588	missense_variant	missense_variant	G49S	23.0	0.237	0.0883	0.0	Uncertain significance	1
+chr5:g.45696015C>A		HCN1	3635386	missense_variant	missense_variant	A27S	22.0	0.31	0.0779		Uncertain significance	1
+NM_021072.4:c.1171G>T		HCN1	3358955								Pathogenic	1
+chr5:g.45333266G>A	rs761223261	HCN1	1679655	intron_variant	intron_variant						Uncertain significance	1
+chr5:g.45353067T>C	rs115647789	HCN1	1300440	intron_variant	intron_variant		2.995			0.00693211	Likely benign	1
+chr5:g.45353081T>C		HCN1	1980159	intron_variant	intron_variant						Likely benign	1
+chr5:g.45353226G>A	rs1746947778	HCN1	3001882	synonymous_variant	synonymous_variant		3.734				Likely benign	1
+chr5:g.45396547T>G		HCN1	2700055	missense_variant	missense_variant	H392P	28.0	0.914	0.999		Uncertain significance	1
+chr5:g.45396583A>T		HCN1	1806339	missense_variant	missense_variant	I380N	32.0	0.912	0.9934		Uncertain significance	1
+chr5:g.45396677G>C		HCN1	2728504	missense_variant	missense_variant	L349V	21.6	0.824	0.2995		Uncertain significance	1
+chr5:g.45461830A>T	rs1579910171	HCN1	2740888	intron_variant	intron_variant						Likely benign	1
+chr5:g.45645172A>C		HCN1	2799904	intron_variant	intron_variant	F288V			0.1514		Likely benign	1
+chr5:g.45645329G>C		HCN1	2874306	missense_variant	missense_variant	I235M	24.5	0.846	0.6207		Uncertain significance	1
+chr5:g.45645340C>T	rs1745529492	HCN1	999507	missense_variant	missense_variant	V232M	25.3	0.817	0.8008		Uncertain significance	1
+chr5:g.45262205C>A		HCN1	3716591	missense_variant	missense_variant	V797L	14.6	0.062	0.1025		Uncertain significance	1
+chr5:g.45262416C>T	rs1039430806	HCN1	3708154	synonymous_variant	sequence_feature;synonymous_variant		6.253			4.04862e-06	Likely benign	1
+chr5:g.45262428G>C		HCN1	2759828	synonymous_variant	synonymous_variant		1.323				Likely benign	1
+chr5:g.45262429G>A	rs2111839334	HCN1	1325609	missense_variant	missense_variant	P722L	19.82	0.176	0.3957		Uncertain significance	1
+chr5:g.45262494G>T	rs1304151044	HCN1	3658084	synonymous_variant	synonymous_variant		4.959			6.58137e-06	Likely benign	1
+chr5:g.45262519G>C	rs1561079301	HCN1	579499	missense_variant	missense_variant	A692G	15.11	0.153	0.0833		Uncertain significance	1
+chr5:g.45262539T>C	rs1406966043	HCN1	2196437	synonymous_variant	synonymous_variant		0.2			3.96999e-05	Likely benign	1
+chr5:g.45262634T>C	rs1744773562	HCN1	944550	missense_variant	missense_variant	T654A	0.001	0.053	0.0565		Uncertain significance	1
+chr5:g.45267073T>G	rs770876235	HCN1	1592849	intron_variant	intron_variant					1.32807e-05	Likely benign	1
+chr5:g.45645628C>G	rs2112032435	HCN1	1670758	intron_variant	intron_variant						Likely benign	1
+chr5:g.45695793T>C	rs1739996550	HCN1	1380892	missense_variant	missense_variant	M101V	14.79	0.492	0.4444		Uncertain significance	1
+chr5:g.45695807C>T	rs1739997160	HCN1	2432384	missense_variant	missense_variant	R96K	26.9	0.35	0.3033		Uncertain significance	1
+chr5:g.45695811_45696036del		HCN1	2094407	frameshift_variant	frameshift_variant;sequence_feature						Uncertain significance	1
+chr5:g.45695842G>A	rs573050222	HCN1	699978	synonymous_variant	synonymous_variant		13.65			6.60406e-05	Benign	1
+chr5:g.45261974C>G	rs1340599360	HCN1	2782263	missense_variant	missense_variant	V874L	12.07	0.507	0.1114	6.57661e-06	Uncertain significance	1
+chr5:g.45262161G>A		HCN1	2018123	synonymous_variant	synonymous_variant		8.174				Likely benign	1
+chr5:g.45267156G>T	rs769174129	HCN1	744150	synonymous_variant	synonymous_variant		9.493			1.59048e-05	Likely benign	1
+chr5:g.45267245G>C		HCN1	3856970	missense_variant	missense_variant	L543V	25.1	0.879	0.9807		Uncertain significance	1
+chr5:g.45303591T>C		HCN1	3603562	splice_region_variant	intron_variant;splice_region_variant						Likely benign	1
+chr5:g.45303767C>A		HCN1	3104493	missense_variant	missense_variant	V484L	33.0	0.597	0.9984		Uncertain significance	1
+chr5:g.45695895C>T	rs1427664939	HCN1	2913131	missense_variant	missense_variant	G67S	17.52	0.284	0.0986	1.99267e-05	Uncertain significance	1
+chr5:g.45695926G>A	rs996210990	HCN1	1615378	synonymous_variant	synonymous_variant		16.32			1.99042e-05	Likely benign	1
+chr5:g.45696001C>A		HCN1	2818639	synonymous_variant	synonymous_variant						Likely benign	1
+chr5:g.45696048C>T	rs1283834151	HCN1	657230	missense_variant	missense_variant	D16N	23.3	0.269	0.1156	1.36188e-05	Uncertain significance	1
+chr5:g.45645464C>G	rs781618008	HCN1	2018071	synonymous_variant	synonymous_variant		6.436			6.57549e-06	Likely benign	1
+chr5:g.45645512T>C	rs1438316786	HCN1	2710219	synonymous_variant	sequence_feature;synonymous_variant		1.32			3.99179e-06	Likely benign	1
+chr5:g.45461987A>C		HCN1	1721419	missense_variant	missense_variant	D290E	23.0	0.663	0.9979		Uncertain significance	1
+chr5:g.45461999G>T	rs765728211	HCN1	1298994	missense_variant	missense_variant	H286Q	26.5	0.749	0.9869		Likely pathogenic	1
+chr5:g.45645194T>C		HCN1	1950865	synonymous_variant	synonymous_variant		0.117				Likely benign	1
+chr5:g.45645506A>G	rs386352316	HCN1	92010	synonymous_variant	synonymous_variant		1.267				Uncertain significance	0
+chr5:g.45645557G>C	rs1745533139	HCN1	860501	missense_variant	missense_variant	I159M	21.4	0.57	0.4023		Uncertain significance	1
+chr5:g.45262189G>C	rs1744759169	HCN1	1390961	missense_variant	missense_variant	S802C	17.91	0.3	0.0732		Uncertain significance	1
+chr5:g.45262268T>C	rs2111838973	HCN1	1668702	missense_variant	missense_variant	N776D	10.77	0.146	0.1571		Likely benign	1
+chr5:g.45262339G>T	rs934392482	HCN1	1013251	missense_variant	missense_variant	S752Y	7.644	0.14	0.1218		Uncertain significance	1
+chr5:g.45262435G>T	rs1744765469	HCN1	833981	missense_variant	missense_variant	A720D	15.66	0.266	0.4435		Likely benign	1
+chr5:g.45262481T>C	rs887218056	HCN1	3705048	missense_variant	missense_variant	S705G	23.6	0.341	0.1375	1.31989e-05	Uncertain significance	1
+chr5:g.45262488C>T	rs1344539030	HCN1	1507581	synonymous_variant	synonymous_variant		12.78			3.99138e-06	Likely benign	1
+chr5:g.45695652C>G	rs774888673	HCN1	1642655	intron_variant	intron_variant		3.538			1.31532e-05	Likely benign	1
+chr5:g.45695662C>A	rs759096969	HCN1	698065	splice_region_variant	intron_variant;splice_region_variant		8.706			5.91794e-05	Likely benign	1
+chr5:g.45695727C>A		HCN1	3349183	stop_gained	stop_gained	E123X	35.0				Uncertain significance	0
+chr5:g.45695779C>G	rs1253363160	HCN1	2854666	synonymous_variant	synonymous_variant		9.979				Likely benign	1
+chr5:g.45353157T>C	rs375902844	HCN1	1547030	synonymous_variant	synonymous_variant		0.475			6.57756e-06	Likely benign	1
+chr5:g.45396536A>T	rs1739691000	HCN1	833550	missense_variant	missense_variant	L396I	22.6	0.661	0.978		Likely benign	1
+chr5:g.45461871C>A	rs1318391259	HCN1	3234083	missense_variant	missense_variant	C329F	26.3	0.853	0.9984	6.57419e-06	Uncertain significance	1
+chr5:g.45461871C>G	rs1318391259	HCN1	635191	missense_variant	missense_variant	C329S	23.8	0.606	0.8309		Pathogenic	0
+chr5:g.45695936T>G	rs1554040137	HCN1	530485	missense_variant	missense_variant	H53P	21.1	0.279	0.0788		Uncertain significance	1
+chr5:g.45695959G>A	rs886043996	HCN1	288751	synonymous_variant	synonymous_variant		12.16				Uncertain significance	1
+chr5:g.45695978A>T		HCN1	2432383	missense_variant	missense_variant	L39Q	18.92	0.296	0.0625		Uncertain significance	1
+chr5:g.45695979G>A	rs1359131110	HCN1	1145222	synonymous_variant	synonymous_variant		0.203				Likely benign	1
+chr5:g.45695981C>T	rs761449013	HCN1	2722531	missense_variant	missense_variant	R38H	22.5	0.192	0.1508		Uncertain significance	1
+chr5:g.45695982G>T	rs2112109560	HCN1	1485971	missense_variant	missense_variant	R38S	0.584	0.229	0.1921		Uncertain significance	1
+chr5:g.45695989G>C	rs1336522225	HCN1	1156095	synonymous_variant	synonymous_variant		6.57				Likely benign	1
+chr5:g.45267147T>C	rs1418891203	HCN1	2172761	synonymous_variant	synonymous_variant		6.233			7.95241e-06	Likely benign	1
+chr5:g.45267187T>A		HCN1	3641090	missense_variant	missense_variant	Y562F	14.57	0.307	0.1848		Uncertain significance	1
+chr5:g.45267212G>A	rs2111846846	HCN1	1312411	stop_gained	stop_gained	R554X	43.0				Uncertain significance	1
+chr5:g.45267081_45267082dup		HCN1	198584								Benign	2
+chr5:g.45261975T>G		HCN1	3389728	synonymous_variant	synonymous_variant		5.058				Likely benign	1
+chr5:g.45262044G>T	rs772068771	HCN1	2421782	synonymous_variant	synonymous_variant		6.222			6.5716e-06	Likely benign	1
+chr5:g.45262132G>A	rs371602396	HCN1	948314	missense_variant	missense_variant	A821V	5.865	0.21	0.0779	1.31425e-05	Likely benign	1
+chr5:g.45262167G>A	rs774013410	HCN1	530421	synonymous_variant	synonymous_variant		10.57			1.3142e-05	Likely benign	1
+chr5:g.45262571G>T		HCN1	3368843	missense_variant	missense_variant	H675N	14.02	0.478	0.0751		Uncertain significance	1
+chr5:g.45262585G>A	rs142280884	HCN1	1016986	missense_variant	missense_variant	A670V	16.1	0.306	0.1064	8.54869e-05	Likely benign	1
+chr5:g.45262793G>T	rs990318984	HCN1	3678888	missense_variant	missense_variant	L601I	27.7	0.436	0.7654		Uncertain significance	1
+chr5:g.45267083G>T		HCN1	2705929	splice_region_variant	intron_variant;splice_region_variant						Uncertain significance	1
+chr5:g.45262066C>A		HCN1	1879622	missense_variant	missense_variant	R843L	33.0	0.718	0.6793		Uncertain significance	2
+chr5:g.45262107T>C	rs1744753344	HCN1	1604227	synonymous_variant	synonymous_variant		0.008			6.57246e-06	Likely benign	1
+chr5:g.45262253G>C	rs781686163	HCN1	2067284	missense_variant	missense_variant	R781G	20.1	0.391	0.1953	3.99109e-06	Likely benign	1
+chr5:g.45262299A>G	rs933648147	HCN1	699303	synonymous_variant	synonymous_variant		0.69			7.23779e-05	Likely benign	1
+chr5:g.45262324G>A	rs1579762677	HCN1	763142	missense_variant	missense_variant	T757I	9.358	0.181	0.0864		Likely benign	1
+chr5:g.45262534G>T	rs748584173	HCN1	530446	missense_variant	missense_variant	T687N	14.12	0.338	0.0719	1.97493e-05	Likely benign	1
+chr5:g.45396531G>C	rs2112040618	HCN1	1298993	missense_variant	missense_variant	I397M	21.5	0.665	0.9637		Likely pathogenic	1
+chr5:g.45396550C>A	rs1057519547	HCN1	1074847	missense_variant	missense_variant	G391V	33.0	0.916	0.9993		Pathogenic	1
+chr5:g.45396551C>T	rs1561139569	HCN1	635189	missense_variant	missense_variant	G391S	34.0	0.901	0.993		Pathogenic	0
+chr5:g.45461974C>T		HCN1	2828535	missense_variant	missense_variant	V295M	25.9	0.564	0.3416		Uncertain significance	1
+chr5:g.45645190C>T		HCN1	2004527	missense_variant	missense_variant	E282K	33.0	0.937	0.9983		Uncertain significance	1
+chr5:g.45645216C>T	rs868261838	HCN1	3643537	missense_variant	missense_variant	R273K	29.7	0.842	0.9879		Uncertain significance	1
+chr5:g.45645226G>A	rs541911994	HCN1	1208904	stop_gained	sequence_feature;stop_gained	R270X	39.0			6.57557e-06	Uncertain significance	1
+chr5:g.45645347G>T	rs1442056712	HCN1	1675985	synonymous_variant	synonymous_variant		3.416				Likely benign	1
+chr5:g.45695913C>T		HCN1	3104494	missense_variant	missense_variant	V61M	20.3	0.181	0.2138		Uncertain significance	1
+chr5:g.45695934C>G	rs1245405853	HCN1	985240	missense_variant	missense_variant	G54R	23.8	0.325	0.4739	2.00361e-05	Uncertain significance	1
+chr5:g.45262575C>T	rs767602409	HCN1	625958	synonymous_variant	synonymous_variant		12.32			3.97757e-06	Uncertain significance	1
+chr5:g.45262669G>A	rs1561079455	HCN1	2762767	missense_variant	missense_variant	P642L	11.73	0.197	0.1066	6.57454e-06	Uncertain significance	1
+chr5:g.45267001T>G	rs112886466	HCN1	1301123	intron_variant	intron_variant		0.015			0.0100808	Likely benign	1
+chr5:g.45267130C>T	rs1248907862	HCN1	2998095	missense_variant	missense_variant	R581K	27.2	0.282	0.832	6.57255e-06	Uncertain significance	1
+chr5:g.45267133C>T	rs2111846721	HCN1	1309054	missense_variant	missense_variant	R580K	33.0	0.276	0.9608		Uncertain significance	1
+chr5:g.45396686A>G		HCN1	1800607	missense_variant	missense_variant	S346P	31.0	0.941	0.9991		Uncertain significance	1
+chr5:g.45695656C>A		HCN1	2996123	intron_variant	intron_variant						Likely benign	1
+chr5:g.45695681T>A		HCN1	3693451	missense_variant	missense_variant	Y138F	22.9	0.583	0.5941		Uncertain significance	1
+chr5:g.45695775T>C	rs2112108878	HCN1	1672873	missense_variant	missense_variant	N107D	25.6	0.733	0.9936		Likely benign	1
+chr5:g.45695821G>T	rs1170637860	HCN1	1302238	stop_gained	stop_gained	Y91X	36.0				Uncertain significance	1
+chr5:g.45695829G>T	rs763705954	HCN1	1153680	synonymous_variant	sequence_feature;synonymous_variant		11.15			2.63939e-05	Likely benign	1
+chr5:g.45695835G>A	rs370113959	HCN1	461373	missense_variant	missense_variant	P87S	7.06	0.237	0.0663	0.000204756	Benign	1
+chr5:g.45303663A>T	rs757243536	HCN1	2085124	synonymous_variant	synonymous_variant		0.009			3.98686e-06	Likely benign	1
+chr5:g.45303788C>T	rs1353247808	HCN1	1319936	missense_variant	missense_variant	A477T	27.3	0.647	0.8084		Uncertain significance	0
+chr5:g.45303846A>C		HCN1	3723692	splice_region_variant	intron_variant;splice_region_variant						Uncertain significance	1
+chr5:g.45353173T>C		HCN1	3720645	missense_variant	missense_variant	Y435C	27.2	0.932	0.9976		Uncertain significance	1
+chr5:g.45396493T>C	rs2112040564	HCN1	1513652	missense_variant	missense_variant;splice_region_variant	K410R	22.3	0.674	0.5381		Uncertain significance	1
+chr5:g.45645356G>C	rs754468811	HCN1	941185	missense_variant	missense_variant	F226L	23.1	0.659	0.7059	7.97684e-06	Uncertain significance	1
+chr5:g.45645418T>C	rs1444972054	HCN1	461374	missense_variant	missense_variant	I206V	22.5	0.464	0.708	3.98606e-06	Uncertain significance	1
+chr5:g.45645535A>G		HCN1	3382566	missense_variant	missense_variant	F167L	20.8	0.692	0.9976		Likely pathogenic	1
+chr5:g.45645559T>A		HCN1	1801116	missense_variant	missense_variant	I159F	23.4	0.777	0.6827		Uncertain significance	1
+NM_021072.4:c.1378-1G>A		HCN1	3360595								Uncertain significance	1
+chr5:g.45267181A>G		HCN1	1978076	missense_variant	missense_variant	L564P	25.3	0.958	1.0		Uncertain significance	1
+chr5:g.45267263C>G		HCN1	3008209	intron_variant	intron_variant						Likely benign	1
+chr5:g.45303639G>T	rs1478297290	HCN1	589285	synonymous_variant	synonymous_variant		8.456			1.31569e-05	Likely benign	1
+chr5:g.45303801T>C	rs1446815034	HCN1	3009013	synonymous_variant	synonymous_variant		2.3			3.98441e-06	Likely benign	1
+chr5:g.45353094T>A	rs1579834484	HCN1	2983214	splice_region_variant	intron_variant;splice_region_variant						Uncertain significance	1
+chr5:g.45353217G>C		HCN1	2850962	missense_variant	missense_variant	F420L	28.9	0.669	1.0		Uncertain significance	1
+chr5:g.45353244A>C		HCN1	2858348	stop_gained	splice_region_variant;stop_gained	Y411X	37.0				Uncertain significance	1
+chr5:g.45396480A>T		HCN1	2831531	intron_variant	intron_variant						Likely benign	1
+chr5:g.45262585G>T	rs142280884	HCN1	404098	missense_variant	missense_variant	A670E	10.77	0.308	0.3411	1.31518e-05	Uncertain significance	1
+chr5:g.45262768A>C		HCN1	3659826	missense_variant	missense_variant	L609R	26.7	0.788	0.7905		Uncertain significance	1
+chr5:g.45262817G>A		HCN1	2999806	splice_region_variant	intron_variant;splice_region_variant						Likely benign	1
+chr5:g.45267095G>T	rs989268235	HCN1	2891566	synonymous_variant	synonymous_variant		11.87				Likely benign	1
+chr5:g.45267112G>A		HCN1	3383802	missense_variant	missense_variant	A587V	33.0	0.546	0.9993		Uncertain significance	1
+chr5:g.45396538G>C	rs2112040633	HCN1	1342978	missense_variant	missense_variant	A395G	24.2	0.621	0.9112		Pathogenic	0
+chr5:g.45396547T>C	rs1739691309	HCN1	1698172	missense_variant	missense_variant	H392R	25.8	0.938	0.9964		Uncertain significance	1
+chr5:g.45396563C>G	rs2112040690	HCN1	1480620	missense_variant	missense_variant	A387P	32.0	0.944	0.9997		Likely pathogenic	1
+chr5:g.45396691T>G		HCN1	2662338	missense_variant	missense_variant	Q344P	26.9	0.894	0.996		Uncertain significance	1
+chr5:g.45396724T>A	rs112775315	HCN1	1552079	intron_variant	intron_variant						Likely benign	1
+chr5:g.45645170A>G		HCN1	2760904	intron_variant	intron_variant						Likely benign	1
+chr5:g.45645240A>T		HCN1	1803035	missense_variant	missense_variant	L265H	26.6	0.972	0.9995		Likely pathogenic	1
+chr5:g.45645300G>A	rs1561230479	HCN1	590181	missense_variant	missense_variant	S245F	28.9	0.715	0.8733		Uncertain significance	1
+chr5:g.45695708G>A		HCN1	2655458	missense_variant	missense_variant	T129I	25.0	0.483	0.7791		Uncertain significance	1
+chr5:g.45695789A>T	rs886042909	HCN1	284595	missense_variant	missense_variant	L102Q	26.8	0.782	0.9901		Uncertain significance	1
+chr5:g.45695798G>C		HCN1	2443477	missense_variant	missense_variant	T99S	15.45	0.11	0.1194		Uncertain significance	1
+chr5:g.45695832G>C	rs774375241	HCN1	1046259	missense_variant	missense_variant	R88G	18.04	0.287	0.0971	6.59326e-06	Likely benign	1
+chr5:g.45262028C>G		HCN1	2693123	missense_variant	missense_variant	V856L	15.17	0.262	0.0708		Uncertain significance	1
+chr5:g.45262034G>T	rs534013981	HCN1	565312	synonymous_variant	synonymous_variant		10.23			2.63006e-05	Likely benign	1
+chr5:g.45262043G>A	rs1194036783	HCN1	2121150	missense_variant	missense_variant	P851S	24.4	0.592	0.2011	1.19682e-05	Uncertain significance	1
+chr5:g.45262156G>C	rs777158203	HCN1	3353470	missense_variant	missense_variant	A813G	23.9	0.42	0.1796	6.57056e-06	Uncertain significance	0
+chr5:g.45262284G>A	rs749727167	HCN1	938940	synonymous_variant	synonymous_variant		6.971			1.31392e-05	Likely benign	1
+chr5:g.45262431G>A	rs1232289132	HCN1	2655455	synonymous_variant	synonymous_variant		3.878			4.03132e-06	Likely benign	1
+chr5:g.45262530G>A		HCN1	2011620	synonymous_variant	synonymous_variant		4.38				Likely benign	1
+chr5:g.45262618C>A	rs1221257807	HCN1	3645044	missense_variant	missense_variant	R659L	10.22	0.365	0.1734		Uncertain significance	1
+chr5:g.45262642G>C	rs771934361	HCN1	404094	missense_variant	missense_variant	S651W	22.0	0.34	0.2671	3.28787e-05	Likely benign	1
+chr5:g.45262677G>T	rs764520573	HCN1	746151	synonymous_variant	synonymous_variant		0.013				Likely benign	1
+chr5:g.45262749G>C	rs200841444	HCN1	984593	missense_variant	missense_variant	N615K	26.1	0.464	0.9364	6.57298e-06	Uncertain significance	0
+chr5:g.45695891_45695893del		HCN1	3730065	disruptive_inframe_deletion	disruptive_inframe_deletion					0.0	Uncertain significance	1
+chr5:g.45695893A>T		HCN1	2015629	synonymous_variant	synonymous_variant		10.28				Likely benign	1
+chr5:g.45696025G>A	rs1060503835	HCN1	412773	synonymous_variant	synonymous_variant		9.85			6.68262e-06	Likely benign	1
+chr5:g.45262576A>C	rs750680736	HCN1	2795440	missense_variant	missense_variant	L673R	23.7	0.704	0.193	3.97741e-06	Likely benign	1
+chr5:g.45262596C>G	rs758849997	HCN1	2866247	synonymous_variant	synonymous_variant		6.013			7.95596e-06	Likely benign	1
+chr5:g.45262628G>T	rs1744773336	HCN1	939613	missense_variant	missense_variant	P656T	12.36	0.213	0.059		Uncertain significance	1
+chr5:g.45262680G>A	rs1744774881	HCN1	2111100	synonymous_variant	synonymous_variant		0.015			6.5754e-06	Likely benign	1
+chr5:g.45262686G>T		HCN1	3604052	synonymous_variant	synonymous_variant		3.808				Likely benign	1
+chr5:g.45262744T>C	rs748122704	HCN1	2147935	missense_variant	missense_variant	Q617R	22.9	0.357	0.1956	6.57151e-06	Likely benign	1
+chr5:g.45267072G>A	rs567989576	HCN1	1545272	intron_variant	intron_variant		8.408			6.6357e-06	Likely benign	1
+chr5:g.45303612G>A	rs764923669	HCN1	1776261	synonymous_variant	synonymous_variant		10.15			7.97964e-06	Likely benign	1
+chr5:g.45303665C>G	rs2111904880	HCN1	1698099	missense_variant	missense_variant	G518R	34.0	0.967	0.9999		Uncertain significance	1
+chr5:g.45303698C>A		HCN1	2053605	missense_variant	missense_variant	A507S	23.1	0.411	0.1548		Uncertain significance	1
+chr5:g.45303768A>T		HCN1	2312675	missense_variant	missense_variant	F483L	23.3	0.665	0.9999		Uncertain significance	1
+chr5:g.45396482_45396483dup		HCN1	1111134								Likely benign	1
+chr5:g.45262029T>C	rs1744749557	HCN1	1099803	synonymous_variant	synonymous_variant		0.497				Likely benign	1
+chr5:g.45262032T>G	rs2111838209	HCN1	1549457	synonymous_variant	synonymous_variant		2.6				Likely benign	1
+chr5:g.45262106C>A		HCN1	1792022	missense_variant	missense_variant	G830W	25.8	0.493	0.3608		Uncertain significance	1
+chr5:g.45262119C>G	rs753637793	HCN1	1159310	synonymous_variant	synonymous_variant		7.151			6.57445e-06	Likely benign	1
+chr5:g.45262149G>T	rs375360013	HCN1	530579	synonymous_variant	synonymous_variant		1.588			8.54061e-05	Likely benign	1
+chr5:g.45262167G>T	rs774013410	HCN1	2655454	synonymous_variant	synonymous_variant		7.875			3.98874e-06	Likely benign	1
+chr5:g.45396590T>A	rs2112040742	HCN1	1302174	missense_variant	missense_variant	S378C	27.3	0.891	0.9614		Uncertain significance	1
+chr5:g.45396672G>A	rs756659935	HCN1	2174756	synonymous_variant	synonymous_variant		12.58			3.98995e-06	Likely benign	1
+chr5:g.45396681G>A	rs140235085	HCN1	412775	synonymous_variant	synonymous_variant		8.776			0.000230127	Benign	1
+chr5:g.45396703G>C		HCN1	3893210	missense_variant	missense_variant	S340C	28.6	0.894	0.7172		Uncertain significance	1
+chr5:g.45461834G>T	rs755646529	HCN1	1570152	intron_variant	intron_variant		0.245			9.86544e-05	Likely benign	1
+chr5:g.45461864C>T	rs890637108	HCN1	1135632	synonymous_variant	synonymous_variant		15.38			2.63016e-05	Likely benign	1
+chr5:g.45461909C>A		HCN1	1703343	missense_variant	missense_variant	Q316H	29.0	0.868	0.9875		Uncertain significance	1
+chr5:g.45695935G>A	rs10066808	HCN1	697886	synonymous_variant	synonymous_variant		8.663			0.000172709	Likely benign	1
+chr5:g.45695966G>T	rs1060500095	HCN1	2767656	missense_variant	missense_variant	P43Q	24.2	0.319	0.0786	1.33783e-05	Uncertain significance	1
+chr5:g.45696010C>G	rs1377682866	HCN1	1089855	synonymous_variant	synonymous_variant		17.36				Likely benign	1
+chr5:g.45696073G>C	rs1339322889	HCN1	2742192	synonymous_variant	synonymous_variant		0.352			1.33858e-05	Likely benign	1
+chr5:g.45696090C>T		HCN1	3776707	missense_variant	missense_variant	E2K	22.5	0.316	0.3433		Uncertain significance	1
+chr5:g.45303799A>G		HCN1	3644070	missense_variant	missense_variant	M473T	26.5	0.9	0.998		Uncertain significance	1
+chr5:g.45353111G>T		HCN1	3375410	missense_variant	missense_variant	P456T	26.9	0.553	0.7752		Uncertain significance	1
+chr5:g.45353245T>C	rs2111983203	HCN1	1399330	missense_variant	missense_variant;splice_region_variant	Y411C	26.4	0.91	0.9954		Uncertain significance	1
+chr5:g.45353248T>C		HCN1	2430963	splice_acceptor_variant	intron_variant;splice_acceptor_variant						Uncertain significance	1
+chr5:g.45645736A>T	rs76055011	HCN1	1293465	intron_variant	intron_variant		3.013			0.0716446	Benign	1
+chr5:g.45695706C>A		HCN1	1995783	missense_variant	missense_variant	A130S	23.9	0.537	0.4361		Uncertain significance	1
+chr5:g.45695731T>C	rs905624584	HCN1	1593079	synonymous_variant	synonymous_variant		0.011			4.02982e-06	Likely benign	1
+chr5:g.45262273A>G	rs149702217	HCN1	1013774	missense_variant	missense_variant	L774P	27.0	0.469	0.1889	3.2877e-05	Likely benign	1
+chr5:g.45262454C>A	rs775543627	HCN1	1510095	missense_variant	missense_variant	A714S	0.768	0.144	0.0674	4.0122e-06	Likely benign	1
+chr5:g.45645439C>T		HCN1	3377837	missense_variant	missense_variant	V199I	23.9	0.463	0.1397		Uncertain significance	1
+chr5:g.45645470C>T		HCN1	2993464	synonymous_variant	synonymous_variant		9.733				Likely benign	1
+chr5:g.45262670G>A		HCN1	3635382	missense_variant	missense_variant	P642S	3.684	0.152	0.0643		Uncertain significance	1
+chr5:g.45262737G>T	rs754531784	HCN1	960659	missense_variant	missense_variant	N619K	21.1	0.374	0.8271		Uncertain significance	1
+chr5:g.45262778G>A	rs2111840186	HCN1	1310453	stop_gained	stop_gained	Q606X	40.0				Uncertain significance	1
+chr5:g.45262816A>G		HCN1	2167208	splice_region_variant	intron_variant;splice_region_variant						Likely benign	1
+chr5:g.45267085G>C	rs188586020	HCN1	461364	splice_region_variant	intron_variant;splice_region_variant					3.97633e-06	Uncertain significance	1
+chr5:g.45267162G>A	rs141455774	HCN1	461363	synonymous_variant	synonymous_variant		11.93			0.000328684	Benign	1
+chr5:g.45396574G>A	rs2112040707	HCN1	1328701	missense_variant	missense_variant	A383V	25.8	0.827	0.9929		Likely pathogenic	1
+chr5:g.45396593G>A	rs2112040746	HCN1	1547095	synonymous_variant	synonymous_variant		10.56				Likely benign	1
+chr5:g.45396627G>C	rs754230636	HCN1	2025129	synonymous_variant	synonymous_variant		9.475			6.57402e-06	Likely benign	1
+chr5:g.45396666A>G	rs1579867117	HCN1	795647	synonymous_variant	synonymous_variant		4.723				Likely benign	1
+chr5:g.45396728A>C		HCN1	2793142	intron_variant	intron_variant						Likely benign	1
+chr5:g.45461867C>G	rs794727517	HCN1	196504	missense_variant	missense_variant	W330C	34.0	0.964	0.9999	6.58267e-06	Uncertain significance	2
+chr5:g.45461870G>A	rs201361412	HCN1	1550287	synonymous_variant	synonymous_variant		10.22			6.57445e-06	Likely benign	1
+chr5:g.45645497A>G	rs933620684	HCN1	1130956	synonymous_variant	synonymous_variant		0.043			6.57307e-06	Likely benign	1
+chr5:g.45645546C>A	rs1554037393	HCN1	546972	missense_variant	missense_variant	G163V	28.0	0.818	0.9597		Uncertain significance	1
+chr5:g.45695885C>T	rs1269949873	HCN1	2724804	missense_variant	missense_variant	G70D	13.24	0.357	0.2102	8.24579e-06	Uncertain significance	1
+chr5:g.45695935G>C	rs10066808	HCN1	404099	missense_variant	missense_variant	H53Q	19.12	0.273	0.1269	0.00120896	Benign	1
+chr5:g.45645234C>T	rs951258297	HCN1	1308805	missense_variant	missense_variant	R267H	34.0	0.984	0.9969	6.57687e-06	Uncertain significance	1
+chr5:g.45645255G>A		HCN1	2498972	missense_variant	missense_variant	T260I	27.5	0.812	0.9907		Likely pathogenic	1
+chr5:g.45645303T>C		HCN1	2432381	missense_variant	missense_variant	D244G	24.8	0.732	0.6706		Uncertain significance	1
+chr5:g.45262212G>A	rs754764304	HCN1	412771	synonymous_variant	synonymous_variant		5.01			1.31397e-05	Likely benign	1
+chr5:g.45262367G>C	rs560701504	HCN1	461371	missense_variant	missense_variant	P743A	1.655	0.076	0.0542	0.000308808	Benign	1
+chr5:g.45262454C>G		HCN1	3653725	missense_variant	missense_variant	A714P	4.751	0.149	0.1044		Uncertain significance	1
+chr5:g.45262511A>C	rs750463999	HCN1	713218	missense_variant	missense_variant	S695A	22.7	0.276	0.0918	6.60912e-06	Likely benign	1
+chr5:g.45267225A>G	rs1744876264	HCN1	1534374	synonymous_variant	sequence_feature;synonymous_variant		9.1				Likely benign	1
+chr5:g.45267463T>A	rs774992569	HCN1	1300355	intron_variant	intron_variant					0.0286185	Likely benign	1
+chr5:g.45303579G>A	rs373879063	HCN1	2186413	intron_variant	intron_variant		4.577			6.57523e-06	Likely benign	1
+chr5:g.45303720T>C	rs142913986	HCN1	1103662	synonymous_variant	synonymous_variant		1.435			1.97223e-05	Likely benign	1
+chr5:g.45303732del		HCN1	2430459	frameshift_variant	frameshift_variant						Uncertain significance	1
+chr5:g.45303843A>C	rs767538006	HCN1	2796613	splice_region_variant	intron_variant;splice_region_variant					6.57393e-06	Likely benign	1
+chr5:g.45353118G>A	rs2111983045	HCN1	1629662	synonymous_variant	synonymous_variant		9.003				Likely benign	1
+chr5:g.45353220T>A	rs770306188	HCN1	1555568	synonymous_variant	synonymous_variant		13.67			1.59673e-05	Likely benign	1
+chr5:g.45695746G>A	rs767232327	HCN1	1119929	synonymous_variant	synonymous_variant		3.151			6.57367e-06	Likely benign	1
+chr5:g.45695836C>T	rs750154971	HCN1	2850734	synonymous_variant	synonymous_variant		13.63			4.30444e-06	Likely benign	1
+chr5:g.45262004C>T	rs377177102	HCN1	2955611	missense_variant	missense_variant	A864T	19.27	0.336	0.0726	3.98594e-06	Uncertain significance	1
+chr5:g.45262023del		HCN1	1908298	frameshift_variant	frameshift_variant;sequence_feature						Uncertain significance	1
+chr5:g.45262067G>C	rs1046832984	HCN1	1481722	missense_variant	missense_variant	R843G	26.8	0.715	0.5219		Uncertain significance	1
+chr5:g.45262134C>A	rs772076370	HCN1	3706078	synonymous_variant	synonymous_variant		13.38			1.31437e-05	Likely benign	1
+chr5:g.45396510C>T	rs1554022673	HCN1	530616	synonymous_variant	synonymous_variant		16.16				Likely benign	1
+chr5:g.45303682_45303683dup		HCN1	1052345								Uncertain significance	1
+chr5:g.45396696_45396697dup		HCN1	2732880								Uncertain significance	1
+chr5:g.45645620A>T	rs1338629524	HCN1	1671709	intron_variant	intron_variant					4.38716e-06	Likely benign	1
+chr5:g.45695656C>G	rs1451530513	HCN1	1606534	intron_variant	intron_variant					1.31543e-05	Likely benign	1
+chr5:g.45695658G>C	rs557245545	HCN1	3667530	intron_variant	intron_variant		4.072			6.57488e-06	Likely benign	1
+chr5:g.45695824C>T	rs886043090	HCN1	285389	synonymous_variant	synonymous_variant		13.56			6.58302e-06	Uncertain significance	1
+chr5:g.45695828C>T	rs1739997928	HCN1	839954	missense_variant	missense_variant;sequence_feature	R89Q	24.2	0.29	0.1064	6.59135e-06	Uncertain significance	1
+chr5:g.45695876_45695893del		HCN1	1042388	disruptive_inframe_deletion	disruptive_inframe_deletion					2.69295e-05	Uncertain significance	1
+chr5:g.45696053C>G		HCN1	3693075	missense_variant	missense_variant	R14P		0.383	0.2843		Uncertain significance	1
+chr5:g.45396563_45396564dup		HCN1	1057554								Uncertain significance	1
+chr5:g.45695656_45695657dup		HCN1	1985358								Likely benign	1
+chr5:g.45695878_45695879dup		HCN1	461367								Uncertain significance	1
+chr5:g.45267177G>A	rs553446512	HCN1	696780	synonymous_variant	synonymous_variant		9.217			1.97272e-05	Likely benign	1
+chr5:g.45267463_45267464insTA	rs1554014669	HCN1	1250831	intron_variant	intron_variant					0.0178862	Benign	1
+chr5:g.45303585T>A	rs761070627	HCN1	1594166	intron_variant	intron_variant					1.3143e-05	Likely benign	1
+chr5:g.45303674T>C		HCN1	3002179	missense_variant	missense_variant	I515V	25.8	0.771	0.6558		Uncertain significance	1
+chr5:g.45303695C>A	rs180790607	HCN1	1485906	missense_variant	missense_variant	V508L	27.3	0.384	0.6305		Uncertain significance	1
+chr5:g.45462016C>A	rs1000212434	HCN1	3730348	intron_variant	intron_variant						Likely benign	1
+chr5:g.45645225C>T	rs2112031730	HCN1	1053011	missense_variant	missense_variant;sequence_feature	R270Q	34.0	0.94	0.9989		Uncertain significance	1
+chr5:g.45645308T>G	rs199622227	HCN1	412776	synonymous_variant	synonymous_variant		4.706			3.28653e-05	Likely benign	1
+chr5:g.45262546G>A	rs2111839618	HCN1	1053235	missense_variant	missense_variant	P683L	22.0	0.456	0.0911		Uncertain significance	1
+chr5:g.45262586C>T	rs373454105	HCN1	502422	missense_variant	missense_variant	A670T	12.82	0.302	0.0749	7.8963e-05	Uncertain significance	2
+chr5:g.45262627G>C	rs1744773302	HCN1	935330	missense_variant	missense_variant	P656R	9.742	0.213	0.1914		Likely benign	1
+chr5:g.45262632C>T	rs986494425	HCN1	3690380	synonymous_variant	synonymous_variant		2.995			0.0	Likely benign	1
+chr5:g.45262658T>A	rs1175835174	HCN1	588153	missense_variant	missense_variant	T646S	0.001	0.033	0.0636	1.31586e-05	Uncertain significance	1
+chr5:g.45262694G>T	rs1561079474	HCN1	580929	missense_variant	missense_variant	Q634K	15.16	0.232	0.112		Uncertain significance	1
+chr5:g.45262712G>A	rs934319953	HCN1	3647267	missense_variant	missense_variant	H628Y	12.37	0.363	0.264		Uncertain significance	1
+chr5:g.45262737G>A	rs754531784	HCN1	3714063	synonymous_variant	synonymous_variant		4.558			1.1949e-05	Likely benign	1
+chr5:g.45267073T>C	rs770876235	HCN1	1570895	intron_variant	intron_variant		8.63			8.76222e-05	Likely benign	1
+chr5:g.45353129G>A	rs146123836	HCN1	1013253	missense_variant	missense_variant	L450F	28.3	0.722	0.9711	6.5838e-06	Uncertain significance	1
+chr5:g.45353134T>C	rs752944351	HCN1	582604	missense_variant	missense_variant	N448S	4.657	0.374	0.078	6.57903e-06	Likely benign	1
+chr5:g.45353259G>A	rs202140680	HCN1	2145520	intron_variant	intron_variant		2.762			2.64477e-05	Benign	1
+chr5:g.45461922T>A	rs1741169756	HCN1	1014058	missense_variant	missense_variant	D312V	33.0	0.929	0.9789		Uncertain significance	1
+chr5:g.45258986C>A	rs2111833509	HCN1	1677392	3_prime_UTR_variant	3_prime_UTR_variant						Uncertain significance	1
+chr5:g.45261941G>C		HCN1	3369711	missense_variant	missense_variant	R885G	23.4	0.524	0.3545		Uncertain significance	1
+chr5:g.45262056C>T	rs1744751166	HCN1	2788149	synonymous_variant	synonymous_variant		14.81				Likely benign	1
+chr5:g.45262099C>G	rs199887416	HCN1	978525	missense_variant	missense_variant	R832T	13.2	0.582	0.3432	6.57203e-06	Uncertain significance	1
+chr5:g.45262152G>A	rs2111838716	HCN1	1150854	synonymous_variant	synonymous_variant		8.643				Likely benign	1
+chr5:g.45262175T>C	rs1035068089	HCN1	1057468	missense_variant	missense_variant	T807A	12.8	0.314	0.0629	6.57929e-06	Uncertain significance	1
+chr5:g.45645373A>G	rs1745529939	HCN1	975705	missense_variant	missense_variant	W221R	26.0	0.937	0.9999		Likely benign	0
+chr5:g.45645615C>A	rs765966511	HCN1	530573	splice_region_variant	intron_variant;splice_region_variant						Likely benign	1

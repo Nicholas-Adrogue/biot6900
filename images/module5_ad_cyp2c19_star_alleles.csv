@@ -1,0 +1,4 @@
+rsid,allele,consequence,cadd_phred,revel,avi_phred,top_feature,gnomad_af,clinvar_sig
+rs4986893,"*3 (no function, stop)",stop_gained,35.0,,32.43,PROTEIN_TERMINATION,0.00250566,drug response
+rs4244285,"*2 (no function, splice)",synonymous_variant,5.686,,22.33,MERGED_SPLICING,0.167953,drug response
+rs12248560,"*17 (increased function, promoter)",upstream_gene_variant,3.031,,0.53,CACTUS_241_WAY,0.20012,Benign; other
